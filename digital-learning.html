@@ -1,0 +1,74 @@
+---
+layout: default_style
+title: Digital Learning
+---
+
+<section id="data-theme" class="section-global-wrapper">
+  <div class="container content-space">
+    <div class="row justify-content-center blog-post">
+      <h2> {{page.title}} </h2>
+    </div>
+
+    <div class="row margin-top-2">
+      <div class="col-md-12">
+        <div class="row pr-3 pl-3 blog-post">
+          <p class="text-center">
+            DESCRIPTION
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-12">
+        <h4> Research Line #1 </h4>
+        <div class="row pr-3 pl-3 blog-post">
+          <p>
+            Description
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-12">
+        <h4> Research Line #2 </h4>
+        <div class="row pr-3 pl-3 blog-post">
+          <p>
+            Description
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <h4 class="col-md-12 blog-post margin-top-2">People</h4>
+      <div class="col-md-12 margin-left-3">
+        {% include filter-people.html team1='cel' %}
+      </div>
+    </div>
+
+    <div class="row">
+      <h4 class="col-md-12 blog-post margin-top-2">Projects</h4>
+      <ul class="col-md-12">
+        {% for project in site.data.cel.projects %}
+        <li class="margin-left-3">
+          {% assign project_link = project.link | strip %}
+          {% if project_link == '' %}
+          <h5>{{project.title}}</h5>
+          {% else %}
+          <h5><a href="{{project.link}}" target="_blank"> {{project.title}}</a></h5>
+          {% endif %}
+          <p>{{project.description}}</p>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="row">
+      <h4 class="col-md-12 blog-post margin-top-2">Publications</h4>
+      <ul class="col-md-12">
+        <li class="margin-left-3">
+          List of publications
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</section>

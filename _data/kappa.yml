@@ -1,0 +1,23 @@
+projects:
+  - title: ENSURE – ExplaiNing SeqUences in REcommendations. 
+    description: PhD studentship funded via TU Delft Technology Fellowship.
+    link:
+  - title: NL4XAI – Interactive Natural Language Technology for Explainable Artificial Intelligence. 
+    description: A project funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Grant Agreement No. 860621.
+    link: https://nl4xai.eu/vacancies/
+  - title: Representing diverse views for polarized topics online. 
+    description: PhD studentship co-funded by IBM Benelux and CLICK_NL.
+    link:    
+  - title: Dandelion – A Conversational Crowd Computing Platform
+    description:
+    link: https://delftdandelion.com
+  - title: Campus Trainbot – Minting Stress Management Coaches During a Pandemic
+    description:
+    link:
+  - title: UNCAGE – Conversational Agents for Education
+    description:
+    link:
+  - title: SpeakUp! Conversational Agents for Health and Wellbeing
+    description:
+    link:
+   

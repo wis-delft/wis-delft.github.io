@@ -1,0 +1,143 @@
+---
+layout: default_style
+title: Crowd Computing & Human-Centered AI
+---
+
+<section id="{{page.team}}" class="section-global-wrapper">
+    <div class="container content-space">
+        <div class="row justify-content-center blog-post">
+            <h2>{{page.title}}</h2>
+        </div>
+
+        <div class="row margin-top-2">
+            <div class="col-md-12">
+                <div class="row pr-3 pl-3 blog-post">
+          
+                    We focus on core areas which are instrumental in developing the next generation of AI systems:
+                            <ul>    
+                                <li> Human-in-the-loop AI </li>
+                                <li> Human-AI interaction </li> 
+                                <li> User Modeling and Explainability </li>
+                            </ul> 
+                        
+                    Our work considers the computational role of humans for AI, cast as "AI by humans", and the
+                        interactional role of humans with AI systems, cast as, "AI for humans". As algorithmic decision-making becomes prevalent 
+                    across many sectors it is important to help users understand why certain decisions are proposed. 
+                    <br><br>
+                            <p style="border:3px; border-style:solid; border-color:#56A5EC; padding: 1em;">
+                            This research theme is a convergence of two research lines – "Epsilon" and "Kappa".
+                            The Human-in-the-loop AI and Human-AI interaction activities are jointly coordinated and led by Ujwal Gadiraju and Jie Yang. 
+                            The User Modeling and Explainability activities are coordinated and led by Nava Tintarev. </p>                  
+                          
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4>Human-in-the-loop AI</h4>
+
+                <div class="row pr-3 pl-3 blog-post">
+                    <div><p style="float: left; clear: left"><img src="https://images.unsplash.com/photo-1558862407-3b67923174cc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1349&q=80" width="200px" border="1px"  style="padding-right:10px;"></p>
+                         <p> Machine learning models have been criticized for the lack of robustness, fairness, and
+                        transparency.
+                        For models to learn comprehensive,
+                        fine-grained, and unbiased patterns, they have to be trained on a large number of high-quality
+                        data instances with the
+                        right distribution that is representative of real application scenarios. Creating such data is
+                        not only a long, laborious,
+                        and expensive process, but sometimes even impossible.
+                        In this theme, we analyze the fundamental computational challenges in the quest for robust,
+                        interpretable, and trustworthy AI systems.
+                        We argue that to tackle such fundamental challenges, research should explore a novel crowd
+                        computing paradigm where diverse and distributed crowds
+                        can contribute knowledge at the conceptual level.
+                        </p></div>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4>Human-AI Interaction</h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <div><p style="float: left; clear: left"><img src="https://images.unsplash.com/photo-1494869042583-f6c911f04b4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="200px" border="1px"  style="padding-right:10px;"></p>
+                    <p>In the light of recent advances in AI and the growing role of AI technologies in human-centered
+                        applications, a deeper exploration of interaction between humans and machines is the need of the hour.
+                        Within this theme of Human-AI interaction, we will explore and develop fundamental
+                        methods and techniques to harness the virtues of AI in a manner that is beneficial and useful to
+                        the society at large.
+                        From the interaction perspective, more robust and interpretable systems can help build trust and
+                        increase system uptake.
+                        As AI systems become more commonplace, people must be able to make sense of their encounters and
+                        interpret their interactions with such systems.
+                        </p></div>
+                </div>
+            </div>
+
+
+            <div class="col-md-12">
+                <h4>User Modeling & Explainability</h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <div><p style="float: left; clear: left"><img src="https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="200px" border="1px"  style="padding-right:10px;"></p>
+      
+                    <p>Explanations are needed when there is a large knowledge gap between human
+                        and AI or information systems, or when joint understanding
+                        is only implicit. This type of joint understanding is becoming increasingly important for
+                        example when news providers, and social media systems
+                        such as Twitter and Facebook, filter and rank the information that people see. To link the
+                        mental models of both systems and people our work
+                        develops ways to supply users with a level of transparency and control that is meaningful and
+                        useful to them. We develop methods for generating
+                        and interpreting rich meta-data that helps bridge the gap between computational and human
+                        reasoning (e.g., for understanding subjective concepts
+                        such as diversity and credibility). We also develop a theoretical framework for generating
+                        better explanations (as both text and interactive
+                        explanation interfaces), which adapts to a user and their context. To better understand the
+                        conditions for explanation effectiveness,
+                        we look at when to explain (e.g., surprising content, lean in/lean out, risk, complexity); and
+                        what to adapt to (e.g., group dynamics,
+                        personal characteristics of a user).
+                        </p></div>
+                </div>
+            </div>
+
+        </div>
+
+        <!--The list of people is AUTOMATICALLY computed-->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">People</h4>
+            <div class="col-md-12 margin-left-3">
+                {% include filter-people.html team1='kappa' team2='epsilon' %}
+            </div>
+        </div>
+
+        <!--The list of projects is automatically retrieved from _data/kappa.yml -->
+        <!--Please fill in the yml file with the data about your projects. -->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">Projects</h4>
+            <ul class="col-md-12">
+                {% for project in site.data.kappa.projects %}
+                <li class="margin-left-3">
+                    {% assign project_link = project.link | strip %}
+                    {% if project_link == '' %}
+                    <h5>{{project.title}}</h5>
+                    {% else %}
+                    <h5><a href="{{project.link}}" target="_blank"> {{project.title}}</a></h5>
+                    {% endif %}
+                    <p>{{project.description}}</p>
+                </li>
+                {% endfor %}
+            </ul>
+
+        </div>
+
+
+        <!--Create link to PURE to retrieve the publications -->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">Publications</h4>
+            <ul class="col-md-12">
+                <li class="margin-left-3">
+                    List of publications
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+

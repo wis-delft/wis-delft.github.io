@@ -1,0 +1,57 @@
+{% assign filtered_people_1 = site.people | where:'team', include.team1 %}
+{% assign filtered_people = filtered_people_1 %}
+
+{% if include.team2 %}
+{% assign filtered_people_2 = site.people | where:'team', include.team2 %}
+{% assign filtered_people = filtered_people_1 | concat: filtered_people_2 %}
+{% endif %}
+
+{% assign grouped_people = filtered_people | uniq | group_by: "theme-filter" | sort: "name", "last" %}
+{% assign counter = 0 %}
+
+{% for group in grouped_people %}
+{% assign sorted_people = group.items | sort: "name" %}
+
+{% for people in sorted_people %}
+
+{% if counter == 0 %}
+<div class="row">
+    {% endif %}
+
+    <div class="col-md-4">
+        <a href="{{site.baseurl}}{{people.url}}">
+        <div class="blockquote-box blockquote-people animated clearfix">
+            <div class="square pull-left">
+                <img src="{{site.baseurl}}/assets/img/people/{{people.image}}" class="person-image" alt="Feature-img">
+            </div>
+            <h4>
+                {{people.name}}
+            </h4>
+            <p>
+                {{people.role}}
+            </p>
+            <a class="pr-2" href="{{people.twitter}}" target="_blank" title="Twitter">
+                <i class="fa fa-lg fa-twitter"></i>
+            </a>
+            <a class="pr-2" href="{{people.linkedin}}"
+               target="_blank" title="LinkedIn">
+                <i class="fa fa-lg fa-linkedin"></i>
+            </a>
+            <a class="" href="{{people.github}}" target="_blank" title="GitHub">
+                <i class="fa fa-lg fa-github"></i>
+            </a>
+        </div>
+    </div>
+
+    {% if counter == 2 %}
+</div>
+{% assign counter = -1 %}
+{% endif %}
+
+{% assign counter = counter | plus:1 %}
+{% endfor %}
+
+{% if counter > 0 and forloop.last %}
+</div>
+{% endif %}
+{% endfor %}

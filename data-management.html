@@ -1,0 +1,89 @@
+---
+layout: default_style
+title: Data Management & Engineering
+---
+
+<section id="data-theme" class="section-global-wrapper">
+    <div class="container content-space">
+        <div class="row justify-content-center blog-post">
+            <h2> {{page.title}} </h2>
+        </div>
+
+        <div class="row margin-top-2">
+            <div class="col-md-12">
+                <div class="row pr-3 pl-3 blog-post">
+                    <p class="text-center"> Data Management is one of the central challenges in developing
+                        modern software systems. The need for more sophisticated Data
+                        Management is even more emphasized in the current times of Artificial
+                        Intelligence and Big Data-based systems which have even more demanding
+                        data requirements than traditional Data Management had to consider.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4> Data Engineering</h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> In Data Engineering, we focus on preparing data for its deployment or usage
+                        in a complex AI/data-driven system.
+                        This covers for example discovering data, cleaning data, transforming data, or integrating data
+                        from heterogenous
+                        sources. Also, there is a focus on (domain-specific) meta-data creation and management.
+                        Furthermore, aspects of data
+                        biases and potentially arising societal issues like misrepresentation and unfairness become
+                        focus area. Data Engineering
+                        topics are often seen in the context of their application domains, like Digital Humanities,
+                        medicine, but also business
+                        application like banking.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4> Scalable Data Management </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> In Scalable Data Management, the focus is on how to cope with the
+                        ever-increasing demand for storage and processing
+                        power by scaling data operations. This covers for example methods for stream-processing but also
+                        flexible distribution
+                        schemes or the deployment of scalable AI-models.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <h4 class="col-md-12 blog-post margin-top-2">People</h4>
+            <div class="col-md-12 margin-left-3">
+                {% include filter-people.html team1='delta' %}
+            </div>
+        </div>
+
+        <div class="row">
+            <h4 class="col-md-12 blog-post margin-top-2">Projects</h4>
+            <ul class="col-md-12">
+                {% for project in site.data.delta.projects %}
+                <li class="margin-left-3">
+                    {% assign project_link = project.link | strip %}
+                    {% if project_link == '' %}
+                    <h5>{{project.title}}</h5>
+                    {% else %}
+                    <h5><a href="{{project.link}}" target="_blank"> {{project.title}}</a></h5>
+                    {% endif %}
+                    <p>{{project.description}}</p>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="row">
+            <h4 class="col-md-12 blog-post margin-top-2">Publications</h4>
+            <ul class="col-md-12">
+                <li class="margin-left-3">
+                    List of publications
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</section>

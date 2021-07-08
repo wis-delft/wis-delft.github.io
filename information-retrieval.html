@@ -1,0 +1,99 @@
+---
+layout: default_style
+title: Information Retrieval
+---
+
+<section id="{{page.team}}" class="section-global-wrapper">
+    <div class="container content-space">
+        <div class="row justify-content-center blog-post">
+            <h2> {{page.title}} </h2>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row pr-3 pl-3 blog-post">
+                    <p class="text-center"> Our work brings together research expertise in information retrieval (IR), natural language processing and data science.
+                        We focus on core IR topics such as collaborative search, conversational search and data-hungry ranking models.
+                        We also focus on the application of IR to various domains, most prominently the educational domain.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                    <h4> Search as learning </h4>
+
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> With this topic, we aim at improving the search platforms to better enable people to learn whilst searching. </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                    <h4> Collaborative search </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> We move from the paradigm of small-group collaborative searching to large-group collaborative searching.  </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4> Conversational search </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> With this research topic, we investigate how to perform searching via a conversation with a conversational agent.  </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4> Information Retrieval for FinTech </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> We investigate methods for rule extraction from regulatory documents.  </p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <h4> Neural Information Retrieval </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> We are interested in researching and dissecting neural IR approaches.   </p>
+                </div>
+            </div>
+        </div>
+
+        <!--The list of people is AUTOMATICALLY computed - DO NOT MODIFY-->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">People</h4>
+            <div class="col-md-12 margin-left-3">
+                {% include filter-people.html team1='lambda' %}
+            </div>
+        </div>
+
+        <!--The list of projects is automatically retrieved from _data/lambda.yml -->
+        <!--Please fill in the yml file with the data about your projects. -->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">Projects</h4>
+            <ul class="col-md-12">
+                {% for project in site.data.lambda.projects %}
+                <li class="margin-left-3">
+                    {% assign project_link = project.link | strip %}
+                    {% if project_link == '' %}
+                    <h5>{{project.title}}</h5>
+                    {% else %}
+                    <h5><a href="{{project.link}}" target="_blank"> {{project.title}}</a></h5>
+                    {% endif %}
+                    <p>{{project.description}}</p>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+
+        <!--Create link to PURE to retrieve the publications -->
+        <div class="row">
+            <h4 class="col-md-12 blog-post">Publications</h4>
+            <ul class="col-md-12">
+                <li class="margin-left-3">
+                    List of publications
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</section>
