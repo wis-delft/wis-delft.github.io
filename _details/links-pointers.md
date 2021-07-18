@@ -31,11 +31,13 @@ details: 1
 
 ## Links and pointers
 
+**Pro Vice Rector Magnificus Artificial Intelligence, Data and Digitalisation** (PVR AI) at Delft University of Technology (TU Delft).
+
+**Leading** the TU Delft activities in the field of AI, data and digitalisation, for education, for research and valorisation, and for relevant support.
+
 **Full professor** of Web Information Systems (WIS) at the Software Technology (ST) department at Delft University of Technology (TU Delft).
 
-**Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science in Delft, with a focus on the role of Web data in the engineering of Web-based information systems. Also, scientific director of Delft Data Science (DDS), TU Delft’s coordinating initiative in the field of Data Science, and TU Delft lead for AI, Data & Digitalisation.
-
-**Serving** as Director of Education at the faculty of Electrical Engineering, Mathematics and Computer Science at TU Delft.
+**Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science in Delft, with a focus on the role of Web data in the engineering of Web-based information systems. 
 
 ##### Connect:
 
