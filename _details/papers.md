@@ -31,8 +31,17 @@ details: 1
 
 ## Papers
 
+#### 2021
+
+- **Managing Bias and Unfairness in Data For Decision Support: A Survey of Machine Learning and Data Engineering Approaches to Identify and Mitigate Bias and Unfairness within Data Management and Analytics Systems** 
+A. Balayn, C. Lofi, G.J. Houben
+in: The VLDB Journal, 2021, p. 1-30, Springer.
+
 #### 2020
 
+- **Conversational Crowdsourcing**
+S. Qiu, U. Gadiraju, A.Bozzon, G.J. Houben
+in: Crowd Science 2020, Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation, Neural Information Processing Systems (NeurIPS 2020), December 11, 2020, p. 1-6, CEUR Workshop Proceedings.
 - **Analyzing Workers Performance in Online Mapping Tasks Across Web Mobile and Virtual Reality Platforms**
   G. van Alphen, S. Qiu, A.Bozzon, G.J. Houben
   in: HCOMP 2020, Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing, Hilversum, the Netherlands, October 26-29, 2020, AAAI.
