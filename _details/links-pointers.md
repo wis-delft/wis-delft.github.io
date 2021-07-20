@@ -37,7 +37,7 @@ details: 1
 
 **Full professor** of Web Information Systems (WIS) at the Software Technology (ST) department at Delft University of Technology (TU Delft).
 
-**Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science in Delft, with a focus on the role of Web data in the engineering of Web-based information systems. 
+**Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science in Delft, with a focus on data-based information systems on the Web.
 
 ##### Connect:
 
