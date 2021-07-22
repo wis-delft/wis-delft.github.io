@@ -44,7 +44,5 @@ national and international co-operation on this theme.
 of Technology (TU Delft).
 
 **Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science
-in Delft, with a focus on the role of Web data in the engineering of Web-based information systems.
+in Delft, with a focus on data-based information systems on the Web.
 
-**Serving** as Director of Education at the faculty of Electrical Engineering, Mathematics and Computer Science 
-at TU Delft.
