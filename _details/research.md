@@ -51,7 +51,7 @@ Currently, my main research area is engineering and science of the Web, in parti
 - Information Retrieval
 - User Modeling & Explainability
 
-**More info:** For more information, further details on the research activities by the WIS team are listed at [Research](http://www.wis.ewi.tudelft.nl/?id=297) or follow us on Twitter (@wisdelft).
+**More info:** For more information, further details on the research activities by the WIS team are listed at the [WIS](http://www.wis.ewi.tudelft.nl/?id=297) pages or follow us on Twitter (@wisdelft).
 
 #### Journals and conferences
 
