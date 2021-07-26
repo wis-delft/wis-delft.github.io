@@ -51,7 +51,7 @@ Currently, my main research area is engineering and science of the Web, in parti
 - Information Retrieval
 - User Modeling & Explainability
 
-**More info:** Further details on the research activities by the WIS team are listed at [Research](http://www.wis.ewi.tudelft.nl/?id=297).
+**More info:** For more information, further details on the research activities by the WIS team are listed at [Research](http://www.wis.ewi.tudelft.nl/?id=297) or follow us on Twitter (@wisdelft).
 
 #### Journals and conferences
 
@@ -111,7 +111,3 @@ Some interesting events I am/was involved in:
 - [LUPAS 2010(@ ESWC 2010)](http://www.personal-reader.de/lupas/) - International Workshop on Linking of User Profiles and Applications in the Social Semantic Web
 - [WABBWUAS 2010 (@ UMAP 2010)](http://adapt2.sis.pitt.edu/wiki/WABBWUAS) - Workshop on Architectures and Building Blocks of Web-Based User-Adaptive Systems
 
-#### Web Information Systems group and Education
-
-For more information on the group at TU Delft, including information on vacancies or education, have a look at the page
-of the WIS group [wisdelft.nl](wisdelft.nl) or follow us on Twitter (@wisdelft).
