@@ -21,11 +21,15 @@ layout: default_style
                 <div class="row justify-content-center margin-top-4">
                     <h6><a class="col-lg-2" href="{{site.baseurl}}/people/{{page.back}}#about">About</a></h6>
                     {% unless page.filter > 0 %}
-                    {% for tabs in site.details %}
-                    <h6><a class="col-lg-2" href="{{site.baseurl}}{{tabs.url}}">{{tabs.title}}</a></h6>
+                    {% assign details = site.details | sort: 'order' %}
+                    {% for tabs in details %}
+                    <h6><a class="col-lg-2" href="{{site.baseurl}}{{tabs.url}}">{{ tabs.page_title }}</a></h6>
+
                     {% endfor %}
                     {% endunless %}
+                    {% if page.filter > 0 %}
                     <h6><a class="col-lg-2" href="{{site.baseurl}}/people/{{page.back}}#publications">Publications</a>
+                    {% endif %}
                     </h6>
                 </div>
             </div>
@@ -35,6 +39,7 @@ layout: default_style
             <div class="col-lg-9">
                 <div class="row pr-4 person">
                     {{page.content}}
+
                     {% unless page.details > 0 %}
                     <h2 id="publications">Publications</h2>
                     <div id="publicationlist">
@@ -71,9 +76,11 @@ layout: default_style
                     {% endunless %}
                     {% endfor %}
 
+                    {% if page.filter > 0 %}
                     <p>
                         <b>Research theme: </b> {{abc}}
                     </p>
+                    {% endif %}
                     <p><b>Visiting address: </b> <br/>
                         <a href="{{site.building_url}}" target="_blank">{{site.building}}</a> <br/>
                         {{ room }} <br/>

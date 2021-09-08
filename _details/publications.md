@@ -26,23 +26,7 @@ email: G.J.P.M.Houben@tudelft.nl
 office: Room - 840 West 4rd floor
 back: geert-jan.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
-details: 1
-
+details: 0
+order: 7
+page_title: Publications
 ---
-
-## About
-**Pro Vice Rector Magnificus Artificial Intelligence, Data and Digitalisation**
-(PVR AI) at Delft University of Technology (TU Delft).
-
-**Leading** the TU Delft activities in the field of AI, data and digitalisation, 
-for education, for research and valorisation, and for relevant support. 
-This includes the establishment of TU Delft AI Labs to promote cross-fertilisation between 
-AI experts and scientists who use AI in their research. It also includes the representation of TU Delft in regional,
-national and international co-operation on this theme.
-
-**Full professor** of Web Information Systems (WIS) at the Software Technology (ST) department at Delft University 
-of Technology (TU Delft).
-
-**Leading** a research group on Web Information Systems (WIS) and involved in the education in Computer Science
-in Delft, with a focus on data-based information systems on the Web.
-
