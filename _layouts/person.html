@@ -68,7 +68,7 @@ layout: default_style
                     {% when 'lambda' %}
                     {% assign abc = abc | append: site.lambda %}
                     {% else %}
-                    {% assign abc = abc | append: site.lambda %}
+                    {% assign abc = abc %}
                     {% endcase %}
 
                     {% unless forloop.first == forloop.last or forloop.last %}

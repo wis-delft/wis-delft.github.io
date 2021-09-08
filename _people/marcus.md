@@ -22,13 +22,11 @@ image: marcus.specht.jpg
 email: M.M.Specht@tudelft.nl
 # Room number only (Room: 840 West 4rd floor)
 office:
+back: marcus.html
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/a8816dec-9269-4a05-b727-59b277c41f8d
 ---
 
 ## About
 
-[comment]: <> (Write a few or more words about yourself.)
 
-## Publications
-
-[comment]: <> (You don't have to write anything here, it will be automatically filled. )
 
