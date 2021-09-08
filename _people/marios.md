@@ -24,7 +24,7 @@ email: M.Fragkoulis@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 740 West 4th floor
 back: marios.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/e7f2d020-c11f-4d61-be24-ba4c40ee6bb9
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/e7f2d020-c11f-4d61-be24-ba4c40ee6bb9
 
 ---
 

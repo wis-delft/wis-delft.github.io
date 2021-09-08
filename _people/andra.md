@@ -25,7 +25,7 @@ email: a.ionescu-3@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: Room - 180 East 4rd floor
 back: andra.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/6c249f57-c88f-45f5-85ff-55b0bfed4c8e
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6c249f57-c88f-45f5-85ff-55b0bfed4c8e
 
 ---
 

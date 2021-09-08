@@ -24,7 +24,7 @@ email: t.a.draws@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 East 4th floor
 back: timdraws.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/1896f280-cf88-4c01-809b-da0ffa0cee4e
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/1896f280-cf88-4c01-809b-da0ffa0cee4e
 
 ---
 

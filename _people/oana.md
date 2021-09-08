@@ -11,7 +11,7 @@ github: https://github.com/oana-inel
 image: Oana.jpg
 email: o.inel@tudelft.nl 
 back: oana.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/24369003-f802-43ff-8a17-35b52d790219
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/24369003-f802-43ff-8a17-35b52d790219
 
 ---
 

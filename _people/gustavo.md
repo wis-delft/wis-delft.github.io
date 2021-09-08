@@ -24,7 +24,7 @@ email: G.Penha-1@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 040 West 4th floor
 back: gustavo.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/c28be04d-07e5-474e-a3b0-48b8561c3cba
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/c28be04d-07e5-474e-a3b0-48b8561c3cba
 
 ---
 

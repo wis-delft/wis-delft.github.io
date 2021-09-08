@@ -16,7 +16,7 @@ email: n.tintarev@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: 
 back: Nava.html
-publications_link:
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/dd50243e-1260-4c21-af61-4034c680b020
 
 ---
 

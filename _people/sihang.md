@@ -11,7 +11,7 @@ github: https://github.com/qiusihang
 image: sihang.qiu.png
 email: s.qiu-1@tudelft.nl
 back: sihang.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/2711472e-6867-4429-b4a1-ab5e0fecb178
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/2711472e-6867-4429-b4a1-ab5e0fecb178
 
 ---
 

@@ -24,7 +24,7 @@ email: s.sharifinoorian@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 West 4th floor
 back: Shahin_Sharifi.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/cc9e9819-8440-47ed-8611-392a0afc3831
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/cc9e9819-8440-47ed-8611-392a0afc3831
 
 ---
 

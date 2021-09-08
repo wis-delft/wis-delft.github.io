@@ -24,7 +24,7 @@ email: s.najafian@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 920 West 4rd floor
 back: Shabnam.html
-publications_link:
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/3724d7a0-0c3f-445d-af7a-33341ad8cda8
 
 ---
 

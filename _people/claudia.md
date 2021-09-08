@@ -23,7 +23,7 @@ email: c.hauff@tudelft.nl
 # Room number only (Room: 840 West 4rd floor)
 office: Room 4.E.100 East 4rd floor
 back: claudia.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/8ff6048a-bb6c-4611-8b2d-229336c01450
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/8ff6048a-bb6c-4611-8b2d-229336c01450
 
 ---
 ## About 

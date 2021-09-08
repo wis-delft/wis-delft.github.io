@@ -24,7 +24,7 @@ email: i.p.samiotis@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 920 West 4th floor
 back: Samiotis.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/8e6cd969-4e45-4aa2-a83b-c396ea19ce5f
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/8e6cd969-4e45-4aa2-a83b-c396ea19ce5f
 
 ---
 

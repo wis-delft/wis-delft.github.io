@@ -24,7 +24,7 @@ email: a.bozzon@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: Room 900 West 4rd floor
 back: alessandro.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/cf21407c-8c4b-4ddd-b5f4-d68b9932b230
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/cf21407c-8c4b-4ddd-b5f4-d68b9932b230
 ---
 
 ## About

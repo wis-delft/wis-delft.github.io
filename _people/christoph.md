@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
 image: Christoph Lofi (WIS).jpg
 email: c.lofi@tudelft.nl
 back: christoph.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
 ## About 

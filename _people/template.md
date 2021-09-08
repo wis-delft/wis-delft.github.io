@@ -26,7 +26,7 @@ email:
 office: 
 # The name of the file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
 back: 
-# Go to https://purexml.ewi.tudelft.nl 
+# Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link
 publications_link: 

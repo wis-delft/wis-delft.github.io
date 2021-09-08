@@ -11,7 +11,7 @@ github: https://github.com/ujwalgadiraju
 image: Ujwal Gadiraju.jpg
 email: U.K.Gadiraju@tudelft.nl
 back: ujwal.html
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/f1a97568-c63e-4703-89c2-8824d67d3e4f
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/f1a97568-c63e-4703-89c2-8824d67d3e4f
 
 ---
 ## About
