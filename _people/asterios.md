@@ -22,5 +22,5 @@ Before joining TU Delft, Asterios spent a year with the SAP Innovation Center in
 
 Asterios received the ACM SIGMOD Research Highlights Award in 2016 and the  Best Paper Award at EDBT 2019.
 
-More information and a full list of publications can be found in his personal website: [asterios.katsifodimos.com].
+More information and a full list of publications can be found in his personal website: [asterios.katsifodimos.com](http://asterios.katsifodimos.com).
 
