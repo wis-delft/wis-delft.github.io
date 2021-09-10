@@ -291,10 +291,11 @@ address {
 }
 
 .side-left {
-    background: #528C7C;
+    background: #DFF0D8;
     box-shadow: 3px grey;
-    color: white;
+    color: #212529;
     letter-spacing: .9px;
+    max-height: 65rem;
 }
 
 /*@media (min-width: 800px) {*/
@@ -982,4 +983,13 @@ div.person > p {
     right: 2vw;
     background-color: #00A6D6;
     color: white;
+}
+
+.news li {
+    margin-bottom: 1vh;
+}
+
+.news {
+    overflow: auto;
+    max-height: 90%;
 }
