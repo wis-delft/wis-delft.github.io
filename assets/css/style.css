@@ -409,12 +409,14 @@ p.blog-text {
 }
 
 .office-logo {
-    width: 80%;
+    margin-bottom: -2vh;
+    margin-top: -1vh;
 }
 
 @media (max-width: 768px) {
     .office-logo {
-        width: 80%;
+        margin-bottom: -2vh;
+        margin-top: -1vh;
     }
 }
 
@@ -906,6 +908,10 @@ footer h3 {
 
 .margin-top-4{
     margin-top: 4vh;
+}
+
+.margin-bottom-2 {
+    margin-bottom: 2vh;
 }
 
 #teaching {
