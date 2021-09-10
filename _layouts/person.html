@@ -56,31 +56,6 @@ layout: default_style
                 </div>
 
                 <div class="row margin-top-2">
-                    {% assign abc = '' %}
-                    {% for team in page.team %}
-                    {% case team %}
-                    {% when 'delta' %}
-                    {% assign abc = abc | append: site.delta %}
-                    {% when 'kappa' %}
-                    {% assign abc = abc | append: site.kappa %}
-                    {% when 'epsilon' %}
-                    {% assign abc = abc | append: site.kappa %}
-                    {% when 'lambda' %}
-                    {% assign abc = abc | append: site.lambda %}
-                    {% else %}
-                    {% assign abc = abc %}
-                    {% endcase %}
-
-                    {% unless forloop.first == forloop.last or forloop.last %}
-                    {% assign abc = abc | append: " and " %}
-                    {% endunless %}
-                    {% endfor %}
-
-                    {% if page.filter > 0 %}
-                    <p>
-                        <b>Research theme: </b> {{abc}}
-                    </p>
-                    {% endif %}
                     <p><b>Visiting address: </b> <br/>
                         <a href="{{site.building_url}}" target="_blank">{{site.building}}</a> <br/>
                         {{ room }} <br/>
