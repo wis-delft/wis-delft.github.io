@@ -1,16 +1,7 @@
-{% assign filtered_people_1 = site.people | where:'team', include.team1 %}
-{% assign filtered_people = filtered_people_1 %}
-
-{% if include.team2 %}
-{% assign filtered_people_2 = site.people | where:'team', include.team2 %}
-{% assign filtered_people = filtered_people_1 | concat: filtered_people_2 %}
-{% endif %}
-
-{% assign grouped_people = filtered_people | uniq | group_by: "theme-filter" | sort: "name", "last" %}
 {% assign row_counter = 0 %}
 {% assign column_counter = 0 %}
 
-{% for group in grouped_people %}
+{% for group in include.members %}
 <!--        Sort the items by the name of the person-->
 {% assign sorted_people = group.items | sort: "name" %}
 
