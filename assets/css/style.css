@@ -34,6 +34,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 .section-global-wrapper {
     position: relative;
     min-height: inherit;
+    padding: 0 2vh;
 }
 
 .section-global-wrapper:before,
@@ -161,11 +162,36 @@ h3.col-xs-12 {
     color: white;
 }
 
-body {
-    font-size: 15px;
-    line-height: 24px;
-    background: #F8FAFF;
-    min-height: 62vh;
+@media (min-width: 1450px) {
+
+    body {
+        font-size: 15px;
+        line-height: 24px;
+        background: #F8FAFF;
+        min-height: 60rem;
+        position: relative;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 1440px){
+
+    body {
+        font-size: 15px;
+        line-height: 24px;
+        background: #F8FAFF;
+        min-height: 55rem;
+        position: relative;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 950px) {
+    body {
+        font-size: 15px;
+        line-height: 24px;
+        background: #F8FAFF;
+        min-height: 30rem;
+        position: relative;
+    }
 }
 
 a {
@@ -296,6 +322,7 @@ address {
     color: #212529;
     letter-spacing: .9px;
     max-height: 65rem;
+    margin-bottom: 2vh
 }
 
 /*@media (min-width: 800px) {*/
@@ -412,12 +439,23 @@ p.blog-text {
 .office-logo {
     margin-bottom: -2vh;
     margin-top: -1vh;
+    width: 100%;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 766px) and (max-width: 990px) {
     .office-logo {
-        margin-bottom: -2vh;
+        margin-bottom: -1vh;
         margin-top: -1vh;
+
+    }
+}
+
+@media (max-width: 765px) {
+    .office-logo {
+        margin-bottom: -1vh;
+        margin-top: -1vh;
+        width: 50%;
+        margin-left: 25%;
     }
 }
 
@@ -503,18 +541,22 @@ p.blog-text {
     margin-bottom: 30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .services-section {
         padding-top: 40px;
         padding-bottom: 40px;
     }
 
-    .services-section .services-group {
-        margin-bottom: 50px;
-    }
+    /*.services-section .services-group {*/
+    /*    margin-bottom: 50px;*/
+    /*}*/
 
     .services-section .services-row-tail {
         margin-top: 0;
+    }
+
+    .services-section .services-title {
+        font-size: 1.2rem;
     }
 }
 
@@ -567,7 +609,8 @@ footer {
     left: 0;
     right: 0;
     background: black;
-    bottom: 0px;
+    bottom: 0;
+    position: relative;
 }
 
 footer h3 {
@@ -934,7 +977,7 @@ footer h3 {
 .services-more {
     bottom: 0;
     position: absolute;
-    margin-left: 30%;
+    /*margin-left: 30%;*/
 }
 
 #contact-map {
@@ -992,4 +1035,19 @@ div.person > p {
 .news {
     overflow: auto;
     max-height: 90%;
+}
+
+@media (min-width: 760px) {
+    #rt-dt {
+        margin-left: 0.5vw;
+    }
+
+    #rt-cc {
+        margin-left: .25vw;
+        margin-right: .25vw;
+    }
+
+    #rt-ir {
+        margin-right: .5vw;
+    }
 }
