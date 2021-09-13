@@ -17,7 +17,6 @@ title: Team
 <!--    items = the members as objects (all the fields from the .md files in the _people folder) and-->
 <!--    size = the number of items -->
     {% assign grouped_people = site.people | group_by: "filter" | sort: "name" %}
-    {% assign counter = 0 %}
     {% assign row_counter = 0 %}
     {% assign column_counter = 0 %}
 
