@@ -535,6 +535,7 @@ p.blog-text {
 
 .services-section .services-title {
     margin-bottom: 15px;
+    align-self: center;
 }
 
 .services-section .services-desc {
@@ -546,10 +547,6 @@ p.blog-text {
         padding-top: 40px;
         padding-bottom: 40px;
     }
-
-    /*.services-section .services-group {*/
-    /*    margin-bottom: 50px;*/
-    /*}*/
 
     .services-section .services-row-tail {
         margin-top: 0;

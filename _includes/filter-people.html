@@ -15,7 +15,7 @@
 <!--        we show 1 member for row. To accommodate all the changes, we make a row have 6 children, which based on the-->
 <!--        screen size will display the correct amount. Therefore, the row_counter will reset at 5.-->
 {% if row_counter == 0 %}
-<div class="row row-margin-bottom">
+<div class="row">
     {% endif %}
 
     <!--        We keep a column counter to set the animation type, although for medium screens when a row has only 2 members,-->
@@ -71,6 +71,7 @@
                 </a>
                 {% endunless %}
             </div>
+        </a>
     </div>
 
     <!--        We close the div after 6 columns (0 to 5), although 3, 2 or 1 are displayed in a row. -->
