@@ -15,18 +15,21 @@ filter: 1
 theme-filter: 1
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
 team: ['cel']
-linkedin:
-twitter:
+linkedin: 
+twitter: https://twitter.com/marcuspecht
 github:
 image: marcus.specht.jpg
 email: M.M.Specht@tudelft.nl
 # Room number only (Room: 840 West 4rd floor)
-office:
+office: 2.E.360
 back: marcus.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/a8816dec-9269-4a05-b727-59b277c41f8d
 ---
 
 ## About
+
+Prof. Dr. Marcus Specht is Professor for Digital Education at the Technical University of Delft and Director of the Leiden-Delft-Erasmus Center for Education and Learning. He received his Diploma in Psychology in 1995 and a Dissertation from the University of Trier in 1998 on adaptive information technology. From 2001 he headed the department "Mobile Knowledge" at the Fraunhofer Institute for Applied Information Technology (FIT). From 2005 to 2018 he was Professor for Learning Technologies at the Open Universiteit Nederland and head of the Learning Innovation Lab. His research focus is on Computational Thinking, Learning Analytics, AI in Education, and Virtual and Augmented Reality for Education. Prof. Specht is an Apple Distinguished Educator and was President (2013-2015) of the International Association of Mobile Learning.
+ 
 
 
 

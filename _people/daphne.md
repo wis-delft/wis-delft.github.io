@@ -10,7 +10,7 @@ name: Daphne Stephan
 # Research Engineer - 6
 # Guest Researcher - 7
 # Secretary - 8
-role:
+role: Secretary
 filter: 8
 theme-filter: 8
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
@@ -21,7 +21,7 @@ github:
 image: Daphne.jpg
 email:
 # Room number only (Room: 840 West 4rd floor)
-office:
+office: 820 West 4rd floor
 back: daphne.html
 ---
 

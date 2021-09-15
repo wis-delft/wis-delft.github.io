@@ -36,6 +36,7 @@
     {% endif %}
 
     <div class="col-lg-4 col-md-6">
+        {% if people.filter < 8 %}
         <a href="{{site.baseurl}}{{people.url}}">
             <div class="blockquote-box blockquote-people animated {{animationType}} clearfix">
                 <div class="square pull-left">
@@ -49,6 +50,7 @@
                     {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
                 </p>
 
+                {% if people.filter < 8 %}
                 {% assign empty_twitter = people.twitter | strip %}
                 {% unless empty_twitter == '' %}
                 <a class="pr-2" href="{{people.twitter}}" target="_blank" title="Twitter">
@@ -70,8 +72,30 @@
                     <i class="fa fa-lg fa-github"></i>
                 </a>
                 {% endunless %}
+                {% endif %}
+
             </div>
         </a>
+        {% else %}
+        <div class="blockquote-box blockquote-people animated {{animationType}} clearfix">
+            <div class="square pull-left">
+                <img src="{{site.baseurl}}/assets/img/people/{{people.image}}" alt="Feature-img" class="person-image">
+            </div>
+            <h4>
+                {{people.name}}
+            </h4>
+
+            <p>
+                {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
+            </p>
+
+            <p>
+                Room - {{people.office}}
+            </p>
+
+        </div>
+        {% endif %}
+
     </div>
 
     <!--        We close the div after 6 columns (0 to 5), although 3, 2 or 1 are displayed in a row. -->
