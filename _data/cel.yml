@@ -1,4 +1,34 @@
 projects:
-  - title:
-    description:
+  - title: Customizable learning analytics dashboards
+    description: This project aims to understand how learners perceive and use dashboards so that we can build designs that fit learners’ needs
+    link: https://c.spotler.com/ct/m11/k1/n0tlJBfBaYvYjvDRYdndncYnFKQaaAcTz0sIUvegeM_OHHQ_HHhlhVjVamKtmzwA/5FMTrfVr7e6ryT8
+  - title: Learning analytics for goal-setting in online education
+    description: In this project we explore how learning analytics can be used to support self-regulated learning in online learning environments
+    link:
+  - title: Multimodal learning analytics in CSCL
+    description: MMLA in CSCL investigates the collaborative process and the learning outcome using multimodal learning analytics (MMLA) in a CSCL (computer-supported collaborative learning) practice e.g., knowledge building activities
+    link:
+  - title: EdX Log-data analysis and Dashboard tool
+    description: Learning analytics can support teachers by providing statistics based on the data traces that students generate when interacting with online learning environments. MOOC platforms generate vast amounts of learner data, but it’s the teacher’s responsibility to obtain, prepare and analyse this data. ELAT is a browser-based, local processing tool that attempts to minimize the first two, so teachers and researchers can focus on analysis.
+    link:
+  - title: Multimodal feedback loop design for sustained attention.
+    description: This project looks at diverse computer vision-based indicators of sustained attention in computer-mediated learning scenarios.
+    link:
+  - title: Learning from reading code.
+    description: This project investigates programming education from a natural language perspective.
+    link:
+  - title: Formative assessment of computational thinking.
+    description: With the vision to further promote CT, in this project, we plan to investigate the importance of CT in Higher Education, explore the relationship between CT skills and programming skills, build a model to formatively assess learners’ CT skills, identify automatable components, develop formative assessment system to enhance students’ CT competences.
+    link:
+  - title: Minecraft
+    description: The goal of the Minecraft Virtual Campus is to boost social presence among TU Delft students and (re)familiarise them with their campus in a fun and engaging way.
+    link:
+  - title: Virtual reality and collaborative learning
+    description: In this project we are studying how Virtual Reality (VR) can affect processes of Collaborative Learning in projects that focus on development.
+    link:
+  - title: Hololearn
+    description: HoloLearn (Holographic Learning) project aims to stimulate richer social interactions in online/distance education between students and teachers by making use of holograms at TU Delft.
+    link:
+  - title: Educational networks and communities in the energy sector
+    description: This project is aiming to understand the educational networks and communities, raise awareness about these networks and support them to grow.
     link:
