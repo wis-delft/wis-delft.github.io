@@ -1023,6 +1023,7 @@ div.person > p {
     right: 2vw;
     background-color: #00A6D6;
     color: white;
+    z-index: 1;
 }
 
 .news li {
@@ -1047,4 +1048,24 @@ div.person > p {
     #rt-ir {
         margin-right: .5vw;
     }
+}
+
+#not-found {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    min-height: inherit;
+    flex-wrap: wrap;
+}
+
+#not-found-h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.width-full {
+    width: 100%;
 }
