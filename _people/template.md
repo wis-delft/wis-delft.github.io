@@ -1,5 +1,5 @@
 ---
-# Your full name (Firstname, lastname)
+# Your full name (Firstname, Lastname)
 name: 
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
@@ -19,7 +19,7 @@ filter:
 # same as filter
 theme-filter: 
 
-# choose one or more teams from the following list: delta, kappa, epsilon, lambda, cel
+# choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
 team: []
 
 # provide social URLs (if any)
@@ -28,7 +28,8 @@ twitter:
 github: 
 
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
-# write the exact name of the image as it appears on GitHub
+# if your image doesn't exist, upload it here: https://drive.google.com/drive/u/0/folders/1OXa7z4Oj7gzIQ_g26G8RX2a5G454HvjA 
+# write the exact name of the image as it appears on GitHub or Drive
 image: 
 
 # the TUD email address
@@ -42,7 +43,7 @@ back:
 
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
-# generate url and copy the link in the publications_link
+# generate url and copy the link in the publications_link field below
 publications_link: 
 
 ---

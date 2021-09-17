@@ -977,6 +977,18 @@ footer h3 {
     /*margin-left: 30%;*/
 }
 
+@media (min-width: 768px) and (max-width: 1020px) {
+    .services-more {
+        margin-bottom: 0.5vh;
+    }
+}
+
+@media (max-width: 767px)  {
+    .services-more {
+        margin-bottom: 0.25vh;
+    }
+}
+
 #contact-map {
     height: 50vh;
 }
@@ -1036,17 +1048,21 @@ div.person > p {
 }
 
 @media (min-width: 760px) {
-    #rt-dt {
-        margin-left: 0.5vw;
+    #rt-dm {
+        margin-right: 0.5vw;
     }
 
     #rt-cc {
-        margin-left: .25vw;
-        margin-right: .25vw;
+        margin-left: .5vw;
+        /*margin-right: .25vw;*/
     }
 
     #rt-ir {
         margin-right: .5vw;
+    }
+
+    #rt-um {
+        margin-left: .5vw;
     }
 }
 

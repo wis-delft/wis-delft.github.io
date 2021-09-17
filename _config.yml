@@ -34,6 +34,7 @@ google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.432285519
 delta: Data Management & Engineering
 kappa: Crowd Computing & Human-Centered AI
 lambda: Information Retrieval
+cel: User Modeling & Learning Analytics
 
 collections:
   people:

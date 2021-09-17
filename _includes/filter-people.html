@@ -116,7 +116,7 @@
 {% endfor %}
 
 <!--        Sometimes the end of the row is when the for loop finishes and before reaching the last column-->
-{% if forloop.last %}
+{% if forloop.last and row_counter != 0%}
 </div>
 {% endif %}
 {% endfor %}
