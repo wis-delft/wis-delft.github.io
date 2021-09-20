@@ -179,7 +179,7 @@ h3.col-xs-12 {
         font-size: 15px;
         line-height: 24px;
         background: #F8FAFF;
-        min-height: 55rem;
+        min-height: 60rem;
         position: relative;
     }
 }
@@ -1049,12 +1049,12 @@ div.person > p {
 
 @media (min-width: 760px) {
     #rt-dm {
-        margin-right: 0.5vw;
+        margin-left: 0.5vw;
     }
 
     #rt-cc {
-        margin-left: .5vw;
-        /*margin-right: .25vw;*/
+        margin-left: .25vw;
+        margin-right: .25vw;
     }
 
     #rt-ir {
@@ -1062,7 +1062,8 @@ div.person > p {
     }
 
     #rt-um {
-        margin-left: .5vw;
+        margin-left: .25vw;
+        margin-right: .25vw;
     }
 }
 
