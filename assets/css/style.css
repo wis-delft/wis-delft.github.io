@@ -1061,10 +1061,14 @@ div.person > p {
         margin-right: .5vw;
     }
 
-    #rt-um {
+    #rt-cel {
         margin-left: .25vw;
         margin-right: .25vw;
     }
+}
+
+#rt-cel {
+    background-color: #f2fbda;
 }
 
 #not-found {
