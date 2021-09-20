@@ -9,15 +9,13 @@ projects:
     description: PhD studentship co-funded by IBM Benelux and CLICK_NL.
     link:    
   - title: Dandelion – A Conversational Crowd Computing Platform
-    description:
+    description: Conversational agent Dandelion is a feedback tool for students. With most of our teaching activities taking place online, we miss out on normal interaction with our students and thus also pick up fewer signals about their well-being. How are they actually doing in this tough situation; how are they really feeling? This requires extra attention. 
     link: https://delftdandelion.com
   - title: Campus Trainbot – Minting Stress Management Coaches During a Pandemic
-    description:
-    link:
+    description: Trainbot is a conversational interface that trains non-experts the technique of Motivational Interviewing, a counselling approach that is used to treat anxiety, depression, and other mental problems.
+    link: https://www.tudelft.nl/en/covid/wellbeing#c658807
   - title: UNCAGE – Conversational Agents for Education
-    description:
-    link:
-  - title: SpeakUp! Conversational Agents for Health and Wellbeing
-    description:
-    link:
+    description: Within this 4TU.CEE project, will develop and evaluate conversational agents to address important challenges in the realm of education.
+    link: https://www.uncage.info
+
    
