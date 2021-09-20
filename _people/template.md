@@ -30,7 +30,7 @@ github:
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it here: https://drive.google.com/drive/u/0/folders/1OXa7z4Oj7gzIQ_g26G8RX2a5G454HvjA 
 # write the exact name of the image as it appears on GitHub or Drive
-image: 
+image: member1.png
 
 # the TUD email address
 email: 
