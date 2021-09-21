@@ -22,8 +22,6 @@ In the context of this challenge, I focus on problem scenarios where there is a 
 
 I chose several application domains for validating my research, focusing on domains where data produced by humans needs to be analyzed and processed. These domains typically exhibit a strong semantic and structural mismatch between available and desired data, and thus are effective testing grounds for my research. Examples are digital libraries and enterprise digital text repositories, online education information systems, and information systems for supporting digital humanities research.
 
-
-
 ## Short CV
 
 * 2016: Assistant Professor Delft University of Technology
@@ -37,9 +35,9 @@ I chose several application domains for validating my research, focusing on doma
 * 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
 * 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
 
-## Education Activities
+## Education
 
-
+### Courses
 I am currently teaching several courses at TU Delft:
 
 * [CSE1500: Web and Database Technology](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438){:target="_blank"}, 5 ETCS, by Christoph Lofi, Claudia Hauff and Ujwal Gadiraju. Period 2 Year 1.
@@ -48,4 +46,8 @@ I am currently teaching several courses at TU Delft:
 * [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang period: 1+2
 * [IN4331: Web-scale Data Management,](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Asterios Katsifodimos and Christoph Lof. Period 4.
 
-My education efforts have been awarded 2019 with the EEMCS-CS Teacher of the Year Award 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place.
+**Awards**. My education efforts have been awarded 2019 with the **EEMCS-CS Teacher of the Year Award** 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place in 2020.
+
+### Educational Administration
+* Master Coordinator: I am the Master Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
+* Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cyber Security_).
