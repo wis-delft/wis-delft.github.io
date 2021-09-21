@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
 image: Christoph Lofi (WIS).jpg
 email: c.lofi@tudelft.nl
 back: christoph.html
+office: Room - 4.E.100 East 4rd floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
@@ -22,3 +23,29 @@ In the context of this challenge, I focus on problem scenarios where there is a 
 I chose several application domains for validating my research, focusing on domains where data produced by humans needs to be analyzed and processed. These domains typically exhibit a strong semantic and structural mismatch between available and desired data, and thus are effective testing grounds for my research. Examples are digital libraries and enterprise digital text repositories, online education information systems, and information systems for supporting digital humanities research.
 
 
+
+## Short CV
+
+* 2016: Assistant Professor Delft University of Technology
+* 2014-2016: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2012-2014: PostDoc at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/){:target="_blank"}
+* 2011-2012: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2011: Defense of Doctoral Thesis at [Technische Universität Braunschweig](https://www.tu-braunschweig.de/){:target="_blank"}
+* 2008-2011: Ph.D. Researcher at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2006-2008: Ph.D. Researcher at [L3S Research Center, Leibniz University Hannover](https://www.l3s.de/en){:target="_blank"}
+* 2005: Diploma Thesis at Collaborative Software Development Laboratory, [University of Hawai'i, Honolulu - Manoa](https://csdl.ics.hawaii.edu/){:target="_blank"}, Certificate issued by University Kaiserslautern
+* 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
+* 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
+
+## Education Activities
+
+
+I am currently teaching several courses at TU Delft:
+
+* [CSE1500: Web and Database Technology](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438){:target="_blank"}, 5 ETCS, by Christoph Lofi, Claudia Hauff and Ujwal Gadiraju. Period 2 Year 1.
+* [CSE1505: Information and Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Christoph Lofi and Asterios Katsifodimos. Period 3 Year 1.
+* [CSE2525: Data Mining](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57346){:target="_blank"}, by Gosia Migut, Christoph Lofi and Asterios Katsifodimos. Period 2 Year 2. 
+* [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang period: 1+2
+* [IN4331: Web-scale Data Management,](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Asterios Katsifodimos and Christoph Lof. Period 4.
+
+My education efforts have been awarded 2019 with the EEMCS-CS Teacher of the Year Award 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place.
