@@ -48,4 +48,4 @@ I am currently teaching several courses at TU Delft:
 * [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang period: 1+2
 * [IN4331: Web-scale Data Management,](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Asterios Katsifodimos and Christoph Lof. Period 4.
 
-My education efforts have been awarded 2019 with the EEMCS-CS Teacher of the Year Award 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place.
+My education efforts have been awarded 2019 with the EEMCS-CS Teacher of the Year Award 2nd place, and 2020 with the EEMCS-CS Teacher of the Year Award 3rd place.
