@@ -12,7 +12,7 @@ office: Room - 4.E.100 East 4rd floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
-## About 
+# About 
 
 Assistant Professor at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology.
 
@@ -35,19 +35,36 @@ I chose several application domains for validating my research, focusing on doma
 * 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
 * 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
 
-## Education
+# Research
 
-### Courses
+## Team
+* Amir Ghahremani, PostDoc
+* Lixia Chu, PostDoc
+* [Agathe Balayn](./agathe_balayn.md), PhD Candidate
+* [Christos Koutras](./christos.md), PhD Candidate
+* [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
+
+# Education
+
+
+## Courses
+
 I am currently teaching several courses at TU Delft:
 
-* [CSE1500: Web and Database Technology](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438){:target="_blank"}, 5 ETCS, by Christoph Lofi, Claudia Hauff and Ujwal Gadiraju. Period 2 Year 1.
-* [CSE1505: Information and Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Christoph Lofi and Asterios Katsifodimos. Period 3 Year 1.
-* [CSE2525: Data Mining](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57346){:target="_blank"}, by Gosia Migut, Christoph Lofi and Asterios Katsifodimos. Period 2 Year 2. 
-* [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang period: 1+2
-* [IN4331: Web-scale Data Management,](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"}, 5 ETCS, by Asterios Katsifodimos and Christoph Lof. Period 4.
+* BSc [CSE1500: Web and Database Technology](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438){:target="_blank"} 5 ETCS, by Christoph Lofi, Claudia Hauff and Ujwal Gadiraju. 
+* BSc [CSE1505: Information and Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ETCS, by Christoph Lofi and Asterios Katsifodimos. 
+* BSc [CSE2525: Data Mining](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57346){:target="_blank"} by Gosia Migut, Christoph Lofi and Asterios Katsifodimos. 
+* MSc [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang.
+* MSc [IN4331: Web-scale Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ETCS, by Asterios Katsifodimos and Christoph Lofi.
 
-**Awards**. My education efforts have been awarded 2019 with the **EEMCS-CS Teacher of the Year Award** 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place in 2020.
+## Education Awards
 
-### Educational Administration
+My education efforts have been awarded 2019 with the _EEMCS-CS Teacher of the Year Award_ 2nd place, and the EEMCS-CS Teacher of the Year Award 3rd place in 2020.
+
+## Education Management
+
 * Master Coordinator: I am the Master Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
 * Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cyber Security_).
+
+# Publications
+
