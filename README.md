@@ -51,4 +51,4 @@ Our department head (Geert-Jan Houben) has a different [layout](_layouts/content
 
 ## Enjoy!
 
-Website creator and administrator: [Andra Ionescu](https://andraionescu.github.io/) (a.ionescu-3@tudelft.nl) 
+Created and maintained by [Andra Ionescu](https://andraionescu.github.io/) (a.ionescu-3@tudelft.nl) 
