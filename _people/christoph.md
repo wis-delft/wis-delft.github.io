@@ -12,7 +12,7 @@ office: Room - 4.E.100 East 4rd floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
-# About 
+### About 
 
 Assistant Professor at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology.
 
@@ -22,7 +22,8 @@ In the context of this challenge, I focus on problem scenarios where there is a 
 
 I chose several application domains for validating my research, focusing on domains where data produced by humans needs to be analyzed and processed. These domains typically exhibit a strong semantic and structural mismatch between available and desired data, and thus are effective testing grounds for my research. Examples are digital libraries and enterprise digital text repositories, online education information systems, and information systems for supporting digital humanities research.
 
-## Short CV
+
+### Short CV
 
 * 2016: Assistant Professor Delft University of Technology
 * 2014-2016: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
@@ -35,8 +36,8 @@ I chose several application domains for validating my research, focusing on doma
 * 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
 * 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
 
-# Research
 
+### Research
 ## Team
 * Amir Ghahremani, PostDoc
 * Lixia Chu, PostDoc
@@ -44,9 +45,8 @@ I chose several application domains for validating my research, focusing on doma
 * [Christos Koutras](./christos.md), PhD Candidate
 * [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
 
-# Education
 
-
+### Education
 ## Courses
 
 I am currently teaching several courses at TU Delft:
@@ -65,6 +65,4 @@ My education efforts have been awarded 2019 with the _EEMCS-CS Teacher of the Ye
 
 * Master Coordinator: I am the Master Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
 * Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cyber Security_).
-
-# Publications
 
