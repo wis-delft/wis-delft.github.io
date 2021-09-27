@@ -1,4 +1,13 @@
 projects:
   - title: Valentine - Schema Matching for Data Discovery
-    description: Description
-    link:
+    description: Valentine is an extensible open-source project to execute and organize large-scale automated matching processes on tabular data either for experimentation or deployment in real world data. Valentine was published in <a href="https://www.computer.org/csdl/proceedings-article/icde/2021/918400a468/1uGXjgG4T1C">ICDE 2021</a> and <a href="http://vldb.org/pvldb/vol14/p2871-koutras.pdf">demoed</a> in VLDB 2021. 
+    link: https://delftdata.github.io/valentine/
+  - title: Clonos - Consistent Causal Recovery for Highly-Available Streaming Dataflows
+    description: Clonos is a fault tolerance approach that achieves fast operator recovery with exactly-once guarantees and high availability by instantly switching to passive standby operators. Clonos enforces causally consistent recovery, including output deduplication, by tracking nondeterminism within the system through causal logging. Clonos was presented in a SIGMOD 2021 <a href="https://dl.acm.org/doi/10.1145/3448016.3457320">paper</a>. 
+    link: https://delftdata.github.io/clonos-web/
+  - title: Transactions on Stateful Functions-as-a-Service
+    description: This project deals with executing transactions (two-phase commit and SAGAs) on Stateful Functions-as-a-Service systems such as Apache Flink's <a href="http://statefun.io">Statefun</a>. This work has been awarded the <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">best paper award</a> in ACM DEBS 2021. 
+    link: https://github.com/delftdata/flink-statefun-transactions
+  - title: StateFlow - Object-oriented Cloud Applications as Distributed Dataflows 
+    description: StateFlow is a framework that allows programmers to author normal, object-oriented Python programs and build scalable, low-latency Cloud applications. It does so by analyzing the AST of such programs and transforming them into stateful dataflow graphs which can be executed in stream processing engines such as Apache Flink or Beam. 
+    link: https://github.com/delftdata/stateflow
