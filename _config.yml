@@ -38,6 +38,7 @@ collections:
   people:
     output: true
     sort_by: filter
+    permalink: /:name
   teams:
     output: true
   details:

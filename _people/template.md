@@ -1,4 +1,8 @@
 ---
+# !!!!
+# The NAME of the file should be your LASTNAME (e.g. houben.md)
+# !!!! 
+
 # Your full name (Firstname, Lastname)
 name: 
 

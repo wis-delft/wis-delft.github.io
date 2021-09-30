@@ -41,8 +41,8 @@ I chose several application domains for validating my research, focusing on doma
 ## Team
 * Amir Ghahremani, PostDoc
 * Lixia Chu, PostDoc
-* [Agathe Balayn](./agathe_balayn.md), PhD Candidate
-* [Christos Koutras](./christos.md), PhD Candidate
+* [Agathe Balayn](./balayn.md), PhD Candidate
+* [Christos Koutras](./koutras.md), PhD Candidate
 * [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
 
 
