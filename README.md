@@ -30,7 +30,7 @@
     - Each research theme displays the projects associated with the theme. The project list is in the [data folder](_data). 
   - [Publications page](publications.html)
     - [Script to get publications](_includes/get_publications.html)
-  - [Education page](teaching.html)
+  - [Education page](education.html)
   - [Vacancies page](vacancies.html)
   - [Contact page](contact.html)
 
