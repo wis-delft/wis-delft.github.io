@@ -60,6 +60,8 @@ defaults:
     values:
       layout: "default_style"
 
+permalink: :title
+
 
 # Build settings
 markdown: kramdown

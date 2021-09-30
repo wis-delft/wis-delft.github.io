@@ -49,6 +49,10 @@ Our department head (Geert-Jan Houben) has a different [layout](_layouts/content
 ### Other files in the repository
 
 - [Jekyll config file](_config.yml)
+  - All the html pages from the root folder have the default URL: 
+  `[domain]/[pagename]`.
+  - All the team members have the default URL:
+  `[domain]/[lastname]` or `[domain]/[lastname1-lastname2]`.
 - [Assets folder](assets) containing:
   - css 
     - [style file](assets/css/style.css)
