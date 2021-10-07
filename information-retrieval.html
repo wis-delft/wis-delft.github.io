@@ -77,7 +77,19 @@ title: Information Retrieval
             <div class="col-md-12">
                 <h4> Neural Information Retrieval </h4>
                 <div class="row pr-3 pl-3 blog-post">
-                    <p> We are interested in researching and dissecting neural IR approaches.   </p>
+                    <p> 
+                        Neural approach to information retrieval (BERT and Co) have become the new standard approach to retrieval algorithms.
+                        In this research line we investigate some of the issues that neural approaches have in terms of their runtime efficiency (huge
+                        models typically also mean slow inference), their training efficiency as well as their explainability.
+                        
+                        As one example, we have recently worked on the analysis of neural models for ranking based on an axiomatic approach. The axiomatic 
+                        approach to has shown that the effectiveness of a retrieval method is connected to its fulfillment of axioms.
+                        This approach enabled researchers to identify shortcomings in existing approaches and ''fix'' them. With the new wave of neural net 
+                        based approaches to IR, a theoretical analysis of those retrieval models is no longer feasible, as they potentially contain millions 
+                        of parameters. We have proposed a pipeline to create diagnostic datasets for IR, each engineered to fulfill one axiom. This allows
+                        us to empirically determine to what extent neural models for IR are able to fulfill those common sense axioms (and this knowledge
+                        in turn helps us to identify shortcomings).
+                    </p>
                 </div>
             </div>
         </div>
