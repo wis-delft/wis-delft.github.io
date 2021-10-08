@@ -24,8 +24,8 @@ I chose several application domains for validating my research, focusing on doma
 
 
 ## Current Projects and Research Lines
-* __[Future Libraries Lab]__(https://delftdesignlabs.org/future-libraries-lab/): In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
-* __[Convergence Alliance Health and Technology, The Digital Patient Twin]__(https://convergencealliance.nl/health-technology/digital-twin/digital-twin-team-page/): In collaboration with ErasmusMC Rotterdam, focusing on data-engineering challenges for making sense of patient data. 
+* __[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)__: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
+* __[Convergence Alliance Health and Technology, The Digital Patient Twin](https://convergencealliance.nl/health-technology/digital-twin/digital-twin-team-page/)__: In collaboration with ErasmusMC Rotterdam, focusing on data-engineering challenges for making sense of patient data. 
 * __Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics__: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
 * __Towards Fairer and more Reliable Data-Driven Decision Support Systems__: in collaboration with Cognizant
 * __Valentine - Semantic Data Integration on Scale__ 
