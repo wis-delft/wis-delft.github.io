@@ -23,21 +23,15 @@ In the context of this challenge, I focus on problem scenarios where there is a 
 I chose several application domains for validating my research, focusing on domains where data produced by humans needs to be analyzed and processed. These domains typically exhibit a strong semantic and structural mismatch between available and desired data, and thus are effective testing grounds for my research. Examples are digital libraries and enterprise digital text repositories, online education information systems, and information systems for supporting digital humanities research.
 
 
-### Short CV
-
-* 2016: Assistant Professor Delft University of Technology
-* 2014-2016: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
-* 2012-2014: PostDoc at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/){:target="_blank"}
-* 2011-2012: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
-* 2011: Defense of Doctoral Thesis at [Technische Universität Braunschweig](https://www.tu-braunschweig.de/){:target="_blank"}
-* 2008-2011: Ph.D. Researcher at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
-* 2006-2008: Ph.D. Researcher at [L3S Research Center, Leibniz University Hannover](https://www.l3s.de/en){:target="_blank"}
-* 2005: Diploma Thesis at Collaborative Software Development Laboratory, [University of Hawai'i, Honolulu - Manoa](https://csdl.ics.hawaii.edu/){:target="_blank"}, Certificate issued by University Kaiserslautern
-* 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
-* 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
+## Current Projects and Research Lines
+* __[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)__: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
+* __[Convergence Alliance Health and Technology, The Digital Patient Twin](https://convergencealliance.nl/health-technology/digital-twin/digital-twin-team-page/)__: In collaboration with ErasmusMC Rotterdam, focusing on data-engineering challenges for making sense of patient data. 
+* __Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics__: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
+* __Towards Fairer and more Reliable Data-Driven Decision Support Systems__: in collaboration with Cognizant
+* __Valentine - Semantic Data Integration on Scale__ 
+* (Upcoming) __TROIKA Trustworthy Collaborative Knowledge Engineering__ in Nutritional and Translational Sciences: Upcoming [ICAI Lab](https://icai.ai/) in collaboration with Royal DSM, Biomax, and Maastricht University.
 
 
-### Research
 ## Team
 * Amir Ghahremani, PostDoc
 * Lixia Chu, PostDoc
@@ -65,4 +59,17 @@ My education efforts have been awarded 2019 with the _EEMCS-CS Teacher of the Ye
 
 * Master Coordinator: I am the Master Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
 * Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cyber Security_).
+
+### Short CV
+
+* 2016: Assistant Professor Delft University of Technology
+* 2014-2016: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2012-2014: PostDoc at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/){:target="_blank"}
+* 2011-2012: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2011: Defense of Doctoral Thesis at [Technische Universität Braunschweig](https://www.tu-braunschweig.de/){:target="_blank"}
+* 2008-2011: Ph.D. Researcher at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
+* 2006-2008: Ph.D. Researcher at [L3S Research Center, Leibniz University Hannover](https://www.l3s.de/en){:target="_blank"}
+* 2005: Diploma Thesis at Collaborative Software Development Laboratory, [University of Hawai'i, Honolulu - Manoa](https://csdl.ics.hawaii.edu/){:target="_blank"}, Certificate issued by University Kaiserslautern
+* 2002-2004: Assistant Researcher at [Fraunhofer Institute for Experimental Software Engineering](https://www.iese.fraunhofer.de/){:target="_blank"}, Kaiserslautern 
+* 2000-2004: [Student at University Kaiserslautern](https://www.uni-kl.de/en/){:target="_blank"}
 
