@@ -1,6 +1,6 @@
 ---
 # Your full name
-name: Daphne Stephan
+name: Daphne
 # The members are displayed in a hierarchical way, so please choose the role and filter from this list:
 # Full Professor - 1
 # Associate Professor - 2
@@ -25,11 +25,5 @@ office: 820 West 4rd floor
 back: daphne.html
 ---
 
-## About
 
-[comment]: <> (Write a few or more words about yourself.)
-
-## Publications
-
-[comment]: <> (You don't have to write anything here, it will be automatically filled. )
 
