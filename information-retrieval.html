@@ -15,7 +15,7 @@ title: Information Retrieval
                 <div class="row pr-3 pl-3 blog-post">
                     <p class="text-center"> Our work brings together research expertise in information retrieval (IR), natural language processing and data science.
                         We focus on core IR topics such as collaborative search, conversational search and data-hungry ranking models.
-                        We also focus on the application of IR to various domains, most prominently the educational domain.
+                        We also focus on the application of IR to various domains, most prominently the educational domain and finance technology.
                     </p>
                 </div>
             </div>
@@ -24,37 +24,79 @@ title: Information Retrieval
                     <h4> Search as learning </h4>
 
                 <div class="row pr-3 pl-3 blog-post">
-                    <p> With this topic, we aim at improving the search platforms to better enable people to learn whilst searching. </p>
+                    <p>
+                      Web search engines are today considered to be the primary tool to assist and empower learners in finding information relevant 
+                        to their learning goals - be it learning something new, improving their existing skills, or just fulfilling a curiosity. 
+                        Search engines though are not optimized for human learning; instead they are optimized for the retrieval of information.
+                        What users do with the information or how they use it during their learning is not considered. In this research line
+                        we focus on exactly that issue: how to design search engine components (on the interface level or the ranking level)
+                        that are optimized for human learning.
+                        
+                        One concrete example of this research line is our work on instructional scaffolding: a traditional learning support 
+                        strategy that has been studied in the traditional educational context but not incorporated as an element in search systems.
+                    </p>
                 </div>
             </div>
 
             <div class="col-md-12">
                     <h4> Collaborative search </h4>
                 <div class="row pr-3 pl-3 blog-post">
-                    <p> We move from the paradigm of small-group collaborative searching to large-group collaborative searching.  </p>
+                    <p> 
+                        Today's web search engines are designed for single-user search. Over the years though, research efforts have shown that 
+                        complex information needs (that are explorative, open-ended and multi-faceted) can be answered more efficiently and effectively 
+                        when searching in collaboration. Collaborative search (and sensemaking) research is thus concerned with techniques, algorithms and 
+                        interface affordances to gain insights and improve the collaborative search process.
+                        
+                        As standard web search engines (open-sour or commercial) are only designed for single-user search, we are not only developing
+                        algorithms for collaborative search but also invest in the implementation of an open-source collaborative search system.
+                    </p>
                 </div>
             </div>
 
             <div class="col-md-12">
                 <h4> Conversational search </h4>
                 <div class="row pr-3 pl-3 blog-post">
-                    <p> With this research topic, we investigate how to perform searching via a conversation with a conversational agent.  </p>
-                </div>
-            </div>
-
-            <div class="col-md-12">
-                <h4> Information Retrieval for FinTech </h4>
-                <div class="row pr-3 pl-3 blog-post">
-                    <p> We investigate methods for rule extraction from regulatory documents.  </p>
+                    <p> Conversational search is concerned with creating agents that fulfill an information need by means of a mixed-initiative conversation 
+                        through natural language interaction, rather than the turn-taking models exhibited in a standard search engine. 
+                        It is an active area of research due to the widespread deployment of voice-based agents, such as Google Assistant and Microsoft Cortana. 
+                        Voice-based agents are currently mostly used for simple closed domain tasks such as fact checking, initiating calls and checking the weather. 
+                        They are not yet effective for conducting open domain complex and exploratory information seeking conversations.
+                        
+                        In this research line we investigate UI affordances (think about voice-only search for instance) and algorithmic approaches to 
+                        improve conversational search such that complex information needs can be resolved via a conversation between a user and an agent.
                 </div>
             </div>
 
             <div class="col-md-12">
                 <h4> Neural Information Retrieval </h4>
                 <div class="row pr-3 pl-3 blog-post">
-                    <p> We are interested in researching and dissecting neural IR approaches.   </p>
+                    <p> 
+                        Neural approach to information retrieval (BERT and Co) have become the new standard approach to retrieval algorithms.
+                        In this research line we investigate some of the issues that neural approaches have in terms of their runtime efficiency (huge
+                        models typically also mean slow inference), their training efficiency as well as their explainability.
+                        
+                        As one example, we have recently worked on the analysis of neural models for ranking based on an axiomatic approach. The axiomatic 
+                        approach to has shown that the effectiveness of a retrieval method is connected to its fulfillment of axioms.
+                        This approach enabled researchers to identify shortcomings in existing approaches and ''fix'' them. With the new wave of neural net 
+                        based approaches to IR, a theoretical analysis of those retrieval models is no longer feasible, as they potentially contain millions 
+                        of parameters. We have proposed a pipeline to create diagnostic datasets for IR, each engineered to fulfill one axiom. This allows
+                        us to empirically determine to what extent neural models for IR are able to fulfill those common sense axioms (and this knowledge
+                        in turn helps us to identify shortcomings).
+                    </p>
                 </div>
             </div>
+            
+
+            <div class="col-md-12">
+                <h4> Information Retrieval for FinTech </h4>
+                <div class="row pr-3 pl-3 blog-post">
+                    <p> FinTech is short for finance technology. This application domain is concerned with the use of technology to improve financial services and processes.
+                    In our research we consider the use of NLP for the fully automatic extraction of information from different types of complex documents such as regulatory
+                    documents. We also investigate how to improve the workflow for employees of such businesses by improving their ability to query complex databases
+                    through a natural language interface (instead of a formal query language).</p>
+                </div>
+            </div>
+            
         </div>
 
         <!--The list of people is AUTOMATICALLY computed - DO NOT MODIFY-->
@@ -67,7 +109,7 @@ title: Information Retrieval
 
         <!--The list of projects is automatically retrieved from _data/lambda.yml -->
         <!--Please fill in the yml file with the data about your projects. -->
-        <div class="row" hidden>
+        <div class="row">
             <h4 class="col-md-12 blog-post">Projects</h4>
             <ul class="col-md-12">
                 {% for project in site.data.lambda.projects %}
