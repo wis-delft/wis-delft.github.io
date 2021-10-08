@@ -1090,3 +1090,18 @@ div.person > p {
 .width-full {
     width: 100%;
 }
+
+#navbar-dbdbd {
+    margin: 1vh 0;
+}
+
+.navbar-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: inherit;
+}
+
+.section-colored {
+    background-color: #ebf7fb;
+}

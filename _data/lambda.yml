@@ -1,4 +1,7 @@
 projects:
-  - title: SearchX - an open-source collaborative search system
-    description:
-    link:
+  - title: SearchX
+    description: An open-source collaborative search system.
+    link: https://github.com/searchx-framework/
+  - title: LogUI
+    description: A contemporary, framework-agnostic JavaScript library for logging user interactions on webpages
+    link: https://github.com/logui-framework

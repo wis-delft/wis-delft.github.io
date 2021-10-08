@@ -30,16 +30,29 @@
     - Each research theme displays the projects associated with the theme. The project list is in the [data folder](_data). 
   - [Publications page](publications.html)
     - [Script to get publications](_includes/get_publications.html)
-  - [Education page](teaching.html)
+  - [Education page](education.html)
   - [Vacancies page](vacancies.html)
   - [Contact page](contact.html)
 
 ### Department head 
 Our department head (Geert-Jan Houben) has a different [layout](_layouts/content.html) and each tab on his profile page comes from the [details folder](_details). 
 
+### DBDBD 2021 
+- The layout file: [dbdbd.html](_layouts/dbdbd.html) contains the header, the navigation bar and the footer. 
+- The content file [dbdbd2021.html](dbdbd2021.html) contains the details about DBDBD (name, location, date, picture of the city) and all the components from the navigation:
+  - The [overview](_includes/dbdbd/overview.html)
+  - The [submission](_includes/dbdbd/submission.html)
+  - The [registration](_includes/dbdbd/registration.html)
+  - The [program](_includes/dbdbd/program.html)
+  - The [history](_includes/dbdbd/history.html)
+  
 ### Other files in the repository
 
 - [Jekyll config file](_config.yml)
+  - All the html pages from the root folder have the default URL: 
+  `[domain]/[pagename]`.
+  - All the team members have the default URL:
+  `[domain]/[lastname]` or `[domain]/[lastname1-lastname2]`.
 - [Assets folder](assets) containing:
   - css 
     - [style file](assets/css/style.css)
@@ -51,4 +64,4 @@ Our department head (Geert-Jan Houben) has a different [layout](_layouts/content
 
 ## Enjoy!
 
-Website creator and administrator: [Andra Ionescu](https://andraionescu.github.io/) (a.ionescu-3@tudelft.nl) 
+Created and maintained by [Andra Ionescu](https://andraionescu.github.io/) (a.ionescu-3@tudelft.nl) 
