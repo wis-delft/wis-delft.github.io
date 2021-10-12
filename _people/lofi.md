@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
 image: Christoph Lofi (WIS).jpg
 email: c.lofi@tudelft.nl
 back: christoph.html
-office: Room - 4.E.100 East 4rd floor
+office: Room - 4.E.160 East 4th floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
@@ -33,10 +33,10 @@ I chose several application domains for validating my research, focusing on doma
 
 
 ## Team
-* Amir Ghahremani, PostDoc
-* Lixia Chu, PostDoc
-* [Agathe Balayn](./balayn.md), PhD Candidate
-* [Christos Koutras](./koutras.md), PhD Candidate
+* [Amir Ghahremani](./ghahremani.html), PostDoc
+* [Lixia Chu](./chu.html), PostDoc
+* [Agathe Balayn](./balayn.html), PhD Candidate
+* [Christos Koutras](./koutras.html), PhD Candidate
 * [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
 
 
@@ -58,7 +58,7 @@ My education efforts have been awarded 2019 with the _EEMCS-CS Teacher of the Ye
 ## Education Management
 
 * Master Coordinator: I am the Master Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
-* Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cyber Security_).
+* Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cybersecurity_).
 
 ### Short CV
 
