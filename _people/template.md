@@ -43,7 +43,7 @@ email:
 # Room number (e.g Room - 840 West 4rd floor)
 office: 
 
-# The name of this file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
+# The name of this file without extension (If the filename is andra.md, the "back" field will be andra)
 back: 
 
 # Go to https://purexml-open.ewi.tudelft.nl 
