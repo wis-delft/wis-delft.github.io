@@ -602,7 +602,7 @@ footer .widget i {
 }
 
 footer {
-    margin-top: 15px;
+    left: 0;
     left: 0;
     right: 0;
     background: black;
@@ -947,6 +947,10 @@ footer h3 {
     margin-top: 2vh;
 }
 
+.margin-top-3 {
+    margin-top: 3vh;
+}
+
 .margin-top-4{
     margin-top: 4vh;
 }
@@ -1104,4 +1108,12 @@ div.person > p {
 
 .section-colored {
     background-color: #ebf7fb;
+}
+
+.no-border {
+    border-top: none !important;
+}
+
+#dbdbd-main {
+    padding-bottom: 0;
 }
