@@ -1,13 +1,17 @@
 <!doctype html>
 <html lang="en">
 
-  {% include head.html description="Web Information Systems group from Delft University of Technology"%}
-  {% include header.html %}
-  {% include script.html %}
+{% include head.html description="Web Information Systems group from Delft University of Technology"%}
+{% include header.html %}
+{% include script.html %}
 
-  <body>
-    {{ content }}
-  </body>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2FRHSV"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{{ content }}
+</body>
 
-  {% include footer.html %}
+{% include footer.html %}
 </html>
