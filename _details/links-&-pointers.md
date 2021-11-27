@@ -43,7 +43,7 @@ page_title: Links & Pointers
 
 ##### Connect:
 
-Web: [gjhouben.nl](gjhouben.nl)
+Web: [gjhouben.nl](https://gjhouben.nl)
 
 Web: [wis.ewi.tudelft.nl/houben](https://wis.ewi.tudelft.nl/houben)
 
@@ -53,7 +53,7 @@ Twitter: [@gjhouben](https://twitter.com/gjhouben)
 
 <br/>
 _Web Information Systems group (TU Delft)_
-Web: [wisdelft.nl](wisdelft.nl)
+Web: [wisdelft.nl](https://wisdelft.nl)
 
 Web: [wis.ewi.tudelft.nl](https://wis.ewi.tudelft.nl)
 
