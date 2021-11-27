@@ -45,7 +45,7 @@ page_title: Links & Pointers
 
 Web: [gjhouben.nl](gjhouben.nl)
 
-Web: [wis.ewi.tudelft.nl/houben](https://www.wis.ewi.tudelft.nl/houben)
+Web: [wis.ewi.tudelft.nl/houben](https://wis.ewi.tudelft.nl/houben)
 
 Mail: g.j.p.m.houben@tudelft.nl
 
@@ -55,7 +55,7 @@ Twitter: [@gjhouben](https://twitter.com/gjhouben)
 _Web Information Systems group (TU Delft)_
 Web: [wisdelft.nl](wisdelft.nl)
 
-Web: [wis.ewi.tudelft.nl](https://www.wis.ewi.tudelft.nl)
+Web: [wis.ewi.tudelft.nl](https://wis.ewi.tudelft.nl)
 
 Twitter: [@wisdelft](https://twitter.com/wisdelft)
 
