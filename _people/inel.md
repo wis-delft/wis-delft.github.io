@@ -10,7 +10,7 @@ twitter: https://twitter.com/oana_inel
 github: https://github.com/oana-inel
 image: Oana.jpg
 email: o.inel@tudelft.nl 
-back: oana.html
+back: inel.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/24369003-f802-43ff-8a17-35b52d790219
 
 ---

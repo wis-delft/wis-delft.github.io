@@ -38,7 +38,7 @@ email: y.lee@tudelft.nl
 office: 2.E.340
 
 # The name of this file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
-back: yoon.html
+back: lee.html
 
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list

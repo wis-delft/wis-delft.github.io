@@ -23,7 +23,7 @@ image: Peide Zhu.jpg
 email: p.zhu-1@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 180 East 4rd floor
-back: peide_zhu.html
+back: zhu.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/855fe3b5-45d7-4236-8669-94be3dd814f0
 
 ---

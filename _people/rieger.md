@@ -23,7 +23,7 @@ image: Alisa Rieger.jpg
 email: a.rieger@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 East 4th floor
-back: alisa.html
+back: rieger.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/fb891ef2-a7be-49a7-94fd-dacd0f5f483c
 ---
 

@@ -23,7 +23,7 @@ image: georgios_siachamis.jpg
 email: g.siachamis@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 180 East 4rd floor
-back: george_siachamis.html
+back: siachamis.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/b5be7a3d-9e5a-4006-abf5-52811c0eae81
 
 ---

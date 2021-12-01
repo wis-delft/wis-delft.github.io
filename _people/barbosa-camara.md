@@ -23,7 +23,7 @@ image: arthur.camara.jpg
 email: A.BarbosaCamara@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 East 4th Floor
-back: arthur.html
+back: barbosa-camara.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7ec3a2cf-7fb9-4a59-8c62-22ba48b953e1
 
 ---

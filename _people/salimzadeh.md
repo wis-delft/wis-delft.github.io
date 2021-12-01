@@ -23,7 +23,7 @@ image: sara.jpg
 email: s.salimzadeh@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room - 180 East 4rd floor
-back: sara.html
+back: salimzadeh.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/ad516dfb-5e7a-4020-88e7-31d33e865d50
 
 ---

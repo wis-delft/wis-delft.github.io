@@ -19,7 +19,7 @@ layout: default_style
                 </p>
 
                 <div class="row justify-content-center margin-top-4">
-                    <h6><a class="col-lg-2" href="{{site.baseurl}}/people/{{page.back}}#about">About</a></h6>
+                    <h6><a class="col-lg-2" href="{{site.baseurl}}/{{page.back}}#about">About</a></h6>
                     {% unless page.filter > 0 %}
                     {% assign details = site.details | sort: 'order' %}
                     {% for tabs in details %}
@@ -28,7 +28,7 @@ layout: default_style
                     {% endfor %}
                     {% endunless %}
                     {% if page.filter > 0 %}
-                    <h6><a class="col-lg-2" href="{{site.baseurl}}/people/{{page.back}}#publications">Publications</a>
+                    <h6><a class="col-lg-2" href="{{site.baseurl}}/{{page.back}}#publications">Publications</a>
                     {% endif %}
                     </h6>
                 </div>

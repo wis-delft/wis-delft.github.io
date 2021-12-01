@@ -26,7 +26,7 @@ email: b.h.limbu@tudeft.nl
 office: 
 
 # The name of the file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
-back: bibeg.html
+back: limbu.html
 
 # Go to https://purexml.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list

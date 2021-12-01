@@ -23,7 +23,7 @@ image: rihan.jpg
 email: R.Hai@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 
-back: rihan.html
+back: hai.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de843-a410-42bc-aa40-e6ed379285c1
 
 ---

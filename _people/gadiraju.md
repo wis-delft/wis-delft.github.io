@@ -10,7 +10,7 @@ twitter: https://twitter.com/ujlaw
 github: https://github.com/ujwalgadiraju
 image: Ujwal Gadiraju.jpg
 email: U.K.Gadiraju@tudelft.nl
-back: ujwal.html
+back: gadiraju.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/f1a97568-c63e-4703-89c2-8824d67d3e4f
 
 ---

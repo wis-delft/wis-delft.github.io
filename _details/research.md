@@ -24,7 +24,7 @@ image: Geert-Jan Houben.jpg
 email: G.J.P.M.Houben@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: Room - 840 West 4rd floor
-back: geert-jan.html
+back: houben.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
 details: 1
 order: 3

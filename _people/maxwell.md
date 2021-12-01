@@ -14,7 +14,7 @@ image: maxwell.jpg
 email: d.m.maxwell@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room 060 West 4th Floor
-back: david.html
+back: maxwell.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/2a59c370-4eb4-4b49-9b84-7a56e484bfba
 
 ---

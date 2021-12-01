@@ -10,7 +10,7 @@ twitter: https://twitter.com/qiusihang
 github: https://github.com/qiusihang
 image: sihang.qiu.png
 email: s.qiu-1@tudelft.nl
-back: sihang.html
+back: qiu.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/2711472e-6867-4429-b4a1-ab5e0fecb178
 
 ---

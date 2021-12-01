@@ -11,7 +11,7 @@ github: https://github.com/RichardHGL
 image: gaole.jpg
 email: g.he@tudelft.nl
 office: Room - 040 East 4th floor
-back: gaole.html
+back: he.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/9c103169-7311-40c1-b012-5bab30f3ca25
 
 ---

@@ -9,7 +9,7 @@ twitter: https://twitter.com/kasterios
 github: https://github.com/asteriosk
 image: Asterios Katsifodimos.jpg
 email: a.katsifodimos@tudelft.nl
-back: asterios.html
+back: katsifodimos.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/0eaea4e6-3dd3-42ee-9c39-b22dbfae6262
 
 ---

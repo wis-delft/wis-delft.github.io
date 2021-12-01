@@ -38,7 +38,7 @@ email: n.vandermeer@tudelft.nl
 office: 300 East 2nd floor
 
 # The name of this file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
-back: nessevandermeer.html
+back: van-der-meer.html
 
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list

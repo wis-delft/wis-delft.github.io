@@ -25,7 +25,7 @@ email: m.valletorre@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: 
 # The name of the file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
-back: manuel.html
+back: valle-torre.html
 # Go to https://purexml.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link
