@@ -1117,3 +1117,7 @@ div.person > p {
 #dbdbd-main {
     padding-bottom: 0;
 }
+
+.smaller-font h4 {
+    font-size: 1.2rem;
+}
