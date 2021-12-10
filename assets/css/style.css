@@ -332,38 +332,38 @@ address {
 /*    }*/
 /*}*/
 
-.banner-text {
-    font-family: 'Raleway', sans-serif;
-    color: white;
-    font-size: 50px;
+/*.banner-text {*/
+/*    font-family: 'Raleway', sans-serif;*/
+/*    color: white;*/
+/*    font-size: 50px;*/
 
-}
+/*}*/
 
-#banners {
+/*#banners {*/
 
-    margin-top: 30px;
-    margin-bottom: 10px;
-}
+/*    margin-top: 30px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
 
-#banner-home {
-    background-image: url('../img/slider/1.jpg');
-    height: 350px;
-    margin-bottom: 30px;
-    padding-top: 120px;
-}
+/*#banner-home {*/
+/*    background-image: url('../img/slider/1.jpg');*/
+/*    height: 350px;*/
+/*    margin-bottom: 30px;*/
+/*    padding-top: 120px;*/
+/*}*/
 
-@media (min-width: 100px) and (max-width: 800px) {
+/*@media (min-width: 100px) and (max-width: 800px) {*/
 
-    #banner-home {
-        background-image: url('../img/slider/1.jpg');
-        height: 450px;
-        margin-bottom: 30px;
-    }
-}
+/*    #banner-home {*/
+/*        background-image: url('../img/slider/1.jpg');*/
+/*        height: 450px;*/
+/*        margin-bottom: 30px;*/
+/*    }*/
+/*}*/
 
-#banner {
-    margin-top: 0px;
-}
+/*#banner {*/
+/*    margin-top: 0px;*/
+/*}*/
 
 
 .header h1 {
@@ -778,6 +778,7 @@ footer h3 {
     margin-right: 22px;
     text-align: center !important;
     background-color: #E6E6E6;
+    float: left;
 }
 
 .blockquote-box.blockquote-primary {
@@ -1117,3 +1118,43 @@ div.person > p {
 #dbdbd-main {
     padding-bottom: 0;
 }
+
+#banner {
+    background-image: url("../../assets/img/dbml/banner.jpeg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+.nav-colored {
+    background-color: #000;
+}
+.nav-colored li a {
+    color: white;
+    text-shadow: none;
+}
+
+.no-border-top {
+    border-top: 0 !important;
+}
+
+.dbml-nav li a {
+    text-shadow: white 0px 0px 8px;
+    color: black;
+}
+
+#title {
+    padding-top: 15vh;
+    color: white;
+}
+
+.dbml a {
+    color: #00C695;
+}
+
+.dbml .section-colored {
+    background-color: #e7fae6;
+}
+
