@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html description="DBML 2022"%}
+
+<section id="banner" class="dbml services-section section-colored">
+
+
+    <nav class="dbml-nav navbar fixed-top" role="navigation">
+        <div class="container">
+
+            <div id="navbar-dbdbd" class="navbar-collapse navbar-responsive-collapse">
+                <div class="row align-items-center">
+                    <div class="col-md-2 offset-xs-2 col-xs-2">
+                        <a href="{{site.baseurl}}/">DBML 2022</a>
+                    </div>
+
+                    <div class="col-xs-8 col-md-10">
+                        <ul class="nav pull-right flex-row justify-content-center">
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#about">About</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#keynote">Keynote</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#program">Program</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#submission">Submission</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#important-dates">Important Dates</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#organisation">Organisation</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/#sponsors">Sponsors</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="title" class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1> International workshop on databases and machine learning </h1>
+                <h2> (DBML 2022) </h2>
+            </div>
+            <div class="col-md-12">
+                <h4> in conjunction with <a href="https://icde2022.ieeecomputer.my/" target="_blank">ICDE 2022</a> | May
+                    9 2022 | Virtual Event </h4>
+            </div>
+        </div>
+    </div>
+
+</section>
+<body class="dbml">
+{{ content }}
+</body>
+
+<footer class="pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-6 margin-top-2">
+                <div class="row">
+                    <p style="color: white">&copy; DBML 2022 </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</footer>
+
+<script>
+    const navbar = document.querySelector('.fixed-top');
+    window.onscroll = () => {
+        if (window.scrollY > 300) {
+            navbar.classList.remove('dbml-nav');
+            navbar.classList.add('nav-colored');
+        } else {
+            navbar.classList.remove('nav-colored');
+            navbar.classList.add('dbml-nav')
+        }
+    };
+</script>
+
+
+</html>
