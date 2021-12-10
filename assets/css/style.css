@@ -1131,18 +1131,13 @@ div.person > p {
 .nav-colored {
     background-color: #000;
 }
-.nav-colored li a {
-    color: white;
-    text-shadow: none;
-}
 
 .no-border-top {
     border-top: 0 !important;
 }
 
-.dbml-nav li a {
-    text-shadow: white 0px 0px 8px;
-    color: black;
+.nav li a {
+    color: white;
 }
 
 #title {
