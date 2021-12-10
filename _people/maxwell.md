@@ -10,7 +10,7 @@ team: [lambda]
 linkedin: https://www.linkedin.com/in/maxwelld90/
 twitter: https://www.twitter.com/maxwelld90
 github: https://www.github.com/maxwelld90
-image: maxwell.jpg
+image: David Maxwell -2021-.jpg
 email: d.m.maxwell@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: Room 060 West 4th Floor

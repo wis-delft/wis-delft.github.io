@@ -1132,14 +1132,17 @@ div.person > p {
     background-color: #000;
 }
 
+.nav-colored li a {
+    color: white;
+}
+
 .no-border-top {
     border-top: 0 !important;
 }
 
-.nav li a {
+.dbml-nav li a {
     color: white;
 }
-
 #title {
     padding-top: 15vh;
     color: white;
