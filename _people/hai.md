@@ -30,5 +30,7 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 ## About
 
-I am a postdoc researcher at Delft University of Technology (TU Delft). Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. Later I have joined SAP as a technical consultant. My research focuses on data integration and related dataset discovery in large-scale data lakes.
+From January 2022 I will be an assistant professor in the Web Information Systems (WIS) group at TU Delft, Netherlands. We have an open Ph.D. position in the area of data lakes and AI. Interested candidates can send an email including a CV to Dr. Rihan Hai (R.Hai@tudelft.nl).  
+
+Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. Later I have joined SAP as a technical consultant. My research focuses on data integration and related dataset discovery in large-scale data lakes.
 
