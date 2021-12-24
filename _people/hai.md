@@ -17,7 +17,7 @@ theme-filter: 1c
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
 team: [delta]
 linkedin: https://www.linkedin.com/in/rihanhai/
-twitter: @RHai_nl
+twitter: 
 github: 
 image: rihan.jpg
 email: R.Hai@tudelft.nl
