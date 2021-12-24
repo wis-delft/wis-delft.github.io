@@ -13,7 +13,7 @@ name: Rihan Hai
 role: Assistant Professor
 filter: 3
 # same as filter
-theme-filter: 3
+theme-filter: 1c
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
 team: [delta]
 linkedin: https://www.linkedin.com/in/rihanhai/
