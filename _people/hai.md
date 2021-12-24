@@ -10,14 +10,14 @@ name: Rihan Hai
 # Research Engineer - 6 
 # Guest Researcher - 7
 # Secretary - 8
-role: Postdoctoral Researcher
-filter: 4
+role: Assistant Professor
+filter: 3
 # same as filter
-theme-filter: 4
+theme-filter: 3
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
 team: [delta]
 linkedin: https://www.linkedin.com/in/rihanhai/
-twitter: 
+twitter: @RHai_nl
 github: 
 image: rihan.jpg
 email: R.Hai@tudelft.nl
