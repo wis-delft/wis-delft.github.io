@@ -1159,3 +1159,9 @@ div.person > p {
 .smaller-font h4 {
     font-size: 1.2rem;
 }
+
+#pc-members li {
+    font-size: large;
+    margin-left: 4vw;
+    padding-bottom: 1vh;
+}
