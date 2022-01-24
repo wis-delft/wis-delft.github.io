@@ -10,7 +10,7 @@ name: Marcus Specht
 # Research Engineer - 6
 # Guest Researcher - 7
 # Secretary - 8
-role: (Affiliated) Full Professor
+role: Full Professor
 filter: 1
 theme-filter: 1
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
