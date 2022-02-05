@@ -39,6 +39,14 @@ page_title: Papers
 A. Balayn, C. Lofi, G.J. Houben
 in: The VLDB Journal, 2021, p. 1-30, Springer.
 
+- **Integrating Massive Data Streams** 
+G. Siachamis, G.J. Houben, A. van Deursen, A. Katsifodimos
+in: Proceedings of the VLDB 2021 PhD Workshop, 2021, Vol. 2971, CEUR Workshop Proceedings.
+
+- **Interactive Data Discovery in Data Lakes** 
+A. Ionescu, A. Katsifodimos, G.J. Houben
+in: Proceedings of the VLDB 2021 PhD Workshop, 2021, Vol. 2971, CEUR Workshop Proceedings.
+
 #### 2020
 
 - **Conversational Crowdsourcing**
