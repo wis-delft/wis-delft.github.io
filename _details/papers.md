@@ -37,7 +37,7 @@ page_title: Papers
 
 - **Managing Bias and Unfairness in Data For Decision Support: A Survey of Machine Learning and Data Engineering Approaches to Identify and Mitigate Bias and Unfairness within Data Management and Analytics Systems** 
 A. Balayn, C. Lofi, G.J. Houben
-in: The VLDB Journal, 2021, p. 1-30, Springer.
+in: The VLDB Journal, Vol. 30, p. 739-768, 2021, Springer.
 
 - **Integrating Massive Data Streams** 
 G. Siachamis, G.J. Houben, A. van Deursen, A. Katsifodimos
