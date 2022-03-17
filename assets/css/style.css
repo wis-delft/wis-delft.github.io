@@ -944,6 +944,10 @@ footer h3 {
     width: 100%;
 }
 
+.margin-top-1 {
+    margin-top: 1vh;
+}
+
 .margin-top-2 {
     margin-top: 2vh;
 }
@@ -1163,5 +1167,10 @@ div.person > p {
 #pc-members li {
     font-size: large;
     margin-left: 4vw;
+    padding-bottom: 1vh;
+}
+
+#accepted-papers li {
+    margin-left: 3vw;
     padding-bottom: 1vh;
 }
