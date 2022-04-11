@@ -20,7 +20,7 @@ team: [cel, lambda]
 linkedin: https://www.linkedin.com/in/manuelvalletorre/
 twitter: https://twitter.com/mvallet91
 github: https://github.com/mvallet91/
-image: manuel.jpeg
+image: Manuel Valle Torre-2021-CEL.jpg
 email: m.valletorre@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
 office: 

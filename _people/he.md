@@ -8,7 +8,7 @@ team: kappa
 linkedin: https://www.linkedin.com/in/gaole-he-b3117019a/
 twitter: https://twitter.com/HeGaole
 github: https://github.com/RichardHGL
-image: gaole.jpg
+image: Gaole He - 2021.jpg
 email: g.he@tudelft.nl
 office: Room - 040 East 4th floor
 back: he.html

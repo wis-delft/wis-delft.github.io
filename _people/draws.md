@@ -19,7 +19,7 @@ team: [epsilon]
 linkedin: https://www.linkedin.com/in/timdraws/
 twitter: https://twitter.com/tmdrws
 github: https://github.com/timdraws
-image: tim_draws.jpg
+image: Tim Draws (WIS).jpg
 email: t.a.draws@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 East 4th floor

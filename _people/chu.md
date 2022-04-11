@@ -7,7 +7,7 @@ team: [delta]
 linkedin: https://www.linkedin.com/in/lixia-chu-574077150/?originalSubdomain=at
 twitter: https://twitter.com/LixiaChu1
 github: https://github.com/LChu-1/LChu-1
-image: LixiaChu.png
+image: Lixia Chu -2021-.jpg
 email: L.Chu-1@tudelft.nl
 office: 4.E.060 
 back: chu.html
