@@ -2,10 +2,10 @@
     <div class="container">
         <div class="row text-left margin-top-2">
             <div class="col-md-12 text-center">
-                <h2> KEYNOTE </h2>
+                <h2> KEYNOTES </h2>
             </div>
 
-            <div class="col-md-12 margin-top-3">
+            <div class="col-md-12 margin-top-10" id="keynote-martin">
                 <div class="row pr-4 pl-5">
                     <div class="col-md-2">
                         <img src="{{site.baseurl}}/assets/img/dbml/MartinGrohe.jpg"
@@ -13,9 +13,10 @@
                     </div>
 
                     <div class="col-md-8">
-                        <h4>Martin Grohe</h4>
-                        <h6>RWTH Aachen University, Germany</h6>
-                        <p><strong>Martin Grohe</strong> is a computer scientist known for his research on parameterized
+                        <h4 class="padding-bottom-1">Towards a Theory of Vector Embeddings of Graphs and Relational Data</h4>
+                        <h5 class="padding-bottom-1">Martin Grohe, RWTH Aachen University, Germany</h5>
+                        <p><strong>ABOUT.</strong> Martin Grohe is a computer scientist known for his research on
+                            parameterized
                             complexity,
                             mathematical logic, finite model theory, the logic of graphs, database theory, and
                             descriptive complexity theory. He is a University Professor of Computer Science at RWTH
@@ -27,7 +28,7 @@
                 </div>
             </div>
 
-            <div class="col-md-12 margin-top-3">
+            <div class="col-md-12 margin-top-10" id="keynote-paul">
                 <div class="row pr-4 pl-5">
                     <div class="col-md-2">
                         <img src="{{site.baseurl}}/assets/img/dbml/paul_groth.jpeg"
@@ -35,9 +36,11 @@
                     </div>
 
                     <div class="col-md-8">
-                        <h4>Paul Groth</h4>
-                        <h6>University of Amsterdam, The Netherlands</h6>
-                        <p><strong>Paul Groth</strong> is Professor of Algorithmic Data Science at the University of Amsterdam where he
+                        <h4 class="padding-bottom-1">Data Curation and Debugging for Data Centric AI</h4>
+                        <h5 class="padding-bottom-1">Paul Groth, University of Amsterdam, The Netherlands</h5>
+                        <p><strong>ABOUT.</strong> Paul Groth is Professor of Algorithmic Data Science at the University
+                            of
+                            Amsterdam where he
                             leads the Intelligent Data Engineering Lab (INDElab). He holds a Ph.D. in Computer Science
                             from the University of Southampton (2007) and has done research at the University of
                             Southern California, the Vrije Universiteit Amsterdam and Elsevier Labs. His research
@@ -52,6 +55,60 @@
                             Lab - a collaboration between Elsevier, the University of Amsterdam and VU University
                             Amsterdam.
                         </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 text-center margin-top-10">
+                <h2> INVITED TALKS </h2>
+            </div>
+
+            <div class="col-md-12 margin-top-10" id="talk-jyoti">
+                <div class="row pr-4 pl-5 justify-content-center">
+                    <div class="col-md-8 ">
+                        <h4 class="padding-bottom-1">Query Optimizer as a Service: An Idea Whose Time Has Come!</h4>
+                        <h5 class="padding-bottom-1">Jyoti Leeka, Senior Research Scientist, Microsoft Research</h5>
+                        <p><strong>ABSTRACT.</strong> Query optimization is a critical technology needed by all modern
+                            data processing systems. However, it is traditionally implemented in silos and is deeply
+                            embedded in different systems. Furthermore, over the years, query optimizers have become
+                            less understood and rarely touched pieces of code that are brittle to changes and very
+                            expensive to maintain, thus slowing down the pace of innovation. In this talk, I will argue
+                            that it is time to design query optimizer as a service in modern cloud architectures. Such a
+                            design will help build a set of well-maintained optimizations that are externalized from the
+                            query engines and that could be learned (and improved) using the large workloads present in
+                            modern clouds. I will present a reference architecture for our query optimizer as a service,
+                            explaining details of intra-query and inter-query optimizations performed. A key enabler for
+                            the externalization of intra-query optimization is the plethora of recent machine
+                            learning-based techniques developed to improve query optimizer components, such as
+                            cardinality, cost model, and query planner. On the other hand, externalization of
+                            inter-query optimization, also known as multi-query optimization, is motivated by numerous
+                            efforts on view materialization, physical layouts (i.e., partitioning, etc.), and most
+                            recently by Pipemizer, a data pipeline-aware optimization effort at Microsoft. Finally, I
+                            will describe our success in deploying the early version of query optimizer as a service in
+                            Cosmos at Microsoft.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 margin-top-10" id="talk-jie">
+                <div class="row pr-4 pl-5 justify-content-center">
+                    <div class="col-md-8">
+                        <h4 class="padding-bottom-1">ARCH: Know What Your Machine Doesn’t Know</h4>
+                        <h5 class="padding-bottom-1">Jie Yang, Assistant Professor, Delft University of Technology</h5>
+                        <p><strong>ABSTRACT.</strong> Despite their impressive performance, machine learning systems
+                            remain prohibitively unreliable in safety-, trust-, and ethically sensitive domains. Recent
+                            discussions in different sub-fields of AI have reached the consensus of knowledge need in
+                            machine learning; few discussions have touched upon the diagnosis of what knowledge is
+                            needed. In this talk, I will present our ongoing work on ARCH, a knowledge-driven,
+                            human-centered, and reasoning-based tool, for diagnosing the unknowns of a machine learning
+                            system. ARCH leverages human intelligence to create domain knowledge required for a given
+                            task and to describe the internal behavior of a machine learning system; it infers the
+                            missing or incorrect knowledge of the system with the built-in probabilistic, abductive
+                            reasoning engine. ARCH is a generic tool that can be applied to machine learning in
+                            different contexts. In the talk, I will present several applications and domains in which
+                            ARCH is currently being developed and tested, including health, finance, and transport.</p>
                     </div>
                 </div>
             </div>
