@@ -33,6 +33,12 @@ page_title: Papers
 
 ## Papers
 
+#### 2022
+
+- **Meaningful Human Control: Actionable Properties for AI System Development**
+L. Cavalcante Siebert, M. Lupetti, E. Aizenberg, N. Beckers, A. Zgonnikov, H. Veluwenkamp, D. Abbink, E. Giaccardi, G.J. Houben, C. Jonker, M. van den Hoven, D. Forster, R.L. Lagendijk
+in: AI & Ethics, 15 p., 2022, Springer.
+
 #### 2021
 
 - **Managing Bias and Unfairness in Data For Decision Support: A Survey of Machine Learning and Data Engineering Approaches to Identify and Mitigate Bias and Unfairness within Data Management and Analytics Systems** 
