@@ -5,7 +5,7 @@ supervisor: Geert-Jan Houben
 filter: 3
 theme-filter: 1a
 team: kappa
-office: Room - 900 West 4th floor (W.4.900)
+office: Room - 7400 West 3rd floor (W.3.740)
 linkedin: https://www.linkedin.com/in/ujwalgadiraju/
 twitter: https://twitter.com/ujlaw
 github: https://github.com/ujwalgadiraju
