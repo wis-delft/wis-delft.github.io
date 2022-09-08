@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
 image: Christoph Lofi (WIS).jpg
 email: c.lofi@tudelft.nl
 back: lofi.html
-office: Room - 4.E.160 East 4th floor
+office: Room - 3.W.780 East 3rd floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
