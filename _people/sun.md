@@ -44,7 +44,7 @@ email: W.Sun-2@tudelft.nl
 office: 
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
-back: wenbo.html
+back: sun.html
 
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
