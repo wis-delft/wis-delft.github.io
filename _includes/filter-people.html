@@ -54,7 +54,7 @@
                 {% assign empty_twitter = people.twitter | strip %}
                 {% unless empty_twitter == '' %}
                 <a class="pr-2" href="{{people.twitter}}" target="_blank" title="Twitter">
-                    <i class="fa fa-lg fa-twitter"></i>
+                    <i class="fa-brands fa-lg fa-twitter"></i>
                 </a>
                 {% endunless %}
 
@@ -62,14 +62,21 @@
                 {% unless empty_linkedin == '' %}
                 <a class="pr-2" href="{{people.linkedin}}"
                    target="_blank" title="LinkedIn">
-                    <i class="fa fa-lg fa-linkedin"></i>
+                    <i class="fa-brands fa-lg fa-linkedin"></i>
                 </a>
                 {% endunless %}
 
                 {% assign empty_github = people.github | strip %}
                 {% unless empty_github == '' %}
                 <a class="" href="{{people.github}}" target="_blank" title="GitHub">
-                    <i class="fa fa-lg fa-github"></i>
+                    <i class="fa-brands fa-lg fa-github"></i>
+                </a>
+                {% endunless %}
+
+                {% assign empty_webpage = people.webpage | strip %}
+                {% unless empty_webpage == '' %}
+                <a class="pr-2" href="{{people.webpage}}" target="_blank" title="Webpage">
+                    <i class="fa-solid fa-lg fa-scroll"></i>
                 </a>
                 {% endunless %}
                 {% endif %}
