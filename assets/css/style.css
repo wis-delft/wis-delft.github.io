@@ -1128,6 +1128,15 @@ div.person > p {
 }
 
 #banner {
+    background-image: url("../../assets/img/dbml/banner.jpeg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner23 {
     background-image: url("../../assets/img/dbml/banner3.jpeg");
     height: 500px;
     background-position: center;
