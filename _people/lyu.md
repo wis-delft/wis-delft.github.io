@@ -35,7 +35,7 @@ github: https://github.com/GarfieldLyu
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
-image: member1.png
+image: lijunlyu.png
 
 # the TUD email address
 email: L.Lyu@tudelft.nl
