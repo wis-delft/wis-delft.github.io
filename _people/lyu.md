@@ -1,11 +1,6 @@
 ---
-# !!!!
-# The NAME of the file should be your LASTNAME (e.g. houben.md)
-# Do NOT delete any field, only fill in the required information
-# !!!! 
-
 # Your full name (Firstname, Lastname)
-name: Lijun, Lyu
+name: Lijun Lyu
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:
@@ -31,10 +26,6 @@ team: []
 linkedin: https://www.linkedin.com/in/lijun-lyu/
 twitter: https://twitter.com/LijunLyu
 github: https://github.com/GarfieldLyu
-
-# look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
-# if your image doesn't exist, upload it in assets/img/people 
-# write the exact name of the image as it appears in GitHub  
 image: lijunlyu.png
 
 # the TUD email address
@@ -42,20 +33,14 @@ email: L.Lyu@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
 office: Room - 540 West 3rd floor
-
-# The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: lyu.html
-
-# Go to https://purexml-open.ewi.tudelft.nl 
-# choose Query Type = Person, search term = your name, Style = as a list
-# generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/add54828-5033-4b48-8e18-378ba4205e83
 
 ---
-
 ## About
+I am a PhD candidate interested in Explainable Machine Learning models in general with a focus on ranking models in IR. My adviser is Prof. Avishek Anand. My research goal is to understand complex ranking models particularly the ones assisted by large pre-training language models, and taking a further attempt to make the ranking models intrinsically transparent.
 
-
+I obtained my MSc degree in computer science from Leibniz University Hannover, Germany, and BSc degree from Jinan University in Guangzhou, China. 
 
 
 
