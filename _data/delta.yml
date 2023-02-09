@@ -11,6 +11,6 @@ projects:
   - title: Transactions on Stateful Functions-as-a-Service
     description: This project deals with executing transactions (two-phase commit and SAGAs) on Stateful Functions-as-a-Service systems such as Apache Flink's <a href="http://statefun.io">Statefun</a>. This work has been awarded the <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">best paper award</a> in ACM DEBS 2021. 
     link: https://github.com/delftdata/flink-statefun-transactions
-  - title: Ziyu's paper
-    description: Something about this.
-    link: https://www.wis.ewi.tudelft.nl/assets/files/DBDBD-2021-CWI-DA.pdf
+  - title: Optimizing ML Inference Queries under Constraints
+    description: Optimizing ML inference queries is hard, especially when constraints (e.g., accuracy or execution time) have to be satisfied, and the complexity of the inference query increases. This project aims to tackle constraint-based ML inference query optimization problem. The proposed optimizer aims at high effectiveness, and can navigate a large search space to find optimal query plans on various model zoos.
+    link: https://www.wis.ewi.tudelft.nl/assets/files/opt-ml-query.pdf
