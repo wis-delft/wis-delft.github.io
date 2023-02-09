@@ -13,4 +13,4 @@ projects:
     link: https://github.com/delftdata/flink-statefun-transactions
   - title: Ziyu's paper
     description: Something about this.
-    link: {{site.baseurl}}/assets/files/DBDBD-2021-CWI-DA.pdf
+    link: https://www.wis.ewi.tudelft.nl/assets/files/DBDBD-2021-CWI-DA.pdf
