@@ -11,3 +11,6 @@ projects:
   - title: Transactions on Stateful Functions-as-a-Service
     description: This project deals with executing transactions (two-phase commit and SAGAs) on Stateful Functions-as-a-Service systems such as Apache Flink's <a href="http://statefun.io">Statefun</a>. This work has been awarded the <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">best paper award</a> in ACM DEBS 2021. 
     link: https://github.com/delftdata/flink-statefun-transactions
+  - title: Ziyu's paper
+    description: Something about this.
+    link: {{site.baseurl}}/assets/files/DBDBD-2021-CWI-DA.pdf
