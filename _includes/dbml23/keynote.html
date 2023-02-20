@@ -82,49 +82,44 @@
                 <h2> INVITED TALKS </h2>
             </div>
 
-            <!-- <div class="col-md-12 margin-top-10" id="talk-jyoti">
+             <div class="col-md-12 margin-top-10" id="talk-jyoti">
                 <div class="row pr-4 pl-5">
                     <div class="col-md-2">
-                        <img src="{{site.baseurl}}/assets/img/dbml/jyoti.jpg"
-                             alt="Jyoti Leeka" class="person-image">
+                        <img src="{{site.baseurl}}/assets/img/dbml/mahmoud.jpg"
+                             alt="Mahmoud Abo Khamis" class="person-image">
                     </div>
 
                     <div class="col-md-8 ">
-                        <h4 class="padding-bottom-1">Query Optimizer as a Service: An Idea Whose Time Has Come!</h4>
-                        <h5 class="padding-bottom-1">Jyoti Leeka, Senior Research Scientist, Microsoft Research</h5>
-                        <p><strong>ABSTRACT.</strong> Query optimization is a critical technology needed by all modern
-                            data processing systems. However, it is traditionally implemented in silos and is deeply
-                            embedded in different systems. Furthermore, over the years, query optimizers have become
-                            less understood and rarely touched pieces of code that are brittle to changes and very
-                            expensive to maintain, thus slowing down the pace of innovation. In this talk, I will argue
-                            that it is time to design query optimizer as a service in modern cloud architectures. Such a
-                            design will help build a set of well-maintained optimizations that are externalized from the
-                            query engines and that could be learned (and improved) using the large workloads present in
-                            modern clouds. I will present a reference architecture for our query optimizer as a service,
-                            explaining details of intra-query and inter-query optimizations performed. A key enabler for
-                            the externalization of intra-query optimization is the plethora of recent machine
-                            learning-based techniques developed to improve query optimizer components, such as
-                            cardinality, cost model, and query planner. On the other hand, externalization of
-                            inter-query optimization, also known as multi-query optimization, is motivated by numerous
-                            efforts on view materialization, physical layouts (i.e., partitioning, etc.), and most
-                            recently by Pipemizer, a data pipeline-aware optimization effort at Microsoft. Finally, I
-                            will describe our success in deploying the early version of query optimizer as a service in
-                            Cosmos at Microsoft.</p>
-                        <p><strong>ABOUT.</strong> Jyoti Leeka is a Senior Scientist currently focusing on improving the
-                            performance of Microsoft’s large-scale data-intensive production analytics clusters. These
-                            clusters comprise of 300k servers running hundreds of thousands of production analytic jobs
-                            on a daily basis; written by thousands of developers, processing several exabytes of data
-                            per day, and involving several hundred petabytes of I/O. The main focus of this work is to
-                            develop algorithms to find optimal/approximate physical designs for Microsoft’s production
-                            job pipelines. Before joining GSL, Jyoti was a postdoctoral researcher at MSR for two years.
-                            Her focus was on query optimization for distributed systems.
+                        <h4 class="padding-bottom-1">Relational AutoDiff</h4>
+                        <h5 class="padding-bottom-1">Mahmoud Abo Khamis, Senior Computer Scientist, RelationalAI</h5>
+                        <p><strong>ABSTRACT.</strong> Modern database systems have been progressively expanding their use cases far outside traditional bookkeeping 
+                            and data analytics, and into artificial intelligence workloads like machine learning and mathematical optimization. This in turn motivates 
+                            the need for native in-database automatic differentiation to better support these use cases.
+
+                            In this talk, we present RelationalAD (RAD), our framework for automatic differentiation at RelationalAI (RAI). 
+                            Rel, the modeling language underlying RelationalAI, is declarative and can be viewed as a generalization of Datalog 
+                            with infinite relations (e.g. arithmetic), aggregation, and relational abstraction. The input to RAD is a Rel program 
+                            that defines a (set of) relational views and the output is another Rel program that defines new views that are the derivatives 
+                            with respect to some given input relations. We show that performing AutoDiff inside a high-level database language like Rel 
+                            allows us to evaluate derivatives while enjoying many features offered by the underlying database engine like factorization, 
+                            query optimization and compilation, as well as support for higher-order derivatives. We present several examples covering 
+                            recursive Rel programs, matrix calculus, neural network training, and gradient descent among others. We conclude with some challenges, 
+                            design issues, as well as open problems.</p>
+                        <p><strong>ABOUT.</strong> Mahmoud Abo Khamis is a Senior Computer Scientist at RelationalAI since 2017. 
+                            He received his Ph.D. in Computer Science and Engineering from the State University of New York at Buffalo in 2016. 
+                            He also worked as a Senior Database Engineer at Infor from 2015 until 2017. His research interests include database systems and theory, 
+                            in-database machine learning, query optimization and evaluation, information theory, and beyond worst-case analysis. 
+                            His work has received two PODS Best Paper Awards in 2016 and 2022, two SIGMOD Research Highlight Awards in 2016 and 2022, 
+                            and the Best CSE Dissertation Award 2016 from SUNY Buffalo. His work also received several invitations to the Journal of the ACM, 
+                            the ACM TODS, and the ACM STOC. He served on the program committees of PODS 2019, PODS 2021, and ICDT 2022, and he is also a reviewer 
+                            for the VLDB Journal and the ACM TODS among others.
                         </p>
                     </div>
                 </div>
             </div>
 
 
-            <div class="col-md-12 margin-top-10" id="talk-jie">
+   <!--         <div class="col-md-12 margin-top-10" id="talk-jie">
                 <div class="row pr-4 pl-5">
                     <div class="col-md-2">
                         <img src="{{site.baseurl}}/assets/img/people/Jie Yang.jpg"
@@ -158,7 +153,6 @@
                     </div>
                 </div>
             </div> -->
-            <td>TBD</td>
 
         </div>
     </div>
