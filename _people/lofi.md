@@ -22,7 +22,7 @@ I address research questions related to extracting knowledge from unstructured d
 
 As the process of understanding the semantics of data is domain-specific, generic methods and solutions in these fields are typically limited in their effectiveness. Thus, in addition to fundamental contributions, semantic data engineering research needs to be carried out in an application do-main. Aligned with TU Delft’s research vision to strive for “Impact for a better society”, I emphasize interdisciplinary application domains with high societal impact, but which also have a high de-mand for innovative data engineering approaches. The major application domains I target are agri-cultural and botanical sciences, public health, and nutrition and translational sciences. 
 
-I am teaching a several Data Management courses at TU Delft, and actively work on strengthening data education within and outside TU Delft.
+I am teaching a several Data Management courses at TU Delft, and actively work on strengthening data education within and outside TU Delft. Starting summer 2023, I will serve as the Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering).
 
 
 
@@ -61,6 +61,7 @@ I was elected three times to the Top-3 for the Teacher of The Year Awards for Co
 
 ## Education Management
 
+* Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering) starting summer 2023
 * Msc Coordinator: I am the MSc Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
 * Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cybersecurity_).
 
