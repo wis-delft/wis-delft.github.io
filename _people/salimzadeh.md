@@ -15,7 +15,7 @@ filter: 5
 # same as filter
 theme-filter: 5
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
-team: [lambda]
+team: []
 linkedin: https://www.linkedin.com/in/sara-salimzadeh-4a85bb8a
 twitter: https://twitter.com/sarasalimzadeh
 github: https://github.com/sarasal

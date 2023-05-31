@@ -20,7 +20,7 @@ filter: 2
 theme-filter: 2
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
-team: []
+team: [lambda]
 
 # provide social URLs (if any)
 linkedin: 
