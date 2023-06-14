@@ -58,4 +58,3 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/tu/persons/e0b416
 I am a PhD candidate under the supervision of Rihan Hai. 
 I am interested in privacy preserving data integration and federated machine learning. 
 
-
