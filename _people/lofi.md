@@ -1,6 +1,6 @@
 ---
 name: Christoph Lofi
-role: Assistant Professor
+role: Associate Professor
 filter: 3
 theme-filter: 1d
 team: ['delta', 'kappa']
