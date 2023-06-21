@@ -14,7 +14,7 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac
 ---
 ### About 
 
-Assistant Professor at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology.
+Associate Professor at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology.
 
 My long-term research vision is to develop Semantic-based Data Engineering and Knowledge Engineering Methodologies that enable the development of FAIR (Findable, Accessible, Interoperable, Reusable) Data Management platforms to serve as a foundation of future sustainable societal re-search.
 
@@ -22,7 +22,9 @@ I address research questions related to extracting knowledge from unstructured d
 
 As the process of understanding the semantics of data is domain-specific, generic methods and solutions in these fields are typically limited in their effectiveness. Thus, in addition to fundamental contributions, semantic data engineering research needs to be carried out in an application do-main. Aligned with TU Delft’s research vision to strive for “Impact for a better society”, I emphasize interdisciplinary application domains with high societal impact, but which also have a high de-mand for innovative data engineering approaches. The major application domains I target are agri-cultural and botanical sciences, public health, and nutrition and translational sciences. 
 
-I am teaching a several Data Management courses at TU Delft, and actively work on strengthening data education within and outside TU Delft. Starting summer 2023, I will serve as the Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering).
+I am teaching a several Data Management courses at TU Delft, and actively work on strengthening data education within and outside TU Delft. 
+
+I serve as the Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering).
 
 
 
