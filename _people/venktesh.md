@@ -6,7 +6,7 @@ filter: 3
 theme-filter: 1a
 team: -
 office: Room - 600 West 3rd floor (W.3.600)
-linkedin: [https://www.linkedin.com/in/venktesh-v-78099a135/]
+linkedin: https://www.linkedin.com/in/venktesh-v-78099a135/
 twitter: https://twitter.com/vvenki22
 github: https://github.com/VenkteshV
 image: venky.jpeg
