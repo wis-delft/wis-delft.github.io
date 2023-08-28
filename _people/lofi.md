@@ -1,7 +1,7 @@
 ---
 name: Christoph Lofi
 role: Associate Professor
-filter: 3
+filter: 2
 theme-filter: 1d
 team: ['delta', 'kappa']
 linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
