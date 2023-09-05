@@ -30,7 +30,7 @@ team: [kappa]
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/shreyan-biswas-83b007a4/
 twitter: 
-github: 
+github: https://github.com/shreyan2020/
 
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
