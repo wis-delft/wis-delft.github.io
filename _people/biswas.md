@@ -28,7 +28,7 @@ theme-filter: 5
 team: [kappa]
 
 # provide social URLs (if any)
-linkedin: shreyan-biswas-83b007a4
+linkedin: https://www.linkedin.com/in/shreyan-biswas-83b007a4/
 twitter: 
 github: 
 
