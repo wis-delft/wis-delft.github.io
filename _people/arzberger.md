@@ -49,16 +49,16 @@ back: arzberger.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/search-term/a.arzberger
 
 ---
 
 ## About
-I am a freshly started PhD candidate in Computer Science at the Delft University of Technology. With a MSc degree in Interaction Design from the Faculty of Industrial Design Enigneering at the TU Delft I am . My interests lie in human-machine interaction, especially concerning social and societal implications of such.
+I am a PhD candidate in Computer Science at the Delft University of Technology. With a MSc degree in Interaction Design from the Faculty of Industrial Design Enigneering I aim to bridge between the field of Design and Computer Science. My interests lie in human-machine interaction, especially concerning social and societal implications of such.
 
-My PhD research evolves around the ideas of neurosymbolic AI and questions of how we can capture and integrate relevant human knowledge and values into AI.
+My PhD research evolves around identifying, understanding and mitigating negative implications of machine learning systems. This involves uncovering harms as well as knowledge and value gaps in generative models but also entails conceptualizing, prototyping and testing of harm mitigation, and knowledge elicitation and integration tools/workflows.
 
-More information about my past projects can be found on my <a href="https://anne6433.wixsite.com/website-5">website</a>.
+More information about my projects can be found on my [Website](https://anne6433.wixsite.com/website-5).
 
 
 
