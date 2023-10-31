@@ -777,7 +777,7 @@ footer h3 {
     min-height: 50px;
     margin-right: 22px;
     text-align: center !important;
-    background-color: #E6E6E6;
+    /* background-color: #E6E6E6; */
     float: left;
 }
 
@@ -943,6 +943,11 @@ footer h3 {
 .person-image {
     width: 100%;
     max-width: 100%;
+}
+
+.person-image-24 {
+    width: 100%;
+    border-radius: 50%;
 }
 
 .margin-top-1 {
@@ -1139,6 +1144,15 @@ div.person > p {
 
 #banner23 {
     background-image: url("../../assets/img/dbml/banner3.jpeg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner24 {
+    background-image: url("../../assets/img/dbml/banner24.png");
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
