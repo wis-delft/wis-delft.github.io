@@ -23,7 +23,7 @@ github:
 image: Geert-Jan Houben.jpg
 email: G.J.P.M.Houben@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
-office: Room - 840 West 4rd floor
+office: Room - 840 West 3rd floor
 back: houben.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
 details: 1
@@ -41,9 +41,9 @@ _The KIVI Chair knows a long tradition. It is awarded by the TU Delft and has a 
 
 _The research explores the topic of Big Data Science. The professor of TU Delft who holds the chair is prof. dr. ir. Geert-Jan Houben._
 
-**Delft Data Science**
+**AI, Data and Digitalisation**
 
-_This research is closely connected to the Data Science work in Delft: [Delft Data Science](http://dds.tudelft.nl/)._
+_This research is closely connected to the activities of the TU Delft AI Initiative: [TU Delft AI Initiative](http://www.tudelft.nl/ai)._
 
 ##### Master Classes 2017, November 27, 2017
 
