@@ -23,7 +23,7 @@ github:
 image: Geert-Jan Houben.jpg
 email: G.J.P.M.Houben@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
-office: Room - 840 West 4rd floor
+office: Room - 840 West 3rd floor
 back: houben.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
 details: 1
@@ -57,7 +57,7 @@ Currently, my main research area is engineering and science of the Web, in parti
 
 #### Journals and conferences
 
-Some journals and major conferences I am involved in:
+Some journals and major conferences I was or am involved in:
 - [ACM Transactions on the Web (ACM TWEB)](http://www.acm.org/tweb) (member editorial board)
 - [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jweonline.html) (managing editor)
 - [Journal of Web Science (JWS)](http://www.nowpublishers.com/journals/JWS/) (member editorial board)
@@ -74,12 +74,14 @@ Some journals and major conferences I am involved in:
 - [ACM Web Science (WebSci)](https://websci18.webscience.org/) (PC Chair 2018)
 - [TheWebConference 2019](https://www2019.thewebconf.org/) (PhD Chair 2019)
 - [TheWebConference 2020](https://www2020.thewebconf.org/) (Semantics and Knowledge Chair 2020)
-
+- [TheWebConference 2023](https://www2023.thewebconf.org/) (PC Chair 2023)
+  
 Some other roles: former board member of ISWE, International Society for Web Engineering, board member of SIKS, the Dutch national research school for information and knowledge systems, member of the advisory board of User Modeling Inc.
 
 #### Interesting Events
 
 Some interesting events I am/was involved in:
+- [TheWebConference 2023](https://www2023.thewebconf.org/) - The Web Conference (formerly known as WWW conference), Austin, USA, 30 April - 4 May, 2023.
 - [TheWebConference 2020](https://www2020.thewebconf.org/) - The Web Conference (formerly known as WWW conference), Taipei, 20-24 April 2020.
 - [TheWebConference 2019](https://www2019.thewebconf.org/) - The Web Conference (formerly known as WWW conference), San Francisco, USA, 13-17 May, 2019.
 - [ACM Web Science 2018](https://websci18.webscience.org/) - 10th ACM Conference on Web Science, Amsterdam, the Netherlands, 27-30 May 2018.

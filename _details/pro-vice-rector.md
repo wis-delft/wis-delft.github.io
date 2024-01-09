@@ -22,8 +22,8 @@ twitter: https://www.twitter.com/gjhouben
 github:
 image: Geert-Jan Houben.jpg
 email: G.J.P.M.Houben@tudelft.nl
-# Room number (e.g Room - 840 West 4rd floor)
-office: Room - 840 West 4rd floor
+# Room number (e.g Room - 840 West 3rd floor)
+office: Room - 840 West 3rd floor
 back: houben.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
 details: 1
@@ -43,6 +43,6 @@ AI, data and digitalisation play a major role in TU Delft’s core activities of
 
 A lot is already taking place within the university in the field of AI, data and digitalisation: we are researching it and using it in our research. Moreover, our teaching in this field is also growing in importance.
 
-To streamline all these efforts there is a need for more coordination and a systematic approach, for education, for research and valorisation, and for relevant support. For this reason, the PVR AI leads the overarching TU Delft AI Initiative (AIDU). Present activities under the AIDU umbrella include education, research and valorisation, and the establishment of labs to promote cross-fertilisation between AI experts and scientists who use AI in their research. The PVR AI will also take a leading role on behalf of TU Delft in regional, national and international co-operation on this theme.
+To streamline all these efforts there is a need for more coordination and a systematic approach, for education, for research and valorisation, and for relevant support. For this reason, the PVR AI leads the overarching TU Delft AI Initiative. Present activities under the umbrella of the TU Delft AI Initiative include education, research and valorisation, and the establishment of labs to promote cross-fertilisation between AI experts and scientists who use AI in their research. The PVR AI will also take a leading role on behalf of TU Delft in regional, national and international co-operation on this theme.
 
 See also [www.tudelft.nl/ai](www.tudelft.nl/ai).

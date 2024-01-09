@@ -32,3 +32,5 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 I am an assistant professor in the Web Information Systems (WIS) group at TU Delft, Netherlands. Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. Later I have joined SAP as a technical consultant. My research focuses on data integration and related dataset discovery in large-scale data lakes.
 
+We currently have available openings for MSc thesis, PhD, and postdoc positions. To apply, please send me an email including your CV, academic transcripts, and any other relevant documents.
+

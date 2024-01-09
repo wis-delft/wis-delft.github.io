@@ -29,7 +29,7 @@ team: [kappa]
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/lorenzo-corti-46a22b181/
-twitter: 
+twitter: https://twitter.com/lorenz_corti
 github: https://github.com/LCorti
 
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
@@ -41,7 +41,7 @@ image: lorenzo_corti.jpg
 email: L.Corti@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 221 East Ground Floor
+office: 560 West 3rd Floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: corti.html
@@ -54,4 +54,9 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/096711
 ---
 
 ## About
-I am PhD candidate in the Web Information Systems group at TU Delft under the supervision of Jie Yang. I hold a M.Sc. and B.Sc. degree in Computer Science & Engineering from Politecnico di Milano where, prior to moving to Delft, I also worked for two years. My research is focused on the use of Human-in-the-Loop approaches to inspect NLP Language Models with the final aim of improving their robustness.
+I am a PhD Candidate in the [Web Information Systems (WIS)](https://www.wis.ewi.tudelft.nl/) group at [TU Delft](https://www.tudelft.nl/). There, I am supervised by Dr. [Jie Yang](https://yangjiera.github.io/) and Prof.Dr.Ir. [Geert-Jan Houben](https://scholar.google.com/citations?user=7SLMWEcAAAAJ&hl=en).
+I am part of the Kappa team (within WIS) and the TU Delft AI Lab [Design@Scale](https://www.tudelft.nl/ai/design-at-scale-lab).
+Before starting my PhD, I worked as a Research Assistant at [Politecnico di Milano](https://www.polimi.it/) where I contributed to two EU H2020 projects, [TRIGGER](https://trigger-project.eu/) and [PERISCOPE](https://periscopeproject.eu/).
+I received my MSc and BSc in Computer Science and Engineering from [Politecnico di Milano](https://www.polimi.it/) in 2019 and 2017 respectively.
+
+I work on human-centred approaches to Explainable AI, with a particular focus on Language Models. By drawing connections between Computer Science, Human-Computer Interaction, and Design, I aim to create computational methods and tools that support explainability end-users and are grounded in the understanding their uses and purposes for explainable AI systems.

@@ -23,7 +23,7 @@ github:
 image: Geert-Jan Houben.jpg
 email: G.J.P.M.Houben@tudelft.nl
 # Room number (e.g Room - 840 West 4rd floor)
-office: Room - 840 West 4rd floor
+office: Room - 840 West 3rd floor
 back: houben.html
 publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/3f77eaf9-d538-4448-9035-a34b160676eb
 details: 1
@@ -33,11 +33,15 @@ page_title: Papers
 
 ## Papers
 
-#### 2022
+#### 2023
 
 - **Meaningful Human Control: Actionable Properties for AI System Development**
 L. Cavalcante Siebert, M. Lupetti, E. Aizenberg, N. Beckers, A. Zgonnikov, H. Veluwenkamp, D. Abbink, E. Giaccardi, G.J. Houben, C. Jonker, M. van den Hoven, D. Forster, R.L. Lagendijk
-in: AI & Ethics, 15 p., 2022, Springer.
+in: AI & Ethics, Vol. 3, No. 1, p. 241-255, 2023, Springer.
+
+- **Foreword from the Program Chairs** 
+L. Aroyo, C. Castillo, G.J. Houben
+in: ACM Web Conference 2023, Proceedings of the World Wide Web Conference, WWW 2023, p. XXXIV, 2023, ACM.
 
 #### 2021
 

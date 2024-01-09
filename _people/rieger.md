@@ -28,7 +28,7 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/fb891e
 ---
 
 ## About
-I am a PhD candidate in the Web Information Systems group and an Early Stage Researcher in the \[NL4XAI\](https://nl4xai.eu/) project under supervision of  Nava Tintarev.
+I am a PhD candidate in the Web Information Systems group and an Early Stage Researcher in the [NL4XAI](https://nl4xai.eu/) project, supervised by Sole Pera.
 Before coming to TU Delft, I obtained my BSc and MSc degree in cognitive science and human-machine interaction from Chemnitz University of Technology. 
-Currently, my research is focused on understanding how to mitigate cognitive biases during interactions with search results and recommendations, for example by applying explanations to guide user behavior.
+Currently, my research is focused on understanding web search on debated topics and mitigating cognitive biases that impede responsible opinion formation, for example, by boosting searchers' intellectual humility.
 
