@@ -1181,11 +1181,12 @@ div.person > p {
 }
 
 .dbml a {
-    color: #00C695;
+    color: #00b0c7;
+    font-weight: 900;
 }
 
 .dbml .section-colored {
-    background-color: #99CCFF;
+    background-color: #b6d7f8;
 }
 
 .smaller-font h4 {
