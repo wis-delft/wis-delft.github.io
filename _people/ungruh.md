@@ -5,7 +5,7 @@
 # !!!! 
 
 # Your full name (Firstname, Lastname)
-name: Robin, Ungruh
+name: Robin Ungruh
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:
@@ -55,7 +55,11 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/c243ec
 
 ## About
 
+I am a PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. 
 
+My research is centered on unraveling the complexities of children’s interactions with recommender systems, aiming to understand their experiences and developing methods to ensure safe interactions within this vulnerable user group.
+
+I obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
 
 
 
