@@ -23,7 +23,7 @@ filter: 5
 theme-filter: 5
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
-team: Delta
+team: [delta]
 
 # provide social URLs (if any)
 linkedin: www.linkedin.com/in/aashankar
