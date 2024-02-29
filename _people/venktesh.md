@@ -25,7 +25,7 @@ Venktesh Viswanathan is a Postdoctoral researcher at [Web Information Systems](h
 ![]()
 
 Prior to joining the WIS group, Venktesh was a PhD candidate at IIIT-Delhi  and a Prime Minister fellow working at the intersection of IR and NLP for content curation and enrichment in online learning platforms.
-Venktesh’s goal is to **create interpretable robust complex question answering systems that can reason over heterogeneous sources for satisfying user information needs**. I am also interested in explainable fact checking of complex claims through multi-step reasoning.
+Venktesh’s goal is to **create robust generative and retrieval pipelines that can reason over heterogeneous sources for solving knowledge intensive tasks like complex QA**. I am also interested in explainable fact checking of complex claims through multi-step reasoning.
 More information can be found on his personal website [HERE](https://venkteshv.github.io) and a full list of publications can be foudn at his google scholar [HERE](https://scholar.google.com/citations?hl=en&pli=1&user=FrDPEc0AAAAJ).
 
 
