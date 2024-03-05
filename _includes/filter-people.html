@@ -97,7 +97,16 @@
             </p>
 
             <p>
-                Room - {{people.office}}
+                Room {{people.office}}
+                <a href="mailto:{{people.email}}" target="_blank">{{people.email}}</a>
+                <br>
+                {% assign empty_linkedin = people.linkedin | strip %}
+                {% unless empty_linkedin == '' %}
+                <a class="pr-2" href="{{people.linkedin}}"
+                    target="_blank" title="LinkedIn">
+                    <i class="fa-brands fa-lg fa-linkedin"></i>
+                </a>
+                {% endunless %}
             </p>
 
         </div>
