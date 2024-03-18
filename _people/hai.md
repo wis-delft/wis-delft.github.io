@@ -22,7 +22,7 @@ github:
 image: rihan.jpg
 email: R.Hai@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
-office: 
+office: Room - 900 West 3rd floor
 back: hai.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de843-a410-42bc-aa40-e6ed379285c1
 
@@ -30,7 +30,7 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 ## About
 
-I am an assistant professor in the Web Information Systems (WIS) group at TU Delft, Netherlands. Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. Later I have joined SAP as a technical consultant. My research focuses on data integration and related dataset discovery in large-scale data lakes.
+I am an assistant professor in the Web Information Systems (WIS) group at TU Delft, Netherlands. Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. My research focuses on data lakes, data management for machine learning, and quantum data management.
 
-We currently have available openings for MSc thesis, PhD, and postdoc positions. To apply, please send me an email including your CV, academic transcripts, and any other relevant documents.
+We currently have available openings for PhD and MSc thesis for quantum data management. To apply, please send me an email including your CV, academic transcripts, and any other relevant documents.
 
