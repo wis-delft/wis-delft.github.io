@@ -19,7 +19,7 @@ team: [epsilon]
 linkedin: https://linkedin.com/in/alisa-rieger-a3a456185
 twitter: https://twitter.com/alisarieg
 github: https://github.com/alisarieger
-image: Alisa Rieger.jpg
+image: alisa_rieger.jpeg
 email: a.rieger@tudelft.nl
 # Room number only (e.g Room - 840 West 4rd floor)
 office: 040 East 4th floor

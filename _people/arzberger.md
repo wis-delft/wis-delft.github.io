@@ -5,7 +5,7 @@
 # !!!! 
 
 # Your full name (Firstname, Lastname)
-name: Anne, Arzberger
+name: Anne Arzberger
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:

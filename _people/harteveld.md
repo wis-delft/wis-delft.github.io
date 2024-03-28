@@ -28,7 +28,7 @@ theme-filter: 8
 team: []
 
 # provide social URLs (if any)
-linkedin: 
+linkedin: http://www.linkedin.com/in/nadia-binda-harteveld-b9093a76
 twitter: 
 github: 
 
@@ -38,7 +38,7 @@ github:
 image: Nadia.jpg
 
 # the TUD email address
-email: 
+email: n.harteveld@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
 office: 820 West 4th floor
