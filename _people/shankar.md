@@ -26,7 +26,7 @@ theme-filter: 5
 team: [delta]
 
 # provide social URLs (if any)
-linkedin: www.linkedin.com/in/aashankar
+linkedin: https://www.linkedin.com/in/aashankar/
 twitter: 
 github: https://github.com/adis98
 
