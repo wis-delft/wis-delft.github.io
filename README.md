@@ -1,5 +1,5 @@
-# Web Information Systems group
-### The official website of the research group __Web Information Systems__, part of Software Technology department from Electrical Engineering Mathematics and Computer Science Faculty of TU Delft.
+# Data-Intensive Systems Group
+### The official website of the research group __Data-Intensive Systems__, part of Software Technology department from Electrical Engineering Mathematics and Computer Science (EEMCS) Faculty of TU Delft.
 
 ## Installation
 1. For first time user, follow [this installation guide](https://jekyllrb.com/docs/installation/).

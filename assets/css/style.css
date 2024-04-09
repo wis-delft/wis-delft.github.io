@@ -287,7 +287,7 @@ address {
 
 .navbar {
     /*font-size: 1.02rem;*/
-    font-weight: 500;
+    font-weight: 300;
     font-size: larger;
 }
 
@@ -983,7 +983,22 @@ footer h3 {
 }
 
 #navbar-section {
-    box-shadow: 1px 5px 15px 0px #808080a6;
+    background: #00a6d6;
+}
+
+#navbar-section a {
+    color: white;
+}
+
+#navbar-section a:hover {
+    color: black;
+}
+
+@media (max-width: 575.98px) { 
+    #navbar-section .header-logo {
+        text-align: center;
+        padding-bottom: 0.5rem;
+    }
 }
 
 #research-themes {

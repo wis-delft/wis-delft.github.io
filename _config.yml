@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Web Information Systems
+title: Data-Intensive Systems
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Web Information Systems
+company_name: Data-Intensive Systems
 building: Building 28
 building_url: https://iamap.tudelft.nl/poi/elektrotechniek-wiskunde-informatica/
 room: West 3rd floor
@@ -27,7 +27,7 @@ street: Van Mourik Broekmanweg 6
 zipcode: 2628 XE Delft
 country: The Netherlands
 telephone_number: +31 15 27 89995
-company_email: secr-wis-st-ewi@tudelft.nl
+company_email: secr-dis-st-ewi@tudelft.nl
 google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.432285519263!2d4.375978316053762!3d51.99900038246024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5b58c1eb5a529%3A0x879226b745603305!2sBuilding%2028!5e0!3m2!1sen!2snl!4v1612522058153!5m2!1sen!2snl
 delta: Data Management & Engineering
 kappa: Crowd Computing & Human-Centered AI
