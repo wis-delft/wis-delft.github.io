@@ -41,7 +41,7 @@ image: Nadia.jpg
 email: n.harteveld@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 820 West 4th floor
+office: 820 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: harteveld.html
