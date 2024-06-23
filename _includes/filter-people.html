@@ -36,60 +36,16 @@
     {% endif %}
 
     <div class="col-lg-4 col-md-6">
-        {% if people.filter < 8 %}
-        <a href="{{site.baseurl}}{{people.url}}">
-            <div class="blockquote-box blockquote-people animated {{animationType}} clearfix">
-                <div class="square pull-left">
-                    <img src="{{site.baseurl}}/assets/img/people/{{people.image}}" alt="Feature-img" class="person-image">
-                </div>
-                <h4>
-                    {{people.name}}
-                </h4>
-
-                <p>
-                    {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
-                </p>
-
-                {% if people.filter < 8 %}
-                {% assign empty_twitter = people.twitter | strip %}
-                {% unless empty_twitter == '' %}
-                <a class="pr-2" href="{{people.twitter}}" target="_blank" title="Twitter">
-                    <i class="fa-brands fa-lg fa-twitter"></i>
-                </a>
-                {% endunless %}
-
-                {% assign empty_linkedin = people.linkedin | strip %}
-                {% unless empty_linkedin == '' %}
-                <a class="pr-2" href="{{people.linkedin}}"
-                   target="_blank" title="LinkedIn">
-                    <i class="fa-brands fa-lg fa-linkedin"></i>
-                </a>
-                {% endunless %}
-
-                {% assign empty_github = people.github | strip %}
-                {% unless empty_github == '' %}
-                <a class="" href="{{people.github}}" target="_blank" title="GitHub">
-                    <i class="fa-brands fa-lg fa-github"></i>
-                </a>
-                {% endunless %}
-
-                {% assign empty_webpage = people.webpage | strip %}
-                {% unless empty_webpage == '' %}
-                <a class="pr-2" href="{{people.webpage}}" target="_blank" title="Webpage">
-                    <i class="fa-solid fa-lg fa-scroll"></i>
-                </a>
-                {% endunless %}
-                {% endif %}
-
-            </div>
-        </a>
-        {% else %}
         <div class="blockquote-box blockquote-people animated {{animationType}} clearfix">
             <div class="square pull-left">
-                <img src="{{site.baseurl}}/assets/img/people/{{people.image}}" alt="Feature-img" class="person-image">
+                {% if people.image contains 'http://' or people.image contains 'https://' %}
+                <div class="person-image" style="background-image:url('{{ people.image }}')"></div>
+                {% else %}
+                <div class="person-image" style="background-image:url('{{ site.baseurl }}/assets/img/people/{{ people.image }}')"></div>
+                {% endif %}
             </div>
             <h4>
-                {{people.name}}
+                <a class="people-item-name" href="{{site.baseurl}}{{people.url}}">{{people.name}}</a>
             </h4>
 
             <p>
@@ -110,7 +66,6 @@
             </p>
 
         </div>
-        {% endif %}
 
     </div>
 

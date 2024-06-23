@@ -398,7 +398,7 @@ address {
     text-align: justify;
     letter-spacing: 1px;
     font-size: 16px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 24px;
 }
 
@@ -427,7 +427,7 @@ address {
 p.blog-text {
     font-size: 16px;
     letter-spacing: .1px;
-    font-family: 'Arial';
+    font-family: 'Roboto';
     text-align: justify;
     text-justify: inter-word;
 }
@@ -832,9 +832,15 @@ footer h3 {
 }
 .blockquote-people .square {
     background-color: #fbfff1;
-    box-shadow: 1px 5px 15px 0px #808080a6;
 }
 
+.people-item-name {
+    color: black;
+}
+
+.people-item-name:hover {
+    text-decoration: underline;
+}
 /*
 * ==========================================================================
 * Portfolio
@@ -941,8 +947,10 @@ footer h3 {
 }
 
 .person-image {
-    width: 100%;
-    max-width: 100%;
+    width: 100px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
 }
 
 .person-image-24 {
@@ -1221,4 +1229,41 @@ div.person > p {
 
 .padding-bottom-1 {
     padding-bottom: 1vh;
+}
+/* 
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+} */
+
+#publicationlist {
+    width: 100%;
+}
+
+#publicationlist > iframe {
+    width: 100%; 
+    border: none;
+}
+
+img.undraggable {
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.absolute {
+    position: absolute;
+}
+
+header {
+    height: 340px;
+    background-image: url('https://filelist.tudelft.nl/_processed_/5/9/csm_ds-plaatje_78751f0bc6.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+header h1 {
+    padding-top: 140px;
 }

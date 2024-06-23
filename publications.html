@@ -12,12 +12,9 @@ title: Publications
         </div>
 
         <div class="row">
-            <div id="publicationlist"></div>
-            {% include get_publications.html pub_link=publications_link%}
-            <!--      <style>iframe {width: 100%;  border: none;}</style>-->
-            <!--      <script src="https://d1rkab7tlqy5f1.cloudfront.net/Admin/pure-converter/js/iframeResizer.min.js"></script>-->
-            <!--      <iframe src="https://purexml.ewi.tudelft.nl/direct/tu/group/d4352fd2-26c8-4288-90d5-340b3e36cb06" scrolling="no"></iframe>-->
-            <!--      <script>iFrameResize()</script>-->
+            <div id="publicationlist">
+                <iframe src="{{publications_link}}"></iframe>
+            </div>
         </div>
     </div>
 </section>
