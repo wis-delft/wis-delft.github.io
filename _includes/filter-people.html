@@ -36,35 +36,44 @@
     {% endif %}
 
     <div class="col-lg-4 col-md-6">
-        <div class="blockquote-box blockquote-people animated {{animationType}} clearfix">
-            <div class="square pull-left">
-                {% if people.image contains 'http://' or people.image contains 'https://' %}
-                <div class="person-image" style="background-image:url('{{ people.image }}')"></div>
-                {% else %}
-                <div class="person-image" style="background-image:url('{{ site.baseurl }}/assets/img/people/{{ people.image }}')"></div>
-                {% endif %}
+
+        <div class="card animated {{animationType}}">
+            <div class="card-header clearfix">
+                <div class="square pull-left">
+                    {% if people.image contains 'http://' or people.image contains 'https://' %}
+                    <div class="person-image" style="background-image:url('{{ people.image }}')"></div>
+                    {% else %}
+                    <div class="person-image"
+                         style="background-image:url('{{ site.baseurl }}/assets/img/people/{{ people.image }}')"></div>
+                    {% endif %}
+                </div>
+                <div class="text-left">
+                    <h4>
+                        <a class="people-item-name" href="{{site.baseurl}}{{people.url}}">{{people.name}}</a>
+                    </h4>
+                    <p>{{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}</p>
+                </div>
             </div>
-            <h4>
-                <a class="people-item-name" href="{{site.baseurl}}{{people.url}}">{{people.name}}</a>
-            </h4>
-
-            <p>
-                {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
-            </p>
-
-            <p>
-                Room {{people.office}}
-                <a href="mailto:{{people.email}}" target="_blank">{{people.email}}</a>
-                <br>
-                {% assign empty_linkedin = people.linkedin | strip %}
-                {% unless empty_linkedin == '' %}
-                <a class="pr-2" href="{{people.linkedin}}"
-                    target="_blank" title="LinkedIn">
+            <div class="card-body text-center">
+                <p>{{people.office}}</p>
+                <p>
+                    <a href="mailto:{{people.email}}" target="_blank"><i class="fa-solid fa-lg fa-envelope"></i></a>
+                    {% assign empty_linkedin = people.linkedin | strip %}
+                    {% unless empty_linkedin == '' %}
+                    | <a href="{{people.linkedin}}"
+                         target="_blank" title="LinkedIn">
                     <i class="fa-brands fa-lg fa-linkedin"></i>
-                </a>
-                {% endunless %}
-            </p>
-
+                    </a>
+                    {% endunless %}
+                    {% assign empty_github = people.github | strip %}
+                    {% unless empty_github == '' %}
+                    | <a href="{{people.github}}"
+                         target="_blank" title="GitHub">
+                    <i class="fa-brands fa-lg fa-github"></i>
+                    </a>
+                    {% endunless %}
+                </p>
+            </div>
         </div>
 
     </div>
