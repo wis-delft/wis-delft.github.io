@@ -32,7 +32,7 @@ linkedin:
 twitter: 
 github: 
 
-# look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
+# look for your image here: https://github.com/dis-delft/dis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
 image: member1.png
@@ -40,7 +40,7 @@ image: member1.png
 # the TUD email address
 email: 
 
-# Room number (e.g Room - 840 West 4rd floor)
+# Room number (e.g., 840 West 4rd floor)
 office: 
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)

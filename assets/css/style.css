@@ -1267,3 +1267,56 @@ header {
 header h1 {
     padding-top: 140px;
 }
+
+/* Card */
+.card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px 0;
+    height: 275px; /* Enforcing a fixed height for all cards */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+p {
+    margin-bottom: 0px;
+}
+
+}
+.person-image {
+    width: 100px;
+    height: 150px;
+    background-size: cover;
+    background-position: top;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 12px;
+}
+
+.card-body {
+    padding-top: 0;
+    flex-grow: 1;
+}
+
+.people-item-name {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.people-item-name:hover {
+    text-decoration: underline;
+}
+
+.card-footer a {
+    margin-right: 10px;
+}
