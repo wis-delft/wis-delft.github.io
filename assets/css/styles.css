@@ -117,6 +117,7 @@ h3.col-xs-12 {
 
 .content-space {
     margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 .center {
@@ -830,6 +831,7 @@ footer h3 {
     border-color: #f9dc8b;
     /*#c5ecac*/
 }
+
 .blockquote-people .square {
     background-color: #fbfff1;
 }
@@ -841,6 +843,7 @@ footer h3 {
 .people-item-name:hover {
     text-decoration: underline;
 }
+
 /*
 * ==========================================================================
 * Portfolio
@@ -970,7 +973,7 @@ footer h3 {
     margin-top: 3vh;
 }
 
-.margin-top-4{
+.margin-top-4 {
     margin-top: 4vh;
 }
 
@@ -1002,7 +1005,7 @@ footer h3 {
     color: black;
 }
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
     #navbar-section .header-logo {
         text-align: center;
         padding-bottom: 0.5rem;
@@ -1010,7 +1013,7 @@ footer h3 {
 }
 
 #research-themes {
-    text-align: left!important;
+    text-align: left !important;
 }
 
 .services-more {
@@ -1025,7 +1028,7 @@ footer h3 {
     }
 }
 
-@media (max-width: 767px)  {
+@media (max-width: 767px) {
     .services-more {
         margin-bottom: 0.25vh;
     }
@@ -1043,7 +1046,7 @@ footer h3 {
     margin-top: -1vh;
 }
 
-div.person > h1{
+div.person > h1 {
     width: 100%;
 }
 
@@ -1198,6 +1201,7 @@ div.person > p {
 .dbml-nav li a {
     color: white;
 }
+
 #title {
     padding-top: 15vh;
     color: white;
@@ -1230,7 +1234,8 @@ div.person > p {
 .padding-bottom-1 {
     padding-bottom: 1vh;
 }
-/* 
+
+/*
 h1, h2, h3 {
     font-family: 'Roboto Slab', serif;
 } */
@@ -1240,7 +1245,7 @@ h1, h2, h3 {
 }
 
 #publicationlist > iframe {
-    width: 100%; 
+    width: 100%;
     border: none;
 }
 
@@ -1259,7 +1264,7 @@ img.undraggable {
 
 header {
     height: 340px;
-    background-image: url('https://filelist.tudelft.nl/_processed_/5/9/csm_ds-plaatje_78751f0bc6.jpg');
+    background-image: url('/assets/img/home/banner.png');
     background-position: center;
     background-size: cover;
 }
@@ -1269,7 +1274,7 @@ header h1 {
 }
 
 /* Card */
-.card {
+.person-card {
     background-color: white;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -1281,13 +1286,21 @@ header h1 {
     justify-content: flex-start;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     opacity: 0;
+    cursor: pointer;
+!important;
 }
 
-.card.visible {
+.person-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+.person-card.visible {
     opacity: 1;
 }
 
-.card p {
+.person-card p {
     margin-bottom: 0;
 }
 
@@ -1312,23 +1325,18 @@ header h1 {
     flex-grow: 1;
 }
 
+.card-footer a {
+    margin-right: 10px;
+}
+
 .people-item-name {
     color: #333;
     text-decoration: none;
     font-size: 1.2em;
     margin-bottom: 5px;
+    transition: text-decoration 0.3s;
 }
 
 .people-item-name:hover {
     text-decoration: underline;
-    transition: text-decoration 0.3s;
-}
-
-.card-footer a {
-    margin-right: 10px;
-}
-
-.card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
