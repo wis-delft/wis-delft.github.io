@@ -58,18 +58,18 @@
             <div class="card-body text-center">
                 <p>{{people.office}}</p>
                 <p>
-                    <a href="mailto:{{people.email}}" target="_blank"><i class="fa-solid fa-lg fa-envelope"></i></a>
+                    <a href="mailto:{{people.email}}" target="_blank" class="icon-link"><i class="fa-solid fa-lg fa-envelope"></i></a>
                     {% assign empty_linkedin = people.linkedin | strip %}
                     {% unless empty_linkedin == '' %}
                     | <a href="{{people.linkedin}}"
-                         target="_blank" title="LinkedIn">
+                        class="icon-link" target="_blank" title="LinkedIn">
                     <i class="fa-brands fa-lg fa-linkedin"></i>
                 </a>
                     {% endunless %}
                     {% assign empty_github = people.github | strip %}
                     {% unless empty_github == '' %}
                     | <a href="{{people.github}}"
-                         target="_blank" title="GitHub">
+                        class="icon-link" target="_blank" title="GitHub">
                     <i class="fa-brands fa-lg fa-github"></i>
                 </a>
                     {% endunless %}

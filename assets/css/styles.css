@@ -16,7 +16,18 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 .btn-primary {
+    background-color: #00a6d6;
+    border: none;
     margin-left: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #006b8a;
+}
+
+.btn-primary:active, .btn-primary:focus {
+    background-color: #006b8a !important;
+    box-shadow: none !important;
 }
 
 .blog-title {
@@ -204,8 +215,8 @@ a {
     -ms-transition: all .3s;
 }
 
-a:hover {
-    color: #888;
+nav ul a:hover, footer a:hover {
+    color: white;
     text-decoration: none;
 }
 
@@ -603,16 +614,24 @@ footer .widget i {
 }
 
 footer {
-    left: 0;
-    left: 0;
-    right: 0;
-    background: black;
-    bottom: 0;
-    position: relative;
+    background-image: url(/assets/img/torch.svg);
+    background-repeat: no-repeat;
+    background-position: 15% 75%;
+    background-size: 250%;
+    background-blend-mode: overlay;
+    background-color: #00a6d6;
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    overflow: auto;
+    margin-bottom: -24px;
+}
+
+footer a {
+    color: white;
 }
 
 footer h3 {
-    color: #dadada;
     margin-bottom: 20px;
 }
 
@@ -620,6 +639,10 @@ footer h3 {
     color: white;
 }
 
+#footer-logos {
+    display: flex;
+    gap: 40px;
+}
 
 /*Social Buttons */
 #social-icons {
@@ -1001,8 +1024,8 @@ footer h3 {
     color: white;
 }
 
-#navbar-section a:hover {
-    color: black;
+#navbar-section ul a:hover, footer a:hover {
+    text-decoration: underline;
 }
 
 @media (max-width: 575.98px) {
@@ -1160,7 +1183,7 @@ div.person > p {
 }
 
 #banner {
-    background-image: url("../../assets/img/dbml/banner.jpeg");
+    background-image: url("../../assets/img/dbml/banner.webp");
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -1264,7 +1287,7 @@ img.undraggable {
 
 header {
     height: 340px;
-    background-image: url('/assets/img/home/banner.png');
+    background-image: url('/assets/img/home/banner.webp');
     background-position: center;
     background-size: cover;
 }
@@ -1339,4 +1362,38 @@ header h1 {
 
 .people-item-name:hover {
     text-decoration: underline;
+}
+
+.hidden {
+    display: none;
+}
+
+a:hover {
+    color: #006b8a;
+}
+
+.icon-link:hover {
+    text-decoration: none;
+}
+
+#footer-menu {
+    padding: 0;
+    list-style-type: none;
+}
+
+@media (max-width: 600px) {
+    #footer-menu {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    #footer-menu li {
+        display: inline;
+        margin-bottom: 0;
+    }
+
+    .footer-contact {
+        margin: 1rem 0;
+    }
 }
