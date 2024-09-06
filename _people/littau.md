@@ -41,7 +41,7 @@ image: tim_littau.jpg
 email: T.M.Littau@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 
+office: 920 West 3rd Floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: littau.html
