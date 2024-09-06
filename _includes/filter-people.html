@@ -45,7 +45,6 @@
                 <h4>
                     {{people.name}}
                 </h4>
-
                 <p>
                     {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
                 </p>
@@ -88,11 +87,12 @@
             <div class="square pull-left">
                 <img src="{{site.baseurl}}/assets/img/people/{{people.image}}" alt="Feature-img" class="person-image">
             </div>
-            <h4>
+            <!-- Set the coloring to match others for secretary name -->
+            <h4 class="sec-person">
                 {{people.name}}
             </h4>
 
-            <p>
+            <p class="sec-person">
                 {{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}
             </p>
 

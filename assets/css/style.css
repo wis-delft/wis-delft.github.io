@@ -1207,3 +1207,12 @@ div.person > p {
 .padding-bottom-1 {
     padding-bottom: 1vh;
 }
+
+.sec-person {
+    color: #00A6D6;
+}
+
+.sec-person:hover {
+    color: #888;
+    text-decoration: none;
+}
