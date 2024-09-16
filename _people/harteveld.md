@@ -5,7 +5,7 @@
 # !!!! 
 
 # Your full name (Firstname, Lastname)
-name: Nadia
+name: Nadia Harteveld
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:
@@ -28,7 +28,7 @@ theme-filter: 8
 team: []
 
 # provide social URLs (if any)
-linkedin: 
+linkedin: http://www.linkedin.com/in/nadia-binda-harteveld-b9093a76
 twitter: 
 github: 
 
@@ -38,10 +38,10 @@ github:
 image: Nadia.jpg
 
 # the TUD email address
-email: 
+email: n.harteveld@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 820 West 4th floor
+office: 820 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: harteveld.html
