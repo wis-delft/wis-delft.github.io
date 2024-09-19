@@ -38,7 +38,7 @@ github: https://github.com/omrazCZ
 image: Mraz.jpg
 
 # the TUD email address
-email: omraz@tudelft.nl
+email: o.m.mraz@tudelft.nl
 
 # Room number (e.g., 840 West 4rd floor)
 office: 240 East 1st floor
