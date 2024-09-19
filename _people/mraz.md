@@ -1,6 +1,6 @@
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/oto-mraz-643270192/
-twitter: 
+# twitter: 
 github: https://github.com/omrazCZ
 
 # look for your image here: https://github.com/dis-delft/dis-delft.github.io/tree/master/assets/img/people 
@@ -9,7 +9,7 @@ github: https://github.com/omrazCZ
 image: Mraz.jpg
 
 # the TUD email address
-email: omraz@tudelft.nl
+email: o.m.mraz@tudelft.nl
 
 # Room number (e.g., 840 West 4rd floor)
 office: 240 East 1st floor
