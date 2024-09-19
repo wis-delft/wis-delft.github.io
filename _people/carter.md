@@ -41,7 +41,7 @@ image: carterse.png
 email: S.E.Carter@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 600 West 3rd floor
+office: Send an email for room number
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: carter.html
@@ -55,7 +55,9 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/c9f1e1
 
 ## About
 
-I am an intellectually curious "scientist-ethicist" interested in ensuring scientific progress always serves us and our communities. My research interests include AI ethics, data privacy, and bioethics. For my interdisciplinary PhD at the University of Galway, I researched how to promote more meaningful, value-driven privacy choices on our smartphones. I also hold a master's degree in biomedical science (Utrecht University) and a bachelor's degree in biochemistry (major) and music (minor) (Mount Holyoke College). In my current position as a postdoctoral researcher at TU Delft, I hope to continue utilizing my interdisciplinary communication skills to continue building bridges between disciplines and between experts and the public.
+Too often, we feel like technology has a hold of us, rather than using it to live the lives we value. In my research (Personal Values in Design), I explore how we can design technology in a manner that empowers us and puts us back in the driver's seat. In particular, I look at how we can design systems to help us make more value-centered decisions when interacting with technology. To do this, I take insights from philosophy concerning human autonomy and translate them into design criteria, taking cues from other disciplines such as the psychology of decision-making, human-computer interaction, and value-sensitive design.
+
+In my current role as a Postdoc in AI Ethics at TU Delft (funded by the Dutch National Digital Society Program), I conduct research into promoting human autonomy through mental health chatbot design. I also organize events to bring together diverse scholars to explore meaningful human-AI interaction, and I greatly enjoy teaching, supervising, and mentoring students in ethics. 
 
 Having grown up in the North Woods of Minnesota, I am passionate about nature and enjoy birding, hiking, and taking long walks. I also am a hobbyist upright and electric bass player, playing jazz, blues, rock, and classical music. 
 
