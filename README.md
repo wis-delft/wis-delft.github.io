@@ -55,7 +55,7 @@ Our department head (Geert-Jan Houben) has a different [layout](_layouts/content
   `[domain]/[lastname]` or `[domain]/[lastname1-lastname2]`.
 - [Assets folder](assets) containing:
   - css 
-    - [style file](assets/css/style.css)
+    - [style file](assets/css/styles.css)
   - images 
     - [WIS members images](assets/img/people)
     - [images used in the research themes](assets/img/theme)

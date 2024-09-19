@@ -30,14 +30,15 @@
     {% assign animationType = 'zoomIn' %}
     {% endif %}
 
-    {% if colum_counter == 2 %}
+    {% if column_counter == 2 %}
     <!--            Animation for the 3rd column-->
     {% assign animationType = 'fadeInRight' %}
     {% endif %}
 
     <div class="col-lg-4 col-md-6">
-
-        <div class="card animated {{animationType}}">
+        {% assign people_slug = people.url | slugify %}
+        <div id="{{ people_slug }}" class="card person-card animated"
+             onclick="window.location.href='{{site.baseurl}}{{people.url}}'" data-animation="{{ animationType }}">
             <div class="card-header clearfix">
                 <div class="square pull-left">
                     {% if people.image contains 'http://' or people.image contains 'https://' %}
@@ -57,20 +58,20 @@
             <div class="card-body text-center">
                 <p>{{people.office}}</p>
                 <p>
-                    <a href="mailto:{{people.email}}" target="_blank"><i class="fa-solid fa-lg fa-envelope"></i></a>
+                    <a href="mailto:{{people.email}}" target="_blank" class="icon-link"><i class="fa-solid fa-lg fa-envelope"></i></a>
                     {% assign empty_linkedin = people.linkedin | strip %}
                     {% unless empty_linkedin == '' %}
                     | <a href="{{people.linkedin}}"
-                         target="_blank" title="LinkedIn">
+                        class="icon-link" target="_blank" title="LinkedIn">
                     <i class="fa-brands fa-lg fa-linkedin"></i>
-                    </a>
+                </a>
                     {% endunless %}
                     {% assign empty_github = people.github | strip %}
                     {% unless empty_github == '' %}
                     | <a href="{{people.github}}"
-                         target="_blank" title="GitHub">
+                        class="icon-link" target="_blank" title="GitHub">
                     <i class="fa-brands fa-lg fa-github"></i>
-                    </a>
+                </a>
                     {% endunless %}
                 </p>
             </div>
@@ -100,3 +101,28 @@
 </div>
 {% endif %}
 {% endfor %}
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        function onVisibilityChange(entries, observer) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    entry.target.classList.add(entry.target.getAttribute('data-animation'));
+
+                    // Add an event listener for the animation end event
+                    entry.target.addEventListener('animationend', function () {
+                        entry.target.classList.remove(entry.target.getAttribute('data-animation'));
+                    });
+
+                    observer.unobserve(entry.target);
+                }
+            });
+        }
+
+        const observer = new IntersectionObserver(onVisibilityChange, {threshold: 0.1});
+        document.querySelectorAll('.card').forEach(card => {
+            observer.observe(card);
+        });
+    });
+</script>

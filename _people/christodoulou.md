@@ -5,7 +5,7 @@
 # !!!! 
 
 # Your full name (Firstname, Lastname)
-name: Kyriakos Psarakis
+name: George Christodoulou
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:
@@ -18,45 +18,39 @@ name: Kyriakos Psarakis
 # Research Engineer - 6 
 # Guest Researcher - 7
 # Secretary - 8
-role: PhD Candidate
-filter: 5
+role: Postdoctoral Researcher
+filter: 4
 
 # same as filter
-theme-filter: 5
+theme-filter: 4
 
-# choose your team(s) from this list: tds, dsb, sgl, dls, sdm  (see https://github.com/dis-delft/dis-website/blob/master/_config.yml#L33-L39)
+# choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
 team: [sdm]
 
 # provide social URLs (if any)
-linkedin: https://www.linkedin.com/in/kyriakos-psarakis-699843147/
-twitter: https://x.com/kPsarakis
-github: https://github.com/kPsarakis
+linkedin: https://www.linkedin.com/in/george-ch/
+twitter: 
+github: https://github.com/GiorgosChristodoulou
 
 # look for your image here: https://github.com/dis-delft/dis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
-image: kyriakos.jpg
+image: christodoulou.jpeg
 
 # the TUD email address
-email: k.psarakis@tudelft.nl
+email: g.c.christodoulou@tudelft.nl
 
 # Room number (e.g., 840 West 4rd floor)
 office: 1.E.240
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
-back: psarakis.html
+back: christodoulou.html
 
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/98d8d753-edf7-4b21-a6ff-8f454637333b
-
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/e55a45f9-a442-4507-b02f-c68183896721
 ---
-
 ## About
 
-I'm working at the intersection of stream processing and serverless computing under the supervision of [Asterios Katsifodimos](http://asterios.katsifodimos.com/).
-
-
-Prior to that I obtained my MSc in Computer Science at TU Delft with a thesis at [Holistic Schema Matching at Scale](https://repository.tudelft.nl/islandora/object/uuid%3Af4ebeda3-6465-49da-813b-f1e6e0820c60) in collaboration with [ING Netherlands](https://www.ing.nl/particulier/english/index.html).
-My first degree was a diploma (Integrated master's degree) in Electrical and Computer Engineering at the [Technical University of Crete](https://www.tuc.gr/index.php?id=5397).
+I was born in Kos, Greece. I received my diploma in Computer Science and Engineering from the Computer Science and Engineering Department of the University of Ioannina in 2017. I received my MSc in Computer Science with specialization in software from the Computer Science and Engineering Department of the University of Ioannina in 2020. I received my PhD from the Computer Science and Engineering Department of the University of Ioannina in 2023. My research interests include Data Management, Query processing (Efficient Data Indexing and Retrieval on temporal data) and Database Management System engines.christo

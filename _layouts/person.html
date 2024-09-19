@@ -19,6 +19,7 @@ layout: default_style
                 </p>
 
                 <div class="row justify-content-center margin-top-4">
+
                     <h6><a class="col-lg-2" href="{{site.baseurl}}/{{page.back}}#about">About</a></h6>
                     {% unless page.filter > 0 %}
                     {% assign details = site.details | sort: 'order' %}
@@ -28,9 +29,8 @@ layout: default_style
                     {% endfor %}
                     {% endunless %}
                     {% if page.filter > 0 %}
-                    <h6><a class="col-lg-2" href="{{site.baseurl}}/{{page.back}}#publications">Publications</a>
+                    <h6><a class="col-lg-2" href="{{site.baseurl}}/{{page.back}}#publications">Publications</a></h6>
                     {% endif %}
-                    </h6>
                 </div>
             </div>
         </div>
@@ -39,7 +39,6 @@ layout: default_style
             <div class="col-lg-9">
                 <div class="row pr-4 person">
                     {{page.content}}
-
                     {% unless page.details > 0 %}
                     <h2 id="publications">Publications</h2>
                     <div id="publicationlist">
@@ -54,7 +53,8 @@ layout: default_style
                     {% if page.image contains 'http://' or page.image contains 'https://' %}
                     <img src="{{ page.image }}" alt="Picture of {{ page.name }}" width="100%" height="100%">
                     {% else %}
-                    <img src="{{ site.baseurl }}/assets/img/people/{{ page.image }}" alt="Picture of {{ page.name }}" width="100%" height="100%">
+                    <img src="{{ site.baseurl }}/assets/img/people/{{ page.image }}" alt="Picture of {{ page.name }}"
+                         width="100%" height="100%">
                     {% endif %}
                 </div>
 

@@ -16,7 +16,18 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 .btn-primary {
+    background-color: #00a6d6;
+    border: none;
     margin-left: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #006b8a;
+}
+
+.btn-primary:active, .btn-primary:focus {
+    background-color: #006b8a !important;
+    box-shadow: none !important;
 }
 
 .blog-title {
@@ -117,6 +128,7 @@ h3.col-xs-12 {
 
 .content-space {
     margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 .center {
@@ -203,8 +215,8 @@ a {
     -ms-transition: all .3s;
 }
 
-a:hover {
-    color: #888;
+nav ul a:hover, footer a:hover {
+    color: white;
     text-decoration: none;
 }
 
@@ -602,16 +614,24 @@ footer .widget i {
 }
 
 footer {
-    left: 0;
-    left: 0;
-    right: 0;
-    background: black;
-    bottom: 0;
-    position: relative;
+    background-image: url(/assets/img/torch.svg);
+    background-repeat: no-repeat;
+    background-position: 15% 75%;
+    background-size: 250%;
+    background-blend-mode: overlay;
+    background-color: #00a6d6;
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    overflow: auto;
+    margin-bottom: -24px;
+}
+
+footer a {
+    color: white;
 }
 
 footer h3 {
-    color: #dadada;
     margin-bottom: 20px;
 }
 
@@ -619,6 +639,10 @@ footer h3 {
     color: white;
 }
 
+#footer-logos {
+    display: flex;
+    gap: 40px;
+}
 
 /*Social Buttons */
 #social-icons {
@@ -830,6 +854,7 @@ footer h3 {
     border-color: #f9dc8b;
     /*#c5ecac*/
 }
+
 .blockquote-people .square {
     background-color: #fbfff1;
 }
@@ -841,6 +866,7 @@ footer h3 {
 .people-item-name:hover {
     text-decoration: underline;
 }
+
 /*
 * ==========================================================================
 * Portfolio
@@ -970,7 +996,7 @@ footer h3 {
     margin-top: 3vh;
 }
 
-.margin-top-4{
+.margin-top-4 {
     margin-top: 4vh;
 }
 
@@ -998,11 +1024,11 @@ footer h3 {
     color: white;
 }
 
-#navbar-section a:hover {
-    color: black;
+#navbar-section ul a:hover, footer a:hover {
+    text-decoration: underline;
 }
 
-@media (max-width: 575.98px) { 
+@media (max-width: 575.98px) {
     #navbar-section .header-logo {
         text-align: center;
         padding-bottom: 0.5rem;
@@ -1010,7 +1036,7 @@ footer h3 {
 }
 
 #research-themes {
-    text-align: left!important;
+    text-align: left !important;
 }
 
 .services-more {
@@ -1025,7 +1051,7 @@ footer h3 {
     }
 }
 
-@media (max-width: 767px)  {
+@media (max-width: 767px) {
     .services-more {
         margin-bottom: 0.25vh;
     }
@@ -1043,7 +1069,7 @@ footer h3 {
     margin-top: -1vh;
 }
 
-div.person > h1{
+div.person > h1 {
     width: 100%;
 }
 
@@ -1157,7 +1183,7 @@ div.person > p {
 }
 
 #banner {
-    background-image: url("../../assets/img/dbml/banner.jpeg");
+    background-image: url("../../assets/img/dbml/banner.webp");
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -1198,6 +1224,7 @@ div.person > p {
 .dbml-nav li a {
     color: white;
 }
+
 #title {
     padding-top: 15vh;
     color: white;
@@ -1230,7 +1257,8 @@ div.person > p {
 .padding-bottom-1 {
     padding-bottom: 1vh;
 }
-/* 
+
+/*
 h1, h2, h3 {
     font-family: 'Roboto Slab', serif;
 } */
@@ -1240,7 +1268,7 @@ h1, h2, h3 {
 }
 
 #publicationlist > iframe {
-    width: 100%; 
+    width: 100%;
     border: none;
 }
 
@@ -1259,7 +1287,7 @@ img.undraggable {
 
 header {
     height: 340px;
-    background-image: url('https://filelist.tudelft.nl/_processed_/5/9/csm_ds-plaatje_78751f0bc6.jpg');
+    background-image: url('/assets/img/home/banner.webp');
     background-position: center;
     background-size: cover;
 }
@@ -1269,7 +1297,7 @@ header h1 {
 }
 
 /* Card */
-.card {
+.person-card {
     background-color: white;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -1279,12 +1307,26 @@ header h1 {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-
-p {
-    margin-bottom: 0px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    opacity: 0;
+    cursor: pointer;
+!important;
 }
 
+.person-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
+
+
+.person-card.visible {
+    opacity: 1;
+}
+
+.person-card p {
+    margin-bottom: 0;
+}
+
 .person-image {
     width: 100px;
     height: 150px;
@@ -1306,17 +1348,52 @@ p {
     flex-grow: 1;
 }
 
+.card-footer a {
+    margin-right: 10px;
+}
+
 .people-item-name {
     color: #333;
     text-decoration: none;
     font-size: 1.2em;
     margin-bottom: 5px;
+    transition: text-decoration 0.3s;
 }
 
 .people-item-name:hover {
     text-decoration: underline;
 }
 
-.card-footer a {
-    margin-right: 10px;
+.hidden {
+    display: none;
+}
+
+a:hover {
+    color: #006b8a;
+}
+
+.icon-link:hover {
+    text-decoration: none;
+}
+
+#footer-menu {
+    padding: 0;
+    list-style-type: none;
+}
+
+@media (max-width: 600px) {
+    #footer-menu {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    #footer-menu li {
+        display: inline;
+        margin-bottom: 0;
+    }
+
+    .footer-contact {
+        margin: 1rem 0;
+    }
 }
