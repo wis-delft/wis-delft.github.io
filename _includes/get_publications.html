@@ -8,10 +8,26 @@
 
     xhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
-            document.getElementById("publicationlist").innerHTML = this.responseText;
+            // document.getElementById("publicationlist").innerHTML = this.responseText;
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(this.responseText, "text/html");
+            var container = document.createElement("div");
+            var all_p = doc.getElementsByTagName("p");
+            var u_list = document.createElement("ul");
+            u_list.className = "publication-items";
+            for (p in all_p) {
+                if (all_p[p].innerHTML !== undefined){
+                    var d = document.createElement("li");
+                    d.innerHTML = all_p[p].innerHTML;
+                    d.className = "publication";
+                    u_list.appendChild(d);
+                }
+            }
+            container.append(u_list);
+            container.appendChild(doc.getElementsByClassName("pagination-block")[0]);
+            document.getElementById("publicationlist").appendChild(container);
         }
     };
     xhttp.open("GET", link + page, true);
     xhttp.send();
-
 </script>

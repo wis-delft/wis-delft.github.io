@@ -1216,3 +1216,44 @@ div.person > p {
     color: #888;
     text-decoration: none;
 } */
+
+.publication-items {
+    padding-left: inherit;
+}
+
+.pagination-block {
+    margin: 0 0 1em 0;
+    text-align: center
+}
+
+.pagination {
+    margin: 0 auto;
+    padding-top: .5em;
+    display: inline-block;
+    border-top: solid #000 1px
+}
+
+span, .pagination a {
+    color: black;
+    float: left;
+    padding: 4px 8px;
+    text-decoration: none
+}
+
+span, .pagination a.active {
+    background-color: #00a3d3;
+    color: white;
+    border-radius: 5px
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 5px
+}
+
+@media only screen and (min-width:600px) {
+    .publication {
+        margin-left: 2em;
+        display: list-item
+    }
+}
