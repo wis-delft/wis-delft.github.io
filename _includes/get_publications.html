@@ -8,7 +8,6 @@
 
     xhttp.onreadystatechange = function () {
         if (this.readyState === 4 && this.status === 200) {
-            // document.getElementById("publicationlist").innerHTML = this.responseText;
             var parser = new DOMParser();
             var doc = parser.parseFromString(this.responseText, "text/html");
             var container = document.createElement("div");
@@ -24,7 +23,10 @@
                 }
             }
             container.append(u_list);
-            container.appendChild(doc.getElementsByClassName("pagination-block")[0]);
+            var nav_items = doc.getElementsByClassName("pagination-block")[0];
+            if (nav_items !== undefined){
+                container.append(doc.getElementsByClassName("pagination-block")[0]);
+            }
             document.getElementById("publicationlist").appendChild(container);
         }
     };
