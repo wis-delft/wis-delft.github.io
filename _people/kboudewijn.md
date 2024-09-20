@@ -39,7 +39,7 @@ image: kboudewijn.png
 email: k.boudewijn@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 1st floor West side
+office: 1.W.640
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: kboudewijn.html
