@@ -35,13 +35,13 @@ github: https://github.com/mg98
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people
 # if your image doesn't exist, upload it in assets/img/people
 # write the exact name of the image as it appears in GitHub  
-image: https://filelist.tudelft.nl/_processed_/f/6/csm_i0b4m7_d58de23a17.webp
+image: gregoriadis.jpg
 
 # the TUD email address
 email: m.gregoriadis@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 420 West 2nd Floor
+office: 420 East 1st floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: gregoriadis.html
@@ -55,12 +55,12 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6ead7c
 
 ## About
 
-Marcel Gregoriadis earned his B.Sc. in Stuttgart (Germany), and completed his M.Sc. at HU Berlin, both in Computer Science.
-Before and during that time, he has interned and worked for various software companies, auxiliary to his work as a freelance web developer.
+Marcel Gregoriadis received his B.Sc. in Stuttgart (Germany), and completed his M.Sc. at HU Berlin, both in Computer Science.
+Before and during that time, he has interned and worked for several software companies, auxiliary to his work as a freelance web developer.
 
 During his studies, he has also co-led [BeFoo](https://www.instagram.com/befoo.paris), a startup that offered individualized and subscription-based meal deliveries in Paris, as a technical director, as well as co-founded [Abracadalo](https://abracadalo.com), a premium API-service for Low-Code app developers.
 
-In 2023, he started his PhD at TU Delft's DIS group, under the guidance of Prof. Dr. Johan Pouwelse. His research focuses on the intersection of decentralized systems, machine learning, and information retrieval.
+In 2023, he started his Ph.D. at TU Delft's DIS group, under the guidance of Prof. Dr. Johan Pouwelse. His research focuses on the intersection of decentralized systems, machine learning, and information retrieval.
 During his research in Berlin, however, he has also been exposed to blockchain technology and data deduplication.
 
 In his free time, he enjoys reading non-fiction, hitting the gym, and coding on side-projects.
