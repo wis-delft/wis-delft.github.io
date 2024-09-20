@@ -29,7 +29,7 @@ team: []
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/rowdy-chotkan/
-twitter: https://x.com/RowdyChotkan
+twitter:
 github: https://github.com/InvictusRMC
 
 # look for your image here: https://github.com/dis-delft/dis-delft.github.io/tree/master/assets/img/people 
