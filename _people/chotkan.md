@@ -29,7 +29,7 @@ team: []
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/rowdy-chotkan/
-twitter: 
+twitter: https://x.com/RowdyChotkan
 github: https://github.com/InvictusRMC
 
 # look for your image here: https://github.com/dis-delft/dis-delft.github.io/tree/master/assets/img/people 
@@ -41,19 +41,22 @@ image: chotkan.jpg
 email: R.M.Chotkan-1@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 1E400
+office: 400 West 1st floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: 
 
-# Go to https://purexml-open.ewi.tudelft.nl 
+# Go to `https://purexml-open.ewi.tudelft.nl` 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/8aac7197-8bab-4664-ad99-13ea1707a252
 
 ---
 
 ## About
+Rowdy Chotkan is a PhD Candidate at Data-intensive Systems group the Delft University of Technology (TU Delft). He is researching trustworthy digital identities and communities, with a focus on Decentralised Autonomous Organisations and distributed systems. His promotors are Dr. Johan Pouwelse, Dr. Dion Bongaerts and Dr. Jérémie Decouchant.
+
+He is a part of TU Delft's Human Research Ethics Committee and of the IEEE Conference on Local Computer Networks (LCN) organizing committee.
 
 
 
