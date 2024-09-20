@@ -3,7 +3,7 @@
 
 {% for group in include.members %}
 <!--        Sort the items by the name of the person-->
-{% assign sorted_people = group.items | sort: "name" %}
+{% assign sorted_people = group.items | sort: "url" %}
 
 {% for people in sorted_people %}
 {% assign empty_name = people.name | strip %}
@@ -50,7 +50,7 @@
                 </div>
                 <div class="text-left">
                     <h4>
-                        <a class="people-item-name" href="{{site.baseurl}}{{people.url}}">{{people.name}}</a>
+                        <a class="people-item-name" href="{{site.baseurl}}{{people.url}}" style="pointer-events: auto;">{{people.name}}</a>
                     </h4>
                     <p>{{people.role}} {% if people.team contains 'cel' %} @ CEL {% endif %}</p>
                 </div>
@@ -58,18 +58,19 @@
             <div class="card-body text-center">
                 <p>{{people.office}}</p>
                 <p>
-                    <a href="mailto:{{people.email}}" target="_blank" class="icon-link"><i class="fa-solid fa-lg fa-envelope"></i></a>
+                    <a href="mailto:{{people.email}}" target="_blank" class="icon-link" onclick="event.stopPropagation();"><i
+                            class="fa-solid fa-lg fa-envelope"></i></a>
                     {% assign empty_linkedin = people.linkedin | strip %}
                     {% unless empty_linkedin == '' %}
                     | <a href="{{people.linkedin}}"
-                        class="icon-link" target="_blank" title="LinkedIn">
+                         class="icon-link" style="pointer-events: auto;" target="_blank" title="LinkedIn" onclick="event.stopPropagation();">
                     <i class="fa-brands fa-lg fa-linkedin"></i>
                 </a>
                     {% endunless %}
                     {% assign empty_github = people.github | strip %}
                     {% unless empty_github == '' %}
                     | <a href="{{people.github}}"
-                        class="icon-link" target="_blank" title="GitHub">
+                         class="icon-link" target="_blank" title="GitHub" onclick="event.stopPropagation();" >
                     <i class="fa-brands fa-lg fa-github"></i>
                 </a>
                     {% endunless %}
