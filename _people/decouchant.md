@@ -4,7 +4,7 @@ role: Assistant Professor
 filter: 3
 theme-filter: 1c
 team: delta
-office: 1.E.240
+office: 1.E.280
 linkedin: https://www.linkedin.com/in/jeremie-decouchant
 github: https://github.com/jdecouchant
 image: decouchant.jpg
