@@ -12,7 +12,7 @@ github: https://github.com/VenkteshV
 image: venky.jpeg
 email: v.viswanathan-1@tudelft.nl
 back: venktesh.html
-publications_link: https://scholar.google.com/citations?user=FrDPEc0AAAAJ&hl=en&authuser=2
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/35d66117-03f0-4977-a74d-ac1d8844ea2f
 
 ---
 ## About
