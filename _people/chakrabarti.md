@@ -25,7 +25,7 @@ filter: 5
 theme-filter: 5
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
-team: []
+team: [lambda]
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/hrishita-chakrabarti/
@@ -56,7 +56,7 @@ publications_link:
 ## About
 Hrishita Chakrabarti is a PhD candidate in the [Web Information Systems](https://www.wis.ewi.tudelft.nl/) group at TU Delft with [Dr. Maria Soledad Pera](https://solepera.github.io/) as her supervisor. She received her B.Tech in Computer Science and Engineering from VIT Vellore and her MSc in Computer Science from TU Delft. For her master's thesis, [“Much ado about Accessibility”](https://resolver.tudelft.nl/uuid:51442134-01c0-4e01-9ff3-6f7bbafdac14), she empirically explored the accessibility of responses of popular online information-seeking tools to autistic users. 
 
-As a part of the “Scaffolding to foster independence when children search Online for Learning” (SOL) project, her current research investigates the scaffolding needed in online search tools to improve search literacy skills in children as they search for information in a classroom setting.  
+As a part of the [“Scaffolding to foster independence when children search Online for Learning” (SOL)](https://solandchildren.wordpress.com/) project, her current research investigates the scaffolding needed in online search tools to improve search literacy skills in children as they search for information in a classroom setting.  
 
 
 

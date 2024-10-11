@@ -15,7 +15,7 @@ filter: 5
 # same as filter
 theme-filter: 5
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
-team: [epsilon]
+team: [epsilon, lambda]
 linkedin: https://linkedin.com/in/alisa-rieger-a3a456185
 twitter: https://twitter.com/alisarieg
 github: https://github.com/alisarieger

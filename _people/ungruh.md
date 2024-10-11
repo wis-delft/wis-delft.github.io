@@ -25,7 +25,7 @@ filter: 5
 theme-filter: 5 
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
-team: []
+team: [lambda]
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/robin-ungruh/
