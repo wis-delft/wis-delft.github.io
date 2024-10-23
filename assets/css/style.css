@@ -1160,6 +1160,51 @@ div.person > p {
     padding: 0 !important;
 }
 
+#banner251 {
+    background-image: url("../../assets/img/dbml/banner251.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner252 {
+    background-image: url("../../assets/img/dbml/banner252.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner253 {
+    background-image: url("../../assets/img/dbml/banner253.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner254 {
+    background-image: url("../../assets/img/dbml/banner254.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
+#banner255 {
+    background-image: url("../../assets/img/dbml/banner255.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+
 .nav-colored {
     background-color: #000;
 }
