@@ -1231,11 +1231,18 @@ div.person > p {
 }
 
 .dbml .section-colored {
-    background-color: #b6d7f8;
+    background-color: #f0f0f0;
 }
 
 .smaller-font h4 {
     font-size: 1.2rem;
+}
+
+.dbml .centered-list {
+    display: inline-block; /* Center the list container */
+    text-align: left;      /* Left-align items within the centered container */
+    padding: 0;            /* Remove any default padding for better centering */
+    list-style-position: inside; /* Adjust bullet alignment if needed */
 }
 
 #pc-members li {
