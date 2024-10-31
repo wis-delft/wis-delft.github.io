@@ -1231,6 +1231,10 @@ div.person > p {
 }
 
 .dbml .section-colored {
+    background-color: #b6d7f8;
+}
+
+.dbml .section-lgrey {
     background-color: #f0f0f0;
 }
 
