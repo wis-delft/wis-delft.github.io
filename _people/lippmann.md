@@ -54,8 +54,6 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/852929
 ---
 
 ## About
-I am a PhD candidate in Computer Science at Delft University of Technology. I am supervised by Jie Yang and am part of the Web Information Systems group at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS).
+I am a PhD candidate in Computer Science at Delft University of Technology. I am supervised by Jie Yang and Geert-Jan Houben and am part of the Web Information Systems group at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS).
 
-In my research, I aim to make contributions to the development and evaluation of Machine Learning systems, specifically through the use of value-sensitive Machine Learning, Natural Language Processing, and Human-in-the-Loop approaches.
-
-Before my PhD I had the opportunity to work on research in the fields of gaze tracking and Human-Computer Interaction. Prior to this, I spent time developing software at Amazon in Berlin, Germany and working as an engineer at the MIT/Delft Driverless Formula Student team. I hold an MSc degree from the TU Delft, the Netherlands and a BEng degree from the University of Warwick, UK.
+Find me at [plippmann.com](https://plippmann.com).
