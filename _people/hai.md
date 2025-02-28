@@ -32,5 +32,5 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 I am an assistant professor in the Web Information Systems (WIS) group at TU Delft, Netherlands. Before joining TU Delft, I received my Ph.D. degree from computer science 5 (Information Systems) of RWTH Aachen University. I received my master degree in June 2012 from the School of Information, Tsinghua University. My research focuses on data lakes, data management for machine learning, and quantum data management.
 
-We currently have available openings for PhD and MSc thesis for quantum data management. To apply, please send me an email including your CV, academic transcripts, and any other relevant documents.
+For more information, please check [my personal webpage](https://rihanhai.com/) and [my team](https://infinidata-team.github.io/).
 
