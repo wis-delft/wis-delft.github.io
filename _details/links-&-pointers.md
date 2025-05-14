@@ -50,7 +50,9 @@ Web: [wis.ewi.tudelft.nl/houben](https://www.wis.ewi.tudelft.nl/houben)
 Mail: g.j.p.m.houben@tudelft.nl
 
 <br/>
-_Web Information Systems group (TU Delft)_
+
+Web Information Systems group (TU Delft)
+
 Web: [wisdelft.nl](https://www.wisdelft.nl)
 
 Web: [wis.ewi.tudelft.nl](https://www.wis.ewi.tudelft.nl)
