@@ -15,6 +15,9 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac
 ### About 
 
 Associate Professor at the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology.
+I serve as the Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering) and in the department management team.
+
+
 
 My long-term research vision is to develop Semantic-based Data Engineering and Knowledge Engineering Methodologies that enable the development of FAIR (Findable, Accessible, Interoperable, Reusable) Data Management platforms to serve as a foundation of future sustainable societal re-search.
 
@@ -24,24 +27,28 @@ As the process of understanding the semantics of data is domain-specific, generi
 
 I am teaching a several Data Management courses at TU Delft, and actively work on strengthening data education within and outside TU Delft. 
 
-I serve as the Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering).
-
 
 
 ## Current Projects and Research Lines
 * __[Plant-XR & Data-XR](https://www.crop-xr.nl/)__: Large-scale NWO LTP 10-year programme on developping a new generation of intelligent breeding tools for extra resilient crops. My tream focuses on  semantic integration and knowledge provenance management. 
+<!--- 
 * __[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)__: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
+
+
 * __Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics__: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
 * __Towards Fairer and more Reliable Data-Driven Decision Support Systems__: in collaboration with Cognizant
 * __Valentine - Semantic Data Integration on Scale__ 
 * (Upcoming) __TROIKA Trustworthy Collaborative Knowledge Engineering__ NWO NGF in Nutritional and Translational Sciences: Upcoming [ICAI Lab](https://icai.ai/) 
+--->
 
-
+<!--- 
 ## Team
 * [Lixia Chu](./chu.html), PostDoc
 * [Agathe Balayn](./balayn.html), PhD Candidate
 * [Christos Koutras](./koutras.html), PhD Candidate
 * [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
+--->
+
 
 
 ### Education
@@ -51,24 +58,14 @@ I am currently teaching several courses at TU Delft:
 
 * BSc [CSE1500: Web and Database Technology](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48438){:target="_blank"} 5 ETCS, by Christoph Lofi and Ujwal Gadiraju. 
 * BSc [CSE1505: Information and Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ETCS, by Christoph Lofi and Asterios Katsifodimos. 
-* BSc [CSE2525: Data Mining](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57346){:target="_blank"} by Gosia Migut, Christoph Lofi and Asterios Katsifodimos. 
 * MSc [IN4252: Web Science & Engineering](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ECTS, by Christoph Lofi, Geert-Jan Houben and Jie Yang.
 * MSc [IN4331: Web-scale Data Management](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48439){:target="_blank"} 5 ETCS, by Asterios Katsifodimos and Christoph Lofi.
 * MSc IFEEMCS520100 Fundamentals of Artificial Intelligence Programme, 15 ETCS 
 * MOOC [AlfE3x Data Management and Data Pipelines](https://www.edx.org/course/ai-skills-for-engineers-data-management-pipelines), edX, TU Delft Extension School
 
-## Education Awards
-
-I was elected three times to the Top-3 for the Teacher of The Year Awards for Computer Science (academic years 2019-2021), organised by the Christiaan Huygens Study association.
-
-## Education Management
-
-* Director of Studies for [BSc Computer Science and Engineering](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering) starting summer 2023
-* Msc Coordinator: I am the MSc Coordinator for both the [Artificial Intelligence Track](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/the-artificial-intelligence-technology-track){:target="_blank"} and the [Information Architecture Special Programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/special-programmes/information-architecture){:target="_blank"}
-* Academic Portfolio Director: As part of the [TU Delft Extension school](https://online-learning.tudelft.nl/){:target="_blank"}, I manage the portfolio for _Digital Society_ (formerly _Artificial Intelligence & Cybersecurity_).
-
 ### Short CV
 
+* 2022: Associate Professor Delft University of Technology
 * 2016: Assistant Professor Delft University of Technology
 * 2014-2016: PostDoc at [Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/institute){:target="_blank"}
 * 2012-2014: PostDoc at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/){:target="_blank"}
