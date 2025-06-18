@@ -31,6 +31,7 @@ team: [kappa]
 linkedin: https://www.linkedin.com/in/lorenzo-corti-46a22b181/
 twitter: https://twitter.com/lorenz_corti
 github: https://github.com/LCorti
+webpage: https://lcorti.github.io/
 
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
@@ -54,9 +55,9 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/096711
 ---
 
 ## About
-I am a PhD Candidate in the [Web Information Systems (WIS)](https://www.wis.ewi.tudelft.nl/) group at [TU Delft](https://www.tudelft.nl/). There, I am supervised by Dr. [Jie Yang](https://yangjiera.github.io/) and Prof.Dr.Ir. [Geert-Jan Houben](https://scholar.google.com/citations?user=7SLMWEcAAAAJ&hl=en).
-I am part of the Kappa team (within WIS) and the TU Delft AI Lab [Design@Scale](https://www.tudelft.nl/ai/design-at-scale-lab).
-Before starting my PhD, I worked as a Research Assistant at [Politecnico di Milano](https://www.polimi.it/) where I contributed to two EU H2020 projects, [TRIGGER](https://trigger-project.eu/) and [PERISCOPE](https://periscopeproject.eu/).
-I received my MSc and BSc in Computer Science and Engineering from [Politecnico di Milano](https://www.polimi.it/) in 2019 and 2017 respectively.
+I am a PhD Candidate in the [Web Information Systems (WIS)](https://www.wis.ewi.tudelft.nl/) group at TU Delft. There, I am supervised by Dr. [Jie Yang](https://yangjiera.github.io/) and Prof.Dr.Ir. [Geert-Jan Houben](https://www.wis.ewi.tudelft.nl/houben).
+I am also part of the TU Delft AI Lab [Design@Scale](https://www.tudelft.nl/ai/design-at-scale-lab).
+In my work, I adopt a human-centred approach to studying and building tools that support practitioners in diagnosing the behaviours of large multimodal and language models.
 
-I work on human-centred approaches to Explainable AI, with a particular focus on Language Models. By drawing connections between Computer Science, Human-Computer Interaction, and Design, I aim to create computational methods and tools that support explainability end-users and are grounded in the understanding their uses and purposes for explainable AI systems.
+Before starting my PhD, I worked as a Research Assistant at [Politecnico di Milano](https://www.polimi.it/) where I contributed to two EU H2020 projects, [TRIGGER](https://trigger-project.eu/) and [PERISCOPE](https://periscopeproject.eu/).
+I received my MSc (supervised by Prof. [Marco Brambilla](https://marco-brambilla.com/)) and BSc in Computer Science and Engineering from Politecnico di Milano in 2019 and 2017 respectively.
