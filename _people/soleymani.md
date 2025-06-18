@@ -22,7 +22,7 @@ twitter: https://twitter.com/Alisoleymani_7
 github: https://github.com/AliSoleymani7
 image: Ali Soleymani.jpeg
 email: a.soleymani@tudelft.nl
-# Room number (e.g Room - 840 West 4rd floor)
+# Room number (e.g 840 West 4th floor)
 office: 260/280 East 2nd floor
 # The name of the file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
 back: soleymani.html

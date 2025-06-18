@@ -20,8 +20,8 @@ twitter: https://twitter.com/marcuspecht
 github:
 image: marcus.specht.jpg
 email: M.M.Specht@tudelft.nl
-# Room number only (Room: 840 West 4rd floor)
-office: 2.E.360
+# Room number only (840 West 4th floor)
+office: 860 West 3rd floor
 back: specht.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/a8816dec-9269-4a05-b727-59b277c41f8d
 ---

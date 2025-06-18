@@ -41,7 +41,7 @@ image: arzberger.jpg
 email: a.arzberger@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: Room - 540 West 3rd floor
+office: 700 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: arzberger.html

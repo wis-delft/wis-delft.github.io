@@ -21,8 +21,8 @@ twitter: https://twitter.com/kPsarakis
 github: https://github.com/kPsarakis
 image: kyriakos.jpg
 email: K.Psarakis@tudelft.nl
-# Room number only (e.g Room - 840 West 4rd floor)
-office: Room - 920 West 4th floor
+# Room number only (e.g 840 West 4th floor)
+office: 920 West 4th floor
 back: psarakis.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/98d8d753-edf7-4b21-a6ff-8f454637333b
 

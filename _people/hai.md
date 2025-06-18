@@ -21,8 +21,8 @@ twitter:
 github: 
 image: rihan.jpg
 email: R.Hai@tudelft.nl
-# Room number only (e.g Room - 840 West 4rd floor)
-office: Room - 900 West 3rd floor
+# Room number only (e.g 840 West 4th floor)
+office: 860 West 3rd floor
 back: hai.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de843-a410-42bc-aa40-e6ed379285c1
 

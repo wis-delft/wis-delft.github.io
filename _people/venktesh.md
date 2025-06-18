@@ -5,7 +5,7 @@ supervisor: Avishek Anand
 filter: 4
 team: []
 theme-filter: 1a
-office: Room - 600 West 3rd floor (W.3.600)
+office: 600 West 3rd floor
 linkedin: https://www.linkedin.com/in/venktesh-v-78099a135/
 twitter: https://twitter.com/vvenki22
 github: https://github.com/VenkteshV

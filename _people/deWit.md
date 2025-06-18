@@ -40,7 +40,7 @@ image: shirleydewit.png
 # the TUD email address
 email: s.dewit@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
+# Room number (e.g 840 West 4th floor)
 office: Room - 530 West 2th floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)

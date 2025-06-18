@@ -10,7 +10,7 @@ twitter: https://twitter.com/HeGaole
 github: https://github.com/RichardHGL
 image: Gaole He - 2021.jpg
 email: g.he@tudelft.nl
-office: Room - 040 East 4th floor
+office: 560 West 3rd Floor
 back: he.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/9c103169-7311-40c1-b012-5bab30f3ca25
 ---

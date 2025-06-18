@@ -9,7 +9,7 @@ twitter: https://twitter.com/feniaiv
 github: https://github.com/aivaloglou
 image: aivaloglou.jpg
 email: E.Aivaloglou@tudelft.nl
-office: 28.2.W660 
+office: 680 West 3rd floor
 back: aivaloglou.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/e1898a43-5932-4eea-92cf-38061a054696
 ---

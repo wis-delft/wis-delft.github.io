@@ -21,8 +21,8 @@ twitter: https://twitter.com/siachamis
 github: 
 image: georgios_siachamis.jpg
 email: g.siachamis@tudelft.nl
-# Room number only (e.g Room - 840 West 4rd floor)
-office: Room - 180 East 4rd floor
+# Room number only (e.g 840 West 4th floor)
+office: 
 back: siachamis.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/b5be7a3d-9e5a-4006-abf5-52811c0eae81
 

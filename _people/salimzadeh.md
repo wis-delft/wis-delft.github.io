@@ -21,8 +21,8 @@ twitter: https://twitter.com/sarasalimzadeh
 github: https://github.com/sarasal
 image: Sara Salimzadeh 2019.jpg
 email: s.salimzadeh@tudelft.nl
-# Room number only (e.g Room - 840 West 4rd floor)
-office: Room - 180 East 4rd floor
+# Room number only (e.g 840 West 4th floor)
+office: 
 back: salimzadeh.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/ad516dfb-5e7a-4020-88e7-31d33e865d50
 

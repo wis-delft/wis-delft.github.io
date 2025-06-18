@@ -35,8 +35,8 @@ image: avishek-homepage.jpg
 # the TUD email address
 email: avishek.anand@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
-office: 4.E.060
+# Room number (e.g 840 West 4th floor)
+office: 660 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: anand.html

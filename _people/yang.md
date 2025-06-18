@@ -21,8 +21,8 @@ twitter: https://twitter.com/yangjiera
 github: https://github.com/yangjiera
 image: Jie Yang.jpg
 email: j.yang-3@tudelft.nl
-# Room number (e.g Room - 840 West 4rd floor)
-office: 4.E.160 East 4rd floor
+# Room number (e.g 840 West 4th floor)
+office: 760 West 3rd floor
 back: yang.html
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7c98938e-95a5-4303-99fb-abe2a102d9c5
 

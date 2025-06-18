@@ -38,8 +38,8 @@ image: shankar.jpg
 # the TUD email address
 email: a.shankar@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
-office: 540 West 3rd floor
+# Room number (e.g 840 West 4th floor)
+office: 920 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: shankar.html

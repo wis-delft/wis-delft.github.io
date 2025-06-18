@@ -40,8 +40,8 @@ image: ungruh.png
 # the TUD email address
 email: R.Ungruh@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
-office: 3.W.680
+# Room number (e.g 840 West 4th floor)
+office: 900 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: ungruh.html

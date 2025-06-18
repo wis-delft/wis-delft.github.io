@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/in/christoph-lofi-298009145/
 image: Christoph Lofi (WIS).jpg
 email: c.lofi@tudelft.nl
 back: lofi.html
-office: Room - 3.W.780 East 3rd floor
+office: 780 West 3rd floor
 publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/7499ac08-f8c6-48ff-ab9f-48b5cd6f3a86
 
 ---
@@ -33,7 +33,6 @@ I am teaching a several Data Management courses at TU Delft, and actively work o
 * __[Plant-XR & Data-XR](https://www.crop-xr.nl/)__: Large-scale NWO LTP 10-year programme on developping a new generation of intelligent breeding tools for extra resilient crops. My tream focuses on  semantic integration and knowledge provenance management. 
 <!--- 
 * __[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)__: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
-
 
 * __Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics__: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
 * __Towards Fairer and more Reliable Data-Driven Decision Support Systems__: in collaboration with Cognizant
