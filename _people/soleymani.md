@@ -29,15 +29,10 @@ back: soleymani.html
 # Go to https://purexml.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link
-publications_link: https://purexml.ewi.tudelft.nl/convert/li/persons/aee800ee-6006-40aa-8d26-bb9c791123c3
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/aee800ee-6006-40aa-8d26-bb9c791123c3
 
 ---
 
 ## About
 
 In my research, I try to understand professional educational networks and communities, know their characteristics, and how to design an effective and productive network. Please contact me for collaboration.
-
-
-
-
-

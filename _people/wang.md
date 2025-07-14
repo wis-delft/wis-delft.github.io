@@ -50,7 +50,7 @@ back: wang.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/02a3a228-2904-4bff-b875-ba8e96efd6e8
 
 ---
 

@@ -50,7 +50,7 @@ back: ferradosa.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/e1c0b722-3c4c-4fa3-839a-34cc5adb7c88
 
 ---
 
