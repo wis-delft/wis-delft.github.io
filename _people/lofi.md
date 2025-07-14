@@ -30,28 +30,27 @@ I am teaching a several Data Management courses at TU Delft, and actively work o
 
 
 ## Current Projects and Research Lines
-* __[Plant-XR & Data-XR](https://www.crop-xr.nl/)__: Large-scale NWO LTP 10-year programme on developping a new generation of intelligent breeding tools for extra resilient crops. My tream focuses on  semantic integration and knowledge provenance management. 
-<!--- 
-* __[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)__: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
+* **[Plant-XR & Data-XR](https://www.crop-xr.nl/)**: Large-scale NWO LTP 10-year programme on developping a new generation of intelligent breeding tools for extra resilient crops. My tream focuses on  semantic integration and knowledge provenance management. 
 
-* __Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics__: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
-* __Towards Fairer and more Reliable Data-Driven Decision Support Systems__: in collaboration with Cognizant
-* __Valentine - Semantic Data Integration on Scale__ 
-* (Upcoming) __TROIKA Trustworthy Collaborative Knowledge Engineering__ NWO NGF in Nutritional and Translational Sciences: Upcoming [ICAI Lab](https://icai.ai/) 
---->
+<!--
+* **[Future Libraries Lab](https://delftdesignlabs.org/future-libraries-lab/)**: In collaboration with Royal Library Den Haag, focus on stimulating new technologies for public and academic libraries that are needed in tomorrow's world.
+* **Time Travel through Historic Maps and the long-term Role of  Planning in Developing a Response to Pandemics**: Funded by Volkswagen Foundation, in collaboration with HafenCity Universität Hamburg and History of Architecture and Urban Planning TU Delft.
+* **Towards Fairer and more Reliable Data-Driven Decision Support Systems**: in collaboration with Cognizant
+* **Valentine - Semantic Data Integration on Scale** 
+* (Upcoming) **TROIKA Trustworthy Collaborative Knowledge Engineering** NWO NGF in Nutritional and Translational Sciences: Upcoming [ICAI Lab](https://icai.ai/) 
+-->
 
-<!--- 
+
+<!--
 ## Team
 * [Lixia Chu](./chu.html), PostDoc
 * [Agathe Balayn](./balayn.html), PhD Candidate
 * [Christos Koutras](./koutras.html), PhD Candidate
-* [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate 
---->
+* [Ioannis Petros Samiotis](./samiotis.html), PhD Candidate
+-->
 
-
-
-### Education
-## Courses
+## Education
+### Courses
 
 I am currently teaching several courses at TU Delft:
 
