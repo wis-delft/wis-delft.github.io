@@ -1,6 +1,6 @@
 ---
 name: Ujwal Gadiraju
-role: Assistant Professor
+role: Associate Professor
 supervisor: Geert-Jan Houben
 filter: 3
 theme-filter: 1a
