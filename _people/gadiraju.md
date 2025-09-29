@@ -2,7 +2,7 @@
 name: Ujwal Gadiraju
 role: Associate Professor
 supervisor: Geert-Jan Houben
-filter: 3
+filter: 2
 theme-filter: 1a
 team: kappa
 office: 740 West 3rd floor
