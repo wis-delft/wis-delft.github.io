@@ -37,16 +37,16 @@ My goal is to build **intelligent, efficient, and future-ready data systems** th
 
 For more information, please check [my personal webpage](https://rihanhai.com/) and [my team’s website](https://infinidata-team.github.io/).
 
-#### Selected Publications
+##### Selected Publications
 
-#### Quantum Data Management
+##### Quantum Data Management
 1. Rihan Hai, Shih-Han Hung, Tim Coopmans, Tim Littau, and Floris Geerts. *Quantum data management in the NISQ era.* **PVLDB**, 18(6):1720–1729, 2025.  
 2. Tim Littau and Rihan Hai. *Qymera: Simulating quantum circuits using RDBMS.* In **SIGMOD**, pp. 179–182, 2025.  
 3. Rihan Hai, Shih-Han Hung, and Sebastian Feld. *Quantum data management: From theory to opportunities.* In **ICDE**, pp. 5376–5381, 2024.  
 
 ---
 
-#### AI in Data Lakes ([Funded by NWO Talent Programme Veni](https://www.nwo.nl/en/projects/viveni222439))
+##### AI in Data Lakes ([Funded by NWO Talent Programme Veni](https://www.nwo.nl/en/projects/viveni222439))
 
 **2026**  
 1. Wenbo Sun, Qiming Guo, Wenlu Wang, and Rihan Hai. *Transql+: Serving large language models with SQL on low-resource hardware.* **SIGMOD**, 2026. To appear.  
