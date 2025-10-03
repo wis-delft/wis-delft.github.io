@@ -30,9 +30,9 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/6e7de8
 
 ## About
 
-I am an Assistant Professor in the Web Information Systems (WIS) group at TU Delft, and the lead of the [InfiniData Team](https://infinidata-team.github.io/). Before joining TU Delft, I received my Ph.D. degree from RWTH Aachen University, and my Master’s and Bachelor’s degree from Tsinghua University. My research focuses on **data lakes**, **data management for machine learning**, and **quantum data management**.  
+I am an Assistant Professor in the Web Information Systems (WIS) group at TU Delft, and the lead of the [InfiniData Team](https://infinidata-team.github.io/). Before joining TU Delft, I received my Ph.D. degree from RWTH Aachen University, and my Master’s and Bachelor’s degree from Tsinghua University. My research focuses on data lakes, data management for machine learning, and quantum data management.  
 
-My goal is to build **intelligent, efficient, and future-ready data systems** that seamlessly integrate classical and quantum computing. My work bridges data management, machine learning, and quantum technologies to advance scalable AI, sustainable infrastructures, and novel computing paradigms.  
+My goal is to build *intelligent, efficient, and future-ready data systems* that seamlessly integrate classical and quantum computing. My work bridges data management, machine learning, and quantum technologies to advance scalable AI, sustainable infrastructures, and novel computing paradigms.  
 
 
 For more information, please check [my personal webpage](https://rihanhai.com/) and [my team’s website](https://infinidata-team.github.io/).
