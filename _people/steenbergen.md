@@ -24,7 +24,7 @@ email: m.a.steenbergen@tudelft.nl
 # Room number only (e.g 840 West 4th floor)
 office: 540 West 3rd floor
 back: steenbergen.html
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/da5266c7-a258-4ea2-83e7-43144f92d096
 
 ---
 

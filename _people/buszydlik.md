@@ -49,7 +49,7 @@ back: buszydlik.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/0047819e-e8d7-40e0-b3b5-78dbad43f401
 
 ---
 
