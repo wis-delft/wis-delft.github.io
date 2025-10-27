@@ -19,7 +19,7 @@ team: kappa
 linkedin: https://www.linkedin.com/in/jiy/
 twitter: https://twitter.com/yangjiera
 github: https://github.com/yangjiera
-image: Jie Yang.jpg
+image: jie.png
 email: j.yang-3@tudelft.nl
 # Room number (e.g 840 West 4th floor)
 office: 760 West 3rd floor
