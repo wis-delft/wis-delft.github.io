@@ -56,12 +56,14 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/36a819
 ---
 
 ## About
-I am an Assistant Professor at the Computing Education Research group at Delft University of Technology. My research interests include improving Machine Learning education for Computer Science students and applying Machine Learning in educational technologies.  
+I am an Assistant Professor in the AI & Computing Education Research team, which is part of the Web Information Systems group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI) at Delft University of Technology. 
+
+My research focuses on strengthening ML/AI education for engineering students and understanding where and how AI tools can be used meaningfully and responsibly in educational settings.  
 I have obtained my phd in the area of Explainable Machine Learning from the University of Amsterdam.
 
-I teach courses on Machine Learning and AI in Education and actively work on strengthening the Machine Learning Teachers Community within and outside TU Delft. 
+I teach courses on Machine Learning and AI in Education and actively work on strengthening the [Machine Learning & AI Teachers Community] (https://www.tudelft.nl/ai/onderwijs/ai-onderwijsinnovatie/machine-learning-teachers-community) within and outside TU Delft. 
 
-I also love making jewellery. I am currently pursuing a vocational education at Vakschool Schoonhoven to become a certified goldsmith. You can have a look at my newest creations through social media or on my [website](http://www.gosiamigut.com).
+I also love making jewellery. Some examples of my jewels can be found on my [personal website](https://gosiamigut.github.io).
 
 
 
