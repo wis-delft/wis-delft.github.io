@@ -105,6 +105,13 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 }
 
+
+.img-rounded-responsive {
+  max-width: 80%;
+  height: auto;
+  border-radius: 12px;
+}
+
 .form-group {
 
     padding: 20px;
