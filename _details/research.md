@@ -47,13 +47,12 @@ Currently, my main research area is engineering and science of the Web, in parti
 - To understand what human‐ and machine-generated web data represents in terms of people's actions, interests, intents, and behaviors on the web.
 - To develop new solutions to meet the fundamental challenges in how systems effectively attribute and exploit semantics for human‐ and machine-generated data, given the size and dynamic nature of the web.
 
-**Approach:** Our approach towards our objectives of understanding and developing, combines four main research areas:
+**Approach:** Our approach towards our objectives of understanding and developing, combines three main research areas:
 - Data Management
-- Human Computing & Human-Centered AI
-- Information Retrieval
-- User Modeling & Explainability
+- Human-Centered AI
+- Information Access
 
-**More info:** For more information, further details on the research activities by the WIS team are listed at the [WIS](http://www.wis.ewi.tudelft.nl/?id=297) pages or follow us on Twitter (@wisdelft).
+**More info:** For more information, further details on the research activities by the WIS team are listed at the [WIS](http://www.wis.ewi.tudelft.nl/?id=297) pages.
 
 #### Journals and conferences
 
