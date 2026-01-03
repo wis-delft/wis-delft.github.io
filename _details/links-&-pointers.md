@@ -57,6 +57,12 @@ Web: [wisdelft.nl](https://www.wisdelft.nl)
 
 Web: [wis.ewi.tudelft.nl](https://www.wis.ewi.tudelft.nl)
 
+<br/>
+
+AI, Data and Digitalisation, PVR AI (TU Delft)
+
+Web: [tudelft.nl/ai](https://www.tudelft.nl/ai)
+
 ##### Pointers:
 
 _176th Dies Natalis_
