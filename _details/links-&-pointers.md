@@ -51,17 +51,18 @@ Mail: g.j.p.m.houben@tudelft.nl
 
 <br/>
 
+AI, Data and Digitalisation, PVR AI (TU Delft)
+
+Web: [tudelft.nl/ai](https://www.tudelft.nl/ai)
+
+<br/>
+
 Web Information Systems group (TU Delft)
 
 Web: [wisdelft.nl](https://www.wisdelft.nl)
 
 Web: [wis.ewi.tudelft.nl](https://www.wis.ewi.tudelft.nl)
 
-<br/>
-
-AI, Data and Digitalisation, PVR AI (TU Delft)
-
-Web: [tudelft.nl/ai](https://www.tudelft.nl/ai)
 
 ##### Pointers:
 
