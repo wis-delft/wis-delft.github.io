@@ -22,7 +22,7 @@ role: Postdoctoral Researcher
 filter: 4
 
 # same as filter
-theme-filter: 5
+theme-filter: 4
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
 team: [delta]
