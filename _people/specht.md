@@ -16,7 +16,7 @@ theme-filter: 1
 # choose one or more teams: delta, kappa, epsilon, lambda, cel
 team: ['cel']
 linkedin: 
-twitter: https://twitter.com/marcuspecht
+twitter: 
 github:
 image: marcus.specht.jpg
 email: M.M.Specht@tudelft.nl
@@ -28,8 +28,4 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/a8816d
 
 ## About
 
-Prof. Dr. Marcus Specht is Professor for Digital Education at the Technical University of Delft and Director of the Leiden-Delft-Erasmus Center for Education and Learning. He received his Diploma in Psychology in 1995 and a Dissertation from the University of Trier in 1998 on adaptive information technology. From 2001 he headed the department "Mobile Knowledge" at the Fraunhofer Institute for Applied Information Technology (FIT). From 2005 to 2018 he was Professor for Learning Technologies at the Open Universiteit Nederland and head of the Learning Innovation Lab. His research focus is on Computational Thinking, Learning Analytics, AI in Education, and Virtual and Augmented Reality for Education. Prof. Specht is an Apple Distinguished Educator and was President (2013-2015) of the International Association of Mobile Learning.
- 
-
-
-
+Prof. Dr. Marcus Specht is Professor for Digital Education at the Technical University of Delft and Scientific Director of the CATALPA Research Center (CATALPA.DE, Center of Advanced Technology for Assisted Learning and Predictive Analytics) at the FernUniversität in Hagen Germany. Before he was Director of the Leiden-Delft-Erasmus Center for Education and Learning. He received his Diploma in Psychology in 1995 and a Dissertation from the University of Trier in 1998 on adaptive information technology. From 2001 he headed the department "Mobile Knowledge" at the Fraunhofer Institute for Applied Information Technology (FIT). From 2005 to 2018 he was Professor for Learning Technologies at the Open Universiteit Nederland and head of the Learning Innovation Lab. His research focus is on Computational Thinking, Learning Analytics, AI in Education, and Virtual and Augmented Reality for Education. Prof. Specht was President (2013-2015) of the International Association of Mobile Learning and the European Association of Technology Enhanced Learning (2022-2025).
