@@ -29,7 +29,7 @@ team: [kappa]
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/lorenzo-corti-46a22b181/
-twitter: https://twitter.com/lorenz_corti
+twitter: 
 github: https://github.com/LCorti
 webpage: https://lcorti.github.io/
 
