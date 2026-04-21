@@ -40,8 +40,8 @@ image: Esra1.jpg
 # the TUD email address
 email: e.c.s.degroot@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
-office: Room - 040 West 4th floor
+# Room number (e.g 840 West 4th floor)
+office: 700 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: degroot.html

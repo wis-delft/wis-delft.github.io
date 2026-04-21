@@ -2,15 +2,6 @@ projects:
   - title: Amalur - Next-generation Data Integration in Data Lakes
     description:  With Amalur project we believe that this is the right moment to revisit all the components of classic data integration (DI) systems, and to see how these fit into modern data lakes that are meant to support linear algebra as a first-class citizen.
     link: https://rihanhai.com/project/amalur-next-generation-data-integration-in-data-lakes/
-  - title: Valentine - Schema Matching for Data Discovery
-    description: Valentine is an extensible open-source project to execute and organize large-scale automated matching processes on tabular data either for experimentation or deployment in real world data. Valentine was published in <a href="https://www.computer.org/csdl/proceedings-article/icde/2021/918400a468/1uGXjgG4T1C">ICDE 2021</a> and <a href="http://vldb.org/pvldb/vol14/p2871-koutras.pdf">demoed</a> in VLDB 2021. 
-    link: https://delftdata.github.io/valentine/
-  - title: Clonos - Consistent Causal Recovery for Highly-Available Streaming Dataflows
-    description: Clonos is a fault tolerance approach that achieves fast operator recovery with exactly-once guarantees and high availability by instantly switching to passive standby operators. Clonos enforces causally consistent recovery, including output deduplication, by tracking nondeterminism within the system through causal logging. Clonos was presented in a SIGMOD 2021 <a href="https://dl.acm.org/doi/10.1145/3448016.3457320">paper</a>. 
-    link: https://delftdata.github.io/clonos-web/
-  - title: Transactions on Stateful Functions-as-a-Service
-    description: This project deals with executing transactions (two-phase commit and SAGAs) on Stateful Functions-as-a-Service systems such as Apache Flink's <a href="http://statefun.io">Statefun</a>. This work has been awarded the <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">best paper award</a> in ACM DEBS 2021. 
-    link: https://github.com/delftdata/flink-statefun-transactions
   - title: Optimizing ML Inference Queries under Constraints
     description: Optimizing ML inference queries is hard, especially when constraints (e.g., accuracy or execution time) have to be satisfied, and the complexity of the inference query increases. This project aims to tackle constraint-based ML inference query optimization problem. The proposed optimizer aims at high effectiveness, and can navigate a large search space to find optimal query plans on various model zoos.
     link: https://www.wis.ewi.tudelft.nl/assets/files/opt-ml-query.pdf

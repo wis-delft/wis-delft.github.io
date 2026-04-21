@@ -42,9 +42,11 @@ layout: default_style
 
                     {% unless page.details > 0 %}
                     <h2 id="publications">Publications</h2>
+                    {% if page.publications_link %}
                     <div id="publicationlist">
                         {% include get_publications.html pub_link=page.publications_link%}
                     </div>
+                    {% endif %}
                     {% endunless %}
                 </div>
             </div>

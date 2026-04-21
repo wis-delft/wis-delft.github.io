@@ -5,7 +5,7 @@
 # !!!! 
 
 # Your full name (Firstname, Lastname)
-name: Anne, Arzberger
+name: Anne Arzberger
 
 # The members are displayed in a hierarchical way, so please choose the role (e.g. Full Professor, Assistant Professor etc) 
 # and filter number (e.g. 1, 2, 3) from this list and fill in the role and filter from below:
@@ -41,7 +41,7 @@ image: arzberger.jpg
 email: a.arzberger@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: Room - 540 West 3rd floor
+office: 700 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: arzberger.html

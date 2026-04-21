@@ -49,17 +49,20 @@ Web: [wis.ewi.tudelft.nl/houben](https://www.wis.ewi.tudelft.nl/houben)
 
 Mail: g.j.p.m.houben@tudelft.nl
 
-Twitter: [@gjhouben](https://twitter.com/gjhouben)
+<br/>
+
+_AI, Data and Digitalisation, PVR AI (TU Delft)_
+
+Web: [tudelft.nl/ai](https://www.tudelft.nl/en/ai)
 
 <br/>
+
 _Web Information Systems group (TU Delft)_
+
 Web: [wisdelft.nl](https://www.wisdelft.nl)
 
 Web: [wis.ewi.tudelft.nl](https://www.wis.ewi.tudelft.nl)
 
-Twitter: [@wisdelft](https://twitter.com/wisdelft)
-
-Phone: +31 15 27 87486
 
 ##### Pointers:
 

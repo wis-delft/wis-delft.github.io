@@ -41,3 +41,5 @@ In Delft, he has been involved in a number of activities: as scientific director
 
 Since, 2020, he is serving as Pro Vice Rector Magnificus Artificial Intelligence, Data and Digitalisation (PVR AI) at TU Delft.
 The PVR AI leads the TU Delft activities in the field of AI, data and digitalisation, for education, for research and valorisation, and for relevant support. This includes the establishment of TU Delft AI Labs to promote cross-fertilisation between AI experts and scientists who use AI in their research. It also includes the representation of TU Delft in regional, national and international co-operation on this theme.
+
+He is an Officer in the Orde van Oranje-Nassau.

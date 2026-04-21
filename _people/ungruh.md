@@ -25,7 +25,7 @@ filter: 5
 theme-filter: 5 
 
 # choose your team(s) from the following list: delta, kappa, epsilon, lambda, cel
-team: []
+team: [lambda]
 
 # provide social URLs (if any)
 linkedin: https://www.linkedin.com/in/robin-ungruh/
@@ -40,8 +40,8 @@ image: ungruh.jpg
 # the TUD email address
 email: R.Ungruh@tudelft.nl
 
-# Room number (e.g Room - 840 West 4rd floor)
-office: 3.W.900
+# Room number (e.g 840 West 4th floor)
+office: 900 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: ungruh.html
@@ -60,6 +60,3 @@ I am a PhD candidate in the Web Information Systems group at TU Delft, supervise
 My research is centered on unraveling the complexities of children’s interactions with recommender systems, aiming to understand their experiences and developing methods to ensure safe interactions within this vulnerable user group.
 
 I obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
-
-
-

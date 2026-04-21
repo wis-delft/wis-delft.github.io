@@ -98,11 +98,6 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.wis.ewi.tudelft.nl/katsifodimos</loc>
-  <lastmod>2023-05-31T08:35:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>https://www.wis.ewi.tudelft.nl/lofi</loc>
   <lastmod>2023-05-31T08:35:24+00:00</lastmod>
   <priority>0.64</priority>
@@ -449,11 +444,6 @@
 </url>
 <url>
   <loc>https://www.wis.ewi.tudelft.nl/pera.html</loc>
-  <lastmod>2023-05-31T08:35:24+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.wis.ewi.tudelft.nl/katsifodimos.html</loc>
   <lastmod>2023-05-31T08:35:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>

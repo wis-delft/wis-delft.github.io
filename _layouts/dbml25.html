@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+
+{% include head.html description="DBML 2025"%}
+
+<section id="banner252" class="dbml services-section section-colored">
+
+
+    <nav class="dbml-nav navbar fixed-top" role="navigation">
+        <div class="container">
+
+            <div id="navbar-dbdbd" class="navbar-collapse navbar-responsive-collapse">
+                <div class="row align-items-center">
+                    <div class="col-md-2 offset-xs-2 col-xs-2">
+                        <img src="{{site.baseurl}}/assets/DBML_logo/DBML2025-white.svg"/>
+                    </div>
+
+                    <div class="col-xs-8 col-md-10">
+                        <ul class="nav pull-right flex-row justify-content-center">
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#about">About</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#keynote">Speakers</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#program">Program</a>
+                            </li>
+<!--                            <li class="pr-4">-->
+<!--                                <a href="{{site.baseurl}}/dbml2025#panel">Panel</a>-->
+<!--                            </li>-->
+<!--                            <li class="pr-4">-->
+<!--                                <a href="{{site.baseurl}}/dbml2025#submission">Submission</a>-->
+<!--                            </li>-->
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#important-dates">Important Dates</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#guidelines">Submission and Author Guidelines</a>
+                            </li>
+                            <li class="pr-4">
+                                <a href="{{site.baseurl}}/dbml2025#organisation">Organisation</a>
+                            </li>
+<!--                            <li class="pr-4">-->
+<!--                                <a href="{{site.baseurl}}/dbml2025#sponsors">Attendance Support</a>-->
+<!--                            </li>-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="title" class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1> 4th International Workshop on Databases and Machine Learning </h1>
+            </div>
+            <div class="col-md-12">
+                <h4> in conjunction with <a href="https://ieee-icde.org/2025/" target="_blank">ICDE 2025</a> | May
+                    19<sup>th</sup>-23<sup>rd</sup> 2025 </h4>
+            </div>
+        </div>
+    </div>
+
+</section>
+<body class="dbml">
+{{ content }}
+</body>
+
+<footer class="pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-6 margin-top-2">
+                <div class="row">
+                    <p style="color: white">&copy; DBML 2025 </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    const navbar = document.querySelector('.fixed-top');
+    window.onscroll = () => {
+        if (window.scrollY > 300) {
+            navbar.classList.remove('dbml-nav');
+            navbar.classList.add('nav-colored');
+        } else {
+            navbar.classList.remove('nav-colored');
+            navbar.classList.add('dbml-nav')
+        }
+    };
+</script>
+
+
+</html>

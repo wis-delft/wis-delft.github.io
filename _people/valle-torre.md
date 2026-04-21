@@ -22,8 +22,8 @@ twitter: https://twitter.com/mvallet91
 github: https://github.com/mvallet91/
 image: Manuel Valle Torre-2021-CEL.jpg
 email: m.valletorre@tudelft.nl
-# Room number (e.g Room - 840 West 4rd floor)
-office: 
+# Room number (e.g 840 West 4th floor)
+office: 540 West 3rd floor
 # The name of the file with .html extension (If the filename is andra.md, the "back" field will be andra.html)
 back: valle-torre.html
 # Go to https://purexml.ewi.tudelft.nl 
