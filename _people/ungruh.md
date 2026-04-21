@@ -35,13 +35,13 @@ github: https://github.com/rUngruh
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
-image: ungruh.png
+image: ungruh.jpg
 
 # the TUD email address
 email: R.Ungruh@tudelft.nl
 
 # Room number (e.g Room - 840 West 4rd floor)
-office: 3.W.680
+office: 3.W.900
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: ungruh.html
