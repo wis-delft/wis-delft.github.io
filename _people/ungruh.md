@@ -35,7 +35,7 @@ github: https://github.com/rUngruh
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
 # write the exact name of the image as it appears in GitHub  
-image: ungruh.png
+image: ungruh.jpg
 
 # the TUD email address
 email: R.Ungruh@tudelft.nl
@@ -60,6 +60,3 @@ I am a PhD candidate in the Web Information Systems group at TU Delft, supervise
 My research is centered on unraveling the complexities of children’s interactions with recommender systems, aiming to understand their experiences and developing methods to ensure safe interactions within this vulnerable user group.
 
 I obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
-
-
-
