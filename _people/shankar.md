@@ -29,6 +29,7 @@ team: [delta]
 linkedin: https://www.linkedin.com/in/aashankar/
 twitter: 
 github: https://github.com/adis98
+webpage: https://adis98.github.io
 
 # look for your image here: https://github.com/wis-delft/wis-delft.github.io/tree/master/assets/img/people 
 # if your image doesn't exist, upload it in assets/img/people 
@@ -52,4 +53,4 @@ publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/46a59a
 
 ## About
 
-I am a PhD candidate at Distributed Systems and Web Information Systems. My supervisors are Dr. Lydia Y. Chen, Dr. Rihan Hai, and Dr. Arie van Deursen. My research interests are distributed learning, privacy-preserving learning, and federated learning. 
+I am a PhD student at the Data-Intensive Systems and Web Information Systems groups. My supervisors are Drs. Lydia Chen, Rihan Hai, and Arie van Deursen. My main research focus is on diffusion models for structured data generation (time series or tables) under quality or privacy constraints. I also work sometimes on federated/distributed learning projects. You can read more about my research on my personal website: https://adis98.github.io 
