@@ -36,8 +36,8 @@ details: 1
 
 **Leading** the TU Delft activities in the field of AI, data and digitalisation, 
 for education, for research and valorisation, and for relevant support. 
-This includes the establishment of TU Delft AI Labs to promote cross-fertilisation between 
-AI experts and scientists who use AI in their research. It also includes the representation of TU Delft in regional,
+This includes the establishment of AI Labs to promote cross-fertilisation between 
+AI experts and scientists who use AI in their research as well as with societal and industrial stakeholders. It also includes the representation of TU Delft in regional,
 national and international co-operation on this theme.
 
 **Full professor** of Web Information Systems (WIS) at the Software Technology (ST) department at Delft University 
