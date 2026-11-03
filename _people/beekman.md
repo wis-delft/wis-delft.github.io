@@ -49,7 +49,7 @@ back: beekman.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/58aba8ed-5bb9-443b-b9c4-a8e77b2b1cad
 
 ---
 

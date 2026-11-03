@@ -24,7 +24,7 @@ email: I.E.I.Rentea@tudelft.nl
 # Room number only (e.g 840 West 4th floor)
 office: 540 West 3rd floor
 back: rentea.html
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/271d80d7-aac3-45cd-aed4-671b2ab4ed17
 
 ---
 

@@ -50,7 +50,7 @@ back: vanDalen.html
 # Go to https://purexml-open.ewi.tudelft.nl 
 # choose Query Type = Person, search term = your name, Style = as a list
 # generate url and copy the link in the publications_link field below
-publications_link: 
+publications_link: https://purexml-open.ewi.tudelft.nl/convert/li/persons/4caf264e-ce63-4820-b7b1-c3247dc0cb70
 
 ---
 
