@@ -16,7 +16,7 @@ name: Yujie Li
 # Research Engineer - 6 
 # Guest Researcher - 7
 # Secretary - 8
-role: PhD Candidate
+role: Postdoctoral Researcher
 filter: 4
 
 # same as filter
