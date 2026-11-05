@@ -41,7 +41,7 @@ image: shreyan.jpg
 email: s.biswas@tudelft.nl
 
 # Room number (e.g 840 West 4th floor)
-office: 700 West 3rd floor
+office: 920 West 3rd floor
 
 # The name of this file with .html extension instead of .md (If the filename is ionescu.md, the "back" field will be ionescu.html)
 back: biswas.html
@@ -59,7 +59,3 @@ I am a PhD candidate in the Web Information Systems group at TU Delft, supervise
 Interdisciplinarity is central to my research methodology. I enjoy exploring domains such as Psychology, Philosophy, and Neuroscience to identify isomorphic patterns, which I then strive to integrate into Computer Science.
 
 My current research focuses on Generative AI in the context of Human-Computer Interaction.
-
-
-
-
